@@ -1,0 +1,11 @@
+Origin: TQM - Mos  ™
+Label: TQM - Mos  ™
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: Kho Lưu Trữ Tinh Chỉnh Tốt Nhất 🤩
+MD5Sum:
+ edfb958f0f6872c0d8167fec72c5c621 122915 Packages
+ 9a3ce1776711b294cc982bd2847c221c 29768 Packages.bz2

@@ -1,0 +1,10 @@
+{
+    "compatitle":"iOS 13, 18.x",
+    "desc_long":"• Laetus cung cấp những cách gần như không giới hạn để tùy chỉnh bàn phím iOS.<br>• Laetus bao gồm một số loại chủ đề khác nhau<br>• Màu sắc: Đơn giản là màu nền, sắc thái và văn bản<br>• Hình ảnh: Chọn hình ảnh từ thư viện ảnh của bạn để hiển thị ở chế độ nền<br>• Chủ đề hình ảnh: Chủ đề được xây dựng bằng hình ảnh và thiết lập cho các kích thước màn hình khác nhau. Cung cấp trải nghiệm theo chủ đề bàn phím hoàn chỉnh.<br>• Chủ đề HTML: Các chủ đề được xây dựng bằng HTML/Javascript/CSS cung cấp chủ đề bàn phím tương tác và thậm chí là hoạt hình<br>• Chủ đề tiện ích: Các chủ đề được xây dựng bằng Objective-c mang lại trải nghiệm theo chủ đề hoàn chỉnh có thể được cung cấp bởi các nhà phát triển iOS.",
+    "screenshots":[
+        "img/laetus1.png",
+        "img/laetus2.png",
+        "img/laetus3.png",
+        "img/laetus4.png"
+    ]
+}

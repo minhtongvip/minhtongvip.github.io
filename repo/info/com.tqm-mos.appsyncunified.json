@@ -1,0 +1,109 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://tqm-mos.com/img/logo/cert.png",
+  "minVersion": "0.3",
+  "itemSize": "{330, 110}",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Mô tả",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:12pt;\">Thư viện động AppSync hợp nhất cho iOS 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 và 16</p>\n<p style=\"font-size:12pt;\">AppSync Unified và bẻ khóa KHÔNG dành cho vi phạm bản quyền.</p>\n<p style=\"font-size:12pt;\">AppSync Unified và bẻ khóa mang lại sự tự do cho thiết bị iOS của bạn.</p>\n<p style=\"font-size:12pt;\">AppSync Unified là một tinh chỉnh vá lỗi installd để cho phép cài đặt các gói IPA chưa ký, giả mạo hoặc đã ký đặc biệt trên thiết bị iOS.</p>\n<p style=\"font-size:12pt;\">AppSync Unified có thể được sử dụng để hạ cấp hoặc sao chép các ứng dụng đã cài đặt, để tải xuống IPA giả mạo (thường là trình giả lập) và cũng để hỗ trợ phát triển ứng dụng iOS bằng Xcode.</p>\n<p style=\"font-size:12pt;\">Không nên sử dụng AppSync Unified để vi phạm bản quyền ứng dụng iOS. Vui lòng hỗ trợ các nhà phát triển ứng dụng iOS và không vi phạm bản quyền!</p>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{430, 430}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/repo/img/appsyncunified.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Phiên bản hiện tại 🍎",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "5.0 - 16.X",
+          "title": "Hỗ trợ"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Liên hệ & Hỗ trợ",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://zalo.me/0868388373",
+          "class": "DepictionTableButtonView",
+          "title": "Zalo (TQM-MOS)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:anhminh311105@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Gmail"
+        },
+        {
+          "action": "https://www.paypal.me/tranquangminh2202",
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ tôi 🍺 PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    }
+  ],
+  "tintColor": "#1182c4"
+}

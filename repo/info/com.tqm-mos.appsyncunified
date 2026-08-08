@@ -1,0 +1,7 @@
+{
+    "compatitle":"iOS 4, 18.x",
+    "desc_long":"• AppSync Unified là một tinh chỉnh vá lỗi installd để cho phép cài đặt các gói IPA chưa ký, giả mạo hoặc đã ký đặc biệt trên thiết bị iOS.",
+    "screenshots":[
+        "img/appsyncunified.png"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "compatitle":"iOS 11, 16.x",
+    "desc_long":"• Six (LS) mang giao diện cổ điển của iOS 6 lên màn hình khóa của bạn.<br>• Các tính năng hiện tại: trượt để mở khóa, thông báo, chế độ xem sạc, âm thanh và hơn thế nữa!<br>• Six (LS) là mã nguồn mở trên GitHub. Hãy thoải mái đóng góp hoặc báo cáo các vấn đề để làm cho nó tốt hơn nữa!",
+    "screenshots":[
+        "img/sixls1.png",
+        "img/sixls2.png",
+        "img/sixls3.png"
+    ]
+}

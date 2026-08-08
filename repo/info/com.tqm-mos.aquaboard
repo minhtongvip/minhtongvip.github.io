@@ -1,0 +1,8 @@
+{
+    "compatitle":"iOS 5, 7.x",
+    "desc_long":"• Tạo những gợn sóng khi ta chạm vào bất cứ nơi nào trên màn hình SpringBoard, màn hình khoá (LockScreen) của bạn.<br>• Tweak sử dụng OpenGL ES 2.0 để render các gợn sóng nước mát mẻ trên màn hình.<br>• Nó có 10 chủ đề khác nhau có hiệu lực tạo gợn (kích cỡ/chiều sâu) và một số tùy chọn tùy chỉnh.<br>• Không gây hao pin, OpenGL dừng lại khi các hiệu ứng gợn sóng ngưng.",
+    "screenshots":[
+        "img/aquaboard1.png",
+        "img/aquaboard2.png"
+    ]
+}

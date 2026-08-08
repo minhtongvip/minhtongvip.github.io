@@ -1,0 +1,212 @@
+/* TQM-Mos Modern CSS */
+*{margin:0;padding:0;box-sizing:border-box;}
+
+html,body{
+background:#f4f6fb;
+}
+
+body{
+font-family:"TQM";
+margin:0 auto;
+padding:16px;
+line-height:1.6;
+overflow:hidden !important;
+}
+
+#your_ios {
+    text-align:center;
+}
+
+.compatible {
+    color: #28a745;
+    font-weight: 700;
+}
+
+.not-compatible {
+    color: #dc3545;
+    font-weight: 700;
+}
+
+.card,fieldset{
+background:#fff;
+border-radius:16px;
+box-shadow:0 4px 14px rgba(0,0,0,.08);
+}
+
+.card{
+padding:16px;
+margin:14px 0;
+}
+
+.fieldset{
+border:0;
+overflow:hidden;
+margin:10px 0;
+padding:0;
+}
+
+.section-title,.support-title{
+font-weight:700;
+color:#0a66ff;
+}
+
+.support-title{
+font-size:18px;
+margin:28px 0 18px;
+}
+
+.logo{
+text-align:center;
+}
+.logo img{
+width:100%;
+border-radius:16px;
+background:linear-gradient(180deg,rgba(255,255,255,.55),rgba(255,255,255,.18)) !important;
+backdrop-filter:blur(10px) saturate(180%);
+-webkit-backdrop-filter:blur(10px) saturate(180%);
+border:1px solid rgba(255,255,255,.45);
+box-shadow:inset 0 1px 0 rgba(255,255,255,.8), inset 0 -1px 0 rgba(255,255,255,.15), 0 8px 30px rgba(0,0,0,.12);
+}
+
+.link-item{
+display:flex;
+align-items:center;
+gap:12px;
+min-height:56px;
+padding:12px 16px;
+text-decoration:none;
+color:inherit;
+font-size:17px;
+font-weight:600;
+}
+
+.link-item:hover{
+background:rgba(10,102,255,.08);
+}
+
+.icon,.link-item .icon{
+width:40px;
+height:40px;
+object-fit:contain;
+}
+
+.support-card{
+    padding:18px;
+}
+
+.support-card .section-title{
+    margin-bottom:16px;
+}
+
+.support-row{
+    text-align:center;
+    margin-bottom:18px;
+}
+
+.support-btn{
+    display:inline-block;
+    width:46%;
+    height:44px;
+    line-height:44px;
+    margin:0 1.5%;
+    background:#f5f5f7;
+    border-radius:12px;
+    text-decoration:none;
+    color:#1d1d1f;
+    font-weight:700;
+    text-align:center;
+    vertical-align:middle;
+    white-space:nowrap;
+}
+
+.qr-box{
+    text-align:center;
+}
+
+.qr-box img{
+    width:100px;
+    border-radius:2px;
+}
+
+.donate-text{ 
+    margin-top:10px; 
+    font-size:14px; 
+    color:#8e8e93;
+    font-weight:500;
+}
+
+.gallery{
+    width:320px;
+    max-width:320px;
+    white-space:nowrap;
+    overflow-x:auto;
+    overflow-y:hidden;
+    -webkit-overflow-scrolling:touch;
+    padding:10px 2px;
+}
+
+.gallery::-webkit-scrollbar{
+    display:none;
+}
+
+.gallery img{
+    display:inline-block;
+    width:190px;
+    max-width:190px;
+    height:auto;
+    border-radius:14px;
+    box-shadow:0 8px 24px rgba(0,0,0,.18);
+}
+
+.gallery a{
+    display:inline-block;
+    margin-right:14px;
+}
+
+#screenshot{
+overflow:visible;
+}
+
+@media(prefers-color-scheme:dark){
+html,body{background:#111;}
+body{color:#eee;}
+.card,fieldset{
+background:#1c1c1e;
+box-shadow:none;
+}
+
+.link-item{
+color:#fff;
+}
+
+.link-item:hover{
+background:#2c2c2e;}
+}
+
+@media(max-width:768px){body{padding:12px;}}
+
+@font-face{
+    font-family:"TQM";
+    src:url("https://tqm-mos.com/css/font/TQM1.ttf") format('truetype');
+    font-weight:400;
+    font-style:normal;
+    font-display:swap;
+}
+
+@font-face{
+    font-family:"TQM";
+    src:url("https://tqm-mos.com/css/font/TQM2.ttf") format('truetype');
+    font-weight:700;
+    font-style:normal;
+    font-display:swap;
+}
+
+.footer{
+    margin:30px auto 20px;
+    text-align:center;
+    font-size:14px;
+    color:#8e8e93;
+    opacity:.85;
+    letter-spacing:.2px;
+    font-weight:700;
+}

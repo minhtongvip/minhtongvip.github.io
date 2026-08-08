@@ -1,0 +1,117 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://tqm-mos.com/img/logo/cert.png",
+  "minVersion": "0.3",
+  "itemSize": "{330, 110}",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Mô tả",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:12pt;\">Bridge: Trải nghiệm màn hình chính của Apple Watch được đưa lên iOS</p>\n<p style=\"font-size:12pt;\">Tính năng dễ nhận biết nhất của Apple Watch là bố cục lưới của các biểu tượng ứng dụng của nó. Bridge là một sự thay thế màn hình chính đầy đủ, truyền tải các chỉnh sửa huyền thoại của những năm qua như Aeternum, Watchboard & Honey. Phong cách của màn hình chính có thể được thay đổi nhanh chóng thông qua trang trong Cài đặt, nút chuyển đổi Trung tâm điều khiển hoặc thông qua tiện ích Màn hình chính.</p>\n<p style=\"font-size:12pt;\">(Lưu ý: Bridge sử dụng chế độ xem riêng để hiển thị lưới biểu tượng, do đó nó phải tương thích với tất cả các chỉnh sửa tùy chỉnh màn hình chính)</p>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{430, 430}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/repo/img/bridge1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/repo/img/bridge2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/repo/img/bridge3.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Phiên bản hiện tại 🍎",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "15.0 - 17.X",
+          "title": "Hỗ trợ"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Liên hệ & Hỗ trợ",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://zalo.me/0868388373",
+          "class": "DepictionTableButtonView",
+          "title": "Zalo (TQM-MOS)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:anhminh311105@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Gmail"
+        },
+        {
+          "action": "https://www.paypal.me/tranquangminh2202",
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ tôi 🍺 PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    }
+  ],
+  "tintColor": "#1182c4"
+}

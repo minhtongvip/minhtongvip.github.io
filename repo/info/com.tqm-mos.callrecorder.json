@@ -1,0 +1,113 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://tqm-mos.com/img/logo/cert.png",
+  "minVersion": "0.3",
+  "itemSize": "{330, 110}",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Mô tả",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:12pt;\">Call Recorder (Audio Recorder) - phần mềm ghi âm cuộc gọi đầu tiên trên iPhone.</p>\n<p style=\"font-size:12pt;\">Với Call Recorder bạn có thể ghi lại các cuộc gọi điện thoại bạn cần để nghe để sau này, chẳng hạn như các cuộc gọi kinh doanh, bổ nhiệm, sắp xếp, vv... và bạn có thể lưu trữ chúng tại trên iPhone của bạn. Sau đó, bạn có thể nghe chúng, gửi vào email của bạn hoặc xóa chúng.</p>\n<p style=\"font-size:12pt;\">Bên nhận cuộc gọi sẽ nghe một tin nhắn thoại cảnh báo rằng cuộc gọi sẽ được ghi lại tại đầu ghi âm của bạn. (sự đồng ý của bên kia là cần thiết theo quy định của pháp luật ở nhiều nước)</p>\n<p style=\"font-size:12pt;\">Call Recorder không sử dụng một máy chủ từ xa để lưu trữ các cuộc gọi của bạn, giống như các ứng dụng khác. Nó ghi lại các dữ liệu dịch vụ thoại trực tiếp trên thiết bị! Không cần phải có kết nối internet khi bạn ghi lại một cuộc gọi.</p>\n<p style=\"font-size:12pt;\">Ứng dụng này chỉ hoạt động trên iPhone 4S và iPhone 5. Một bản cập nhật sẽ có trong một thời gian sau đó để hỗ trợ các thiết bị cũ.</p>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{430, 430}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/repo/img/audiorecorder21.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/repo/img/audiorecorder22.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Phiên bản hiện tại 🍎",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "5.0 - 8.X",
+          "title": "Hỗ trợ"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Liên hệ & Hỗ trợ",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://zalo.me/0868388373",
+          "class": "DepictionTableButtonView",
+          "title": "Zalo (TQM-MOS)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:anhminh311105@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Gmail"
+        },
+        {
+          "action": "https://www.paypal.me/tranquangminh2202",
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ tôi 🍺 PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    }
+  ],
+  "tintColor": "#1182c4"
+}

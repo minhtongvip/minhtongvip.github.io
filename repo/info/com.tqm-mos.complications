@@ -1,0 +1,10 @@
+{
+    "compatitle":"iOS 12, 16.x",
+    "desc_long":"• Đưa các tiện ích Apple Watch đến màn hình khóa iPhone của bạn.<br>• Mỗi tiện ích hoạt hình đẹp mắt và cập nhật suốt cả ngày mà không làm giảm thời lượng pin.<br>• Nhận tất cả thông tin bạn cần chỉ trong nháy mắt.<br>• Nhấn vào một tổ hợp để mở nhanh ứng dụng của tổ hợp đó và nhận thêm thông tin.<br>• Định vị x/y tùy chỉnh cho phép bạn di chuyển các tiện ích để phù hợp với thiết lập của mình.<br>• Bạn thậm chí có thể chọn số lượng hàng và cột mà bạn muốn.",
+    "screenshots":[
+        "img/complications1.png",
+        "img/complications2.png",
+        "img/complications3.png",
+        "img/complications4.png"
+    ]
+}

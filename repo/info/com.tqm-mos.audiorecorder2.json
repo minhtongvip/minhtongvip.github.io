@@ -1,0 +1,113 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://tqm-mos.com/img/logo/cert.png",
+  "minVersion": "0.3",
+  "itemSize": "{330, 110}",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Mô tả",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:12pt;\">Audio Recorder 2, tweak ghi âm cuộc gọi được mong chờ nhất trên iPhone!</p>\n<p style=\"font-size:12pt;\">Hàng tá tính năng mới được thêm vào phiên bản lần này như:</p>\n<p style=\"font-size:11pt;\">- Ghi âm cuộc gọi từ hầu hết dịch vụ thoại (Điện thoại, FaceTime, Skype, Viber, Messenger, Tango, LINE,...)</p>\n<p style=\"font-size:11pt;\">- Ghi âm âm thanh hệ thống: Ghi lại mọi âm thanh từ loa điện thoại (những gì bạn nghe được)</p>\n<p style=\"font-size:11pt;\">- Tự động đồng bộ bản ghi âm lên Dropbox hoặc Google Drive</p>\n<p style=\"font-size:11pt;\">- Gán liên hệ cụ thể để tự động ghi âm mỗi khi có điện thoại từ số liên lạc đó đến</p>\n<p style=\"font-size:11pt;\">- Chia sẻ bản ghi âm tới mọi ứng dụng hỗ trợ trên thiết bị</p>\n<p style=\"font-size:11pt;\">- Gửi bản ghi âm qua email, iMessage, hoặc các ứng dụng có hỗ trợ</p>\n<p style=\"font-size:11pt;\">- Sử dụng trình duyệt web để dễ dàng sao chép mọi bản ghi từ điện thoại lên máy tính</p>\n<p style=\"font-size:11pt;\">- Gán thao tác Activator để mở giao diện ghi âm</p>\n<p style=\"font-size:11pt;\">- Quản lý cuộc ghi âm cho từng ứng dụng riêng</p>\n<p style=\"font-size:11pt;\">- Cải thiện trình phát ghi âm và giao diện.</p>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{430, 430}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/repo/img/audiorecorder21.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/repo/img/audiorecorder22.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Phiên bản hiện tại 🍎",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "8.0 - 10.X",
+          "title": "Hỗ trợ"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Liên hệ & Hỗ trợ",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://zalo.me/0868388373",
+          "class": "DepictionTableButtonView",
+          "title": "Zalo (TQM-MOS)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:anhminh311105@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Gmail"
+        },
+        {
+          "action": "https://www.paypal.me/tranquangminh2202",
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ tôi 🍺 PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    }
+  ],
+  "tintColor": "#1182c4"
+}

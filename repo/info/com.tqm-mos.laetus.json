@@ -1,0 +1,121 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://tqm-mos.com/img/logo/cert.png",
+  "minVersion": "0.3",
+  "itemSize": "{330, 110}",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Mô tả",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:12pt;\"> Laetus cung cấp những cách gần như không giới hạn để tùy chỉnh bàn phím iOS.</p>\n<p style=\"font-size:12pt;\"> Laetus bao gồm một số loại chủ đề khác nhau</p>\n<p style=\"font-size:12pt;\"> Màu sắc: Đơn giản là màu nền, sắc thái và văn bản</p>\n<p style=\"font-size:12pt;\"> Hình ảnh: Chọn hình ảnh từ thư viện ảnh của bạn để hiển thị ở chế độ nền</p>\n<p style=\"font-size:12pt;\"> Chủ đề hình ảnh: Chủ đề được xây dựng bằng hình ảnh và thiết lập cho các kích thước màn hình khác nhau. Cung cấp trải nghiệm theo chủ đề bàn phím hoàn chỉnh.</p>\n<p style=\"font-size:12pt;\">Chủ đề HTML: Các chủ đề được xây dựng bằng HTML/Javascript/CSS cung cấp chủ đề bàn phím tương tác và thậm chí là hoạt hình </p>\n<p style=\"font-size:12pt;\"> Chủ đề tiện ích: Các chủ đề được xây dựng bằng Objective-c mang lại trải nghiệm theo chủ đề hoàn chỉnh có thể được cung cấp bởi các nhà phát triển iOS.</p>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{430, 430}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/repo/img/laetus1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/repo/img/laetus2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/repo/img/laetus3.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/repo/img/laetus4.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Phiên bản hiện tại 🍎",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "13.0 - 18.X",
+          "title": "Hỗ trợ"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Liên hệ & Hỗ trợ",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://zalo.me/0868388373",
+          "class": "DepictionTableButtonView",
+          "title": "Zalo (TQM-MOS)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:anhminh311105@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Gmail"
+        },
+        {
+          "action": "https://www.paypal.me/tranquangminh2202",
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ tôi 🍺 PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    }
+  ],
+  "tintColor": "#1182c4"
+}

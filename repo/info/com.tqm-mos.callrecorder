@@ -1,0 +1,8 @@
+{
+    "compatitle":"iOS 5, 8.x",
+    "desc_long":"• Call Recorder (Audio Recorder) - phần mềm ghi âm cuộc gọi đầu tiên trên iPhone.<br>• Với Call Recorder bạn có thể ghi lại các cuộc gọi điện thoại bạn cần để nghe để sau này, chẳng hạn như các cuộc gọi kinh doanh, bổ nhiệm, sắp xếp, vv... và bạn có thể lưu trữ chúng tại trên iPhone của bạn. Sau đó, bạn có thể nghe chúng, gửi vào email của bạn hoặc xóa chúng.<br>• Bên nhận cuộc gọi sẽ nghe một tin nhắn thoại cảnh báo rằng cuộc gọi sẽ được ghi lại tại đầu ghi âm của bạn. (sự đồng ý của bên kia là cần thiết theo quy định của pháp luật ở nhiều nước)<br>• Call Recorder không sử dụng một máy chủ từ xa để lưu trữ các cuộc gọi của bạn, giống như các ứng dụng khác. Nó ghi lại các dữ liệu dịch vụ thoại trực tiếp trên thiết bị! Không cần phải có kết nối internet khi bạn ghi lại một cuộc gọi.<br>• Ứng dụng này chỉ hoạt động trên iPhone 4S và iPhone 5. Một bản cập nhật sẽ có trong một thời gian sau đó để hỗ trợ các thiết bị cũ.",
+    "screenshots":[
+        "img/audiorecorder21.png",
+        "img/audiorecorder22.png"
+    ]
+}

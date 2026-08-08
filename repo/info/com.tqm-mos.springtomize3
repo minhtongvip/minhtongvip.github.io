@@ -1,0 +1,9 @@
+{
+    "compatitle":"iOS 7, 9.x",
+    "desc_long":"• Springtomize là một tweak giúp bạn tùy chỉnh những gì bạn cần trên iDevice của bạn. Với khả năng tùy chỉnh giao diện SpringBoard. Bạn có thể vô hiệu hóa những yếu tố mà bạn không sử dụng hoặc làm chậm điện thoại của bạn. Ban có thể tùy chỉnh giao diện hiển thị icon, dock và status bar thậm chí cả LockScreen của bạn...<br>• Springtomize cũng có chức năng giúp bạn lưu lại Layout của SpringBoard để khôi phục lại nó khi cần mà không phải bấm vào từng icon để di chuyển một cách khó khăn.<br>• Trong phần Theming bạn có thể tùy chỉnh làm cho Dock trong suốt, Icon trong suốt hoặc thiết lâp độ sáng của hình nền mà không cần sử dụng một công cụ chỉnh sửa hình ảnh nào khác...",
+    "screenshots":[
+        "img/springtomize1.png",
+        "img/springtomize2.png",
+        "img/springtomize3.png"
+    ]
+}

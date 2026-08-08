@@ -1,0 +1,9 @@
+{
+    "compatitle":"iOS 15, 17.x",
+    "desc_long":"• Bridge: Trải nghiệm màn hình chính của Apple Watch được đưa lên iOS<br>• Tính năng dễ nhận biết nhất của Apple Watch là bố cục lưới của các biểu tượng ứng dụng của nó. Bridge là một sự thay thế màn hình chính đầy đủ, truyền tải các chỉnh sửa huyền thoại của những năm qua như<br>• Aeternum, Watchboard & Honey. Phong cách của màn hình chính có thể được thay đổi nhanh chóng thông qua trang trong Cài đặt, nút chuyển đổi Trung tâm điều khiển hoặc thông qua tiện ích Màn hình chính.<br>• (Lưu ý: Bridge sử dụng chế độ xem riêng để hiển thị lưới biểu tượng, do đó nó phải tương thích với tất cả các chỉnh sửa tùy chỉnh màn hình chính)",
+    "screenshots":[
+        "img/bridge1.png",
+        "img/bridge2.png",
+        "img/bridge3.png"
+    ]
+}

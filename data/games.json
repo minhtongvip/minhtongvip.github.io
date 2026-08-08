@@ -1,0 +1,1160 @@
+[
+    {
+      "name": "Shadow Fight 3",
+      "bundle": "com.nekki.shadowfight3",
+      "icon": "img/icon/ShadowFight3.png",
+      "banner": "img/banner/ShadowFight3.png",
+      "features":  [
+        "One Hit",
+        "Dumb Enemy"
+    ],
+      "versions":[
+    {
+      "version":"1.45.3",
+      "link":"https://link4m.org/otbDUR"
+    },
+    {
+      "version":"1.45.3",
+      "link":"https://www.mediafire.com/file/0n50qk2v5q1xsth/ShadowFight3_TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Temple Run 2",
+      "bundle": "com.imangi.templerun2",
+      "icon": "img/icon/TempleRun2.png",
+      "banner": "img/banner/TempleRun2.png",
+      "features":  [
+        "Tiền xu vô hạn",
+        "Đá quý vô hạn",
+        "Không có quảng cáo",
+        "x2 xu",
+        "Mở khóa tất cả nhân vật"
+    ],
+      "versions":[
+    {
+      "version":"1.114.0",
+      "link":"https://link4m.com/CJrceM"
+    },
+    {
+      "version":"1.114.0",
+      "link":"https://www.mediafire.com/file/ze97xwf4u2vtl0b/TempleRun2-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Temple Run",
+      "bundle": "com.imangi.templerun",
+      "icon": "img/icon/TempleRun.png",
+      "banner": "img/banner/TempleRun.png",
+      "features":  [
+        "Tiền xu vô hạn",
+        "Đá quý vô hạn",
+        "Không có quảng cáo",
+        "x2 xu",
+        "Mở khóa tất cả nhân vật"
+    ],
+      "versions":[
+    {
+      "version":"1.19.1",
+      "link":"https://link4m.com/a4BpuzcB"
+    },
+    {
+      "version":"1.19.1",
+      "link":"https://archive.org/download/temple-run-tqm/TempleRun-TQM.ipa",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Sonic Dream Team",
+      "bundle": "com.sega.sonicdash",
+      "icon": "img/icon/SonicDreamTeam.png",
+      "banner": "img/banner/SonicDreamTeam.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions":[
+    {
+      "version":"1.1.2",
+      "link":"https://link4m.com/wKogkKu"
+    },
+    {
+      "version":"1.1.2",
+      "link":"https://archive.org/download/sonic-dream-team-1.1.2-tqm/SonicDreamTeam_1.1.2-TQM.ipa",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Sonic Dash",
+      "bundle": "com.sega.sonicdash",
+      "icon": "img/icon/SonicDash.png",
+      "banner": "img/banner/SonicDash.png",
+      "features":  [
+        "Sức mạnh không giới hạn",
+        "Tiền tệ không giới hạn",
+        "Mức độ tối đa",
+        "Mở khóa nhân vật"
+    ],
+      "versions":[
+    {
+      "version":"9.3.0",
+      "link":"https://link4m.org/eR8sD8O"
+    },
+    {
+      "version":"9.3.0",
+      "link":"https://www.mediafire.com/file/0yl1ffmdlsuuv17/SonicDash+_TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Space Shooter",
+      "bundle": "com.game.space.shooter2",
+      "icon": "img/icon/SpaceShooter.png",
+      "banner": "img/banner/SpaceShooter.png",
+      "features":  [
+        "Không bao giờ chết",
+        "1 bắn chết ngay lập tức"
+    ],
+      "versions":[
+    {
+      "version":"1.947",
+      "link":"https://link4m.net/UYLLzJ74"
+    },
+    {
+      "version":"1.947",
+      "link":"https://www.mediafire.com/file/qx4ii5m7pff5sri/SpaceShooter-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Metal Slug",
+      "bundle": "com.snkplaymore.MS1",
+      "icon": "img/icon/MetalSlug.png",
+      "banner": "img/banner/MetalSlug.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions":[
+    {
+      "version":"1.4.1",
+      "link":"https://link4m.com/PhEFmN"
+    },
+    {
+      "version":"1.4.1",
+      "link":"https://archive.org/download/metal-slug-tqm/MetalSlug-TQM.ipa",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Street Fighter IV CE",
+      "bundle": "jp.co.capcom.sf4cewd",
+      "icon": "img/icon/StreetFighterIVCE.png",
+      "banner": "img/banner/StreetFighterIVCE.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions":[
+    {
+      "version":"1.08.02",
+      "link":"https://link4m.org/3tERYG"
+    },
+    {
+      "version":"1.08.02",
+      "link":"https://drive.google.com/file/d/13VY4gBZVez5lIjyFTUnaxZ5kwwXCrb0S/view?usp=drivesdk",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Monument Valley",
+      "bundle": "com.ustwo.monumentvalley",
+      "icon": "img/icon/MonumentValley.png",
+      "banner": "img/banner/MonumentValley.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions":[
+    {
+      "version":"3.9.744",
+      "link":"https://link4m.org/0hHOdd"
+    },
+    {
+      "version":"3.9.744",
+      "link":"https://www.mediafire.com/file/zbxdk3ksliuy61x/MonumentValley_3.9.744-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Monument 2",
+      "bundle": "com.ustwo.monumentvalley2",
+      "icon": "img/icon/Monument2.png",
+      "banner": "img/banner/Monument2.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions":[
+    {
+      "version":"3.10.604",
+      "link":"https://link4m.net/5YS2G"
+    },
+    {
+      "version":"3.10.604",
+      "link":"https://www.mediafire.com/file/2yc8a92sxr5kld8/Monument2_3.10.604-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "AlienShooter - Survive",
+      "bundle": "com.sigma-team.alienshootermobile",
+      "icon": "img/icon/AlienShooterSurvive.png",
+      "banner": "img/banner/AlienShooterSurvive.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions":[
+    {
+      "version":"1.2.4",
+      "link":"https://link4m.net/yQButbC"
+    },
+    {
+      "version":"1.2.4",
+      "link":"https://www.mediafire.com/file/x45y6r1d4tezeb6/AlienShooter-Survive_1.2.4-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "AlienShooter",
+      "bundle": "com.sigma-team.alienshootermobile",
+      "icon": "img/icon/AlienShooter.png",
+      "banner": "img/banner/AlienShooter.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions":[
+    {
+      "version":"1.2.7",
+      "link":"https://link4m.org/DgJer9"
+    },
+    {
+      "version":"1.2.7",
+      "link":"https://www.mediafire.com/file/ggyfb51crmauar9/AlienShooter_1.2.7-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Grim Soul",
+      "bundle": "fantasy.survival.game.rpg",
+      "icon": "img/icon/GrimSoul.png",
+      "banner": "img/banner/GrimSoul.png",
+      "features":  [
+        "Lưu trữ vật phẩm không giới hạn.",
+        "Năng lượng không giới hạn / Nạp năng lượng tức thì",
+        "Chế độ Bất tử.",
+        "Tiêu diệt tức thì - Liên kết với kẻ thù. Nên bật Chế độ Bất tử",
+        "Tăng phạm vi tấn công",
+        "Chế tạo miễn phí",
+        "Không yêu cầu cấp độ chế tạo",
+        "Xây dựng miễn phí",
+        "Nhân đôi vật phẩm khi chia tách",
+        "Độ bền vật phẩm không giới hạn",
+        "Mở khóa hầm ngục",
+        "Mở khóa tất cả rương",
+        "Tốc độ tấn công cao",
+        "Vật phẩm không bị giảm",
+        "Tiêu thụ 1 năng lượng",
+        "Có thể mở chế độ Anh hùng",
+        "Có thể mở chế độ Thường",
+        "Hack tốc độ người chơi -> Thay đổi tốc độ người chơi trong thanh trượt!"
+    ],
+      "versions":[
+    {
+      "version":"8.2.6",
+      "link":"https://link4m.net/5XeP9p"
+    },
+    {
+      "version":"8.2.6",
+      "link":"https://www.mediafire.com/file/c9oiixyqo4it9hq/GrimSoul_TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "8 Ball Pool",
+      "bundle": "com.miniclip.8ballpoolmult",
+      "icon": "img/icon/8BallPool.png",
+      "banner": "img/banner/8BallPool.png",
+      "features":  [
+        "Tự động nhắm mục tiêu",
+        "Bắn một phát Hiển thị đường kẻ"
+    ],
+      "versions":[
+    {
+      "version":"56.26.1",
+      "link":"https://link4m.org/ZUlgGZM"
+    },
+    {
+      "version":"56.26.1",
+      "link":"https://www.mediafire.com/file/yka3zylktjwfj83/8BallPool-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Dokkan Battle",
+      "bundle": "jp.co.bandainamcogames.BNGI0221",
+      "icon": "img/icon/DokkanBattle.png",
+      "banner": "img/banner/DokkanBattle.png",
+      "features":  [
+        "Sát thương cao",
+        "Phòng thủ cao",
+        "HP cao"
+    ],
+      "versions":[
+    {
+      "version":"6.4.0",
+      "link":"https://link4m.net/zBRpv2yx"
+    },
+    {
+      "version":"6.4.0",
+      "link":"https://www.mediafire.com/file/6nlc7g34cs1e0r1/DokkanBattle-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Contra Guns",
+      "bundle": "com.edkongames.cgsg",
+      "icon": "img/icon/ContraGuns.png",
+      "banner": "img/banner/ContraGuns.png",
+      "features":  [
+        "Không giật súng",
+        "Không phân tán đạn",
+        "Không hiệu ứng lựu đạn choáng",
+        "Không hiệu ứng khói",
+        "Điều chỉnh tầm nhìn"
+    ],
+      "versions":[
+    {
+      "version":"1.35",
+      "link":"https://link4m.net/mYzek6Ak"
+    },
+    {
+      "version":"1.35",
+      "link":"https://www.mediafire.com/file/tah7rpck3lwco0m/ContraGuns-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Township",
+      "bundle": "com.playrix.township-ios",
+      "icon": "img/icon/Township.png",
+      "banner": "img/banner/Township.png",
+      "features":  [
+        "Đóng băng tiền tệ",
+        "Sửa lỗi đăng nhập",
+        "✍️Nếu bạn không thể tải file lưu, hãy cài đặt ipa bằng Altstore hoặc Sideloadly"
+    ],
+      "versions":[
+    {
+      "version":"37.0.2",
+      "link":"https://link4m.org/A64bOSl"
+    },
+    {
+      "version":"37.0.2",
+      "link":"https://www.mediafire.com/file/ndfzqkmi0h50rlv/Township-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Shadow Fight 2",
+      "bundle": "com.nekki.shadowfight",
+      "icon": "img/icon/ShadowFight2.png",
+      "banner": "img/banner/ShadowFight2.png",
+      "features":  [
+        "Bất Tử",
+        "Tấn Công Tầm Xa",
+        "Vàng Vô Hạn",
+        "Đá Quý Vô Hạn",
+        "Cấp Độ Tối Đa"
+    ],
+      "versions":[
+    {
+      "version":"2.46.0",
+      "link":"https://link4m.net/Eq6SnM1"
+    },
+    {
+      "version":"2.46.0",
+      "link":"https://www.mediafire.com/file/j1wx6iencs7h21l/ShadowFight2-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Homescapes",
+      "bundle": "com.playrix.gardenscapes-sweethome",
+      "icon": "img/icon/Homescapes.png",
+      "banner": "img/banner/Homescapes.png",
+      "features":  [
+        "Lượt chơi vô hạn",
+        "Vật phẩm hỗ trợ vô hạn",
+        "Mạng sống vô hạn",
+        "Mở khóa Season Pass* (Nhấn vào nút mua. Ban đầu có vẻ như không có gì xảy ra. Thoát khỏi khu vực Season Pass. Quay lại. Nó sẽ hiển thị đã được mở khóa. Và được lưu lại như vậy)",
+        "Lưu ý✍️: Nếu bạn gặp lỗi kết nối, hãy cài đặt trò chơi thông qua sideloadly."
+
+    ],
+      "versions":[
+    {
+      "version":"8.9.701",
+      "link":"https://link4m.org/2232MaKY"
+    },
+    {
+      "version":"8.9.701",
+      "link":"https://www.mediafire.com/file/9e4yauk1w3uq6vi/Homescapes-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Metal Slug 5",
+      "bundle": "com.snk.acams5",
+      "icon": "img/icon/MetalSlug5.png",
+      "banner": "img/banner/MetalSlug5.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions":[
+    {
+      "version":"1.1.0",
+      "link":"https://link4m.org/DCJY0s"
+    },
+    {
+      "version":"1.1.0",
+      "link":"https://www.mediafire.com/file/pbfgly9ni2lvryz/METALSLUG5ACANEOGEO-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Metal Slug X",
+      "bundle": "com.snkplaymore.MSX",
+      "icon": "img/icon/MetalSlugX.png",
+      "banner": "img/banner/MetalSlugX.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions":[
+    {
+      "version":"1.4.2",
+      "link":"https://link4m.net/po1QLUQP"
+    },
+    {
+      "version":"1.4.2",
+      "link":"https://www.mediafire.com/file/m39c1c6aawzipud/MetalSlugX-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Metal Slug 3",
+      "bundle": "com.snkplaymore.MS3",
+      "icon": "img/icon/MetalSlug3.png",
+      "banner": "img/banner/MetalSlug3.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions":[
+    {
+      "version":"1.5.1",
+      "link":"https://link4m.org/9vWcdyr"
+    },
+    {
+      "version":"1.5.1",
+      "link":"https://www.mediafire.com/file/g7kfwbt2q48no4i/MetalSlug3-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Metal Slug 2",
+      "bundle": "com.snkplaymore.MS2",
+      "icon": "img/icon/MetalSlug2.png",
+      "banner": "img/banner/MetalSlug2.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions":[
+    {
+      "version":"1.4.1",
+      "link":"https://link4m.org/M2svU2si"
+    },
+    {
+      "version":"1.4.1",
+      "link":"https://www.mediafire.com/file/bq02igxt72t90zk/MetalSlug2-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Minecraft",
+      "bundle": "com.mojang.minecraftpe",
+      "icon": "img/icon/Minecraft.png",
+      "banner": "img/banner/Minecraft.png",
+      "features":  [
+        "Trả phí trên App Store",
+        "Chỉ hỗ trợ đăng nhập cho Trollstore"
+    ],
+      "versions":[
+    {
+      "version":"1.26.33",
+      "link":"https://link4m.net/af7ZH"
+    },
+    {
+      "version":"1.26.33",
+      "link":"https://www.mediafire.com/file/io44vqmb9wd3tzu/Minecraft-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "PvZ",
+      "bundle": "com.ea.pvzfree.bv",
+      "icon": "img/icon/PlantsvsZombies.png",
+      "banner": "img/banner/PlantsvsZombies.png",
+      "features":  [
+        "Mặt trời vô hạn",
+        "Phân bón, Thuốc diệt côn trùng và Sô cô la vô hạn",
+        "Tiền xu vô hạn",
+        "Tuổi thọ cây vô hạn",
+        "Không có thời gian chờ"
+    ],
+      "versions":[
+    {
+      "version":"3.16.0",
+      "link":"https://link4m.org/IxVHvCV"
+    },
+    {
+      "version":"3.16.0",
+      "link":"https://www.mediafire.com/file/rbjpsfsqj67bflf/PvZ-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "PvZ 2",
+      "bundle": "com.popcap.ios.PvZ2",
+      "icon": "img/icon/PlantsvsZombies2.png",
+      "banner": "img/banner/PlantsvsZombies2.png",
+      "features":  [
+        "Xu không giới hạn",
+        "Kim cương không giới hạn",
+        "Bạc hà không giới hạn",
+        "Mặt trời không giới hạn - Sẽ tăng thay vì giảm."
+    ],
+      "versions":[
+    {
+      "version":"998",
+      "link":"https://link4m.net/eyIB4Qy"
+    },
+    {
+      "version":"998",
+      "link":"https://www.mediafire.com/file/tr01hph1pr4i7eh/PvZ2-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "PvZ 3",
+      "bundle": "com.ea.ios.pvzn3xt",
+      "icon": "img/icon/PlantsvsZombies3.png",
+      "banner": "img/banner/PlantsvsZombies3.png",
+      "features":  [
+        "Đóng băng Mặt Trời",
+        "Đóng băng Phân bón cho cây trồng",
+        "Đóng băng Khuyến mãi",
+        "Không có thời gian chờ hồi sinh cây trồng"
+    ],
+      "versions":[
+    {
+      "version":"30.0.36",
+      "link":"https://link4m.org/rATkso"
+    },
+    {
+      "version":"30.0.36",
+      "link":"https://www.mediafire.com/file/3l8rcmzirutyr1b/PvZ3-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "DB LEGENDS",
+      "bundle": "jp.co.bandainamcoent.BNEI0334",
+      "icon": "img/icon/DBLEGENDS.png",
+      "banner": "img/banner/DBLEGENDS.png",
+      "features":  [
+        "Hạ gục đối thủ chỉ bằng một đòn đánh",
+        "Không tốn Ki",
+        "Không cần chờ hồi chiêu khi đổi nhân vật",
+        "Không cần chờ hồi chiêu khi biến mất",
+        "Tự động hoàn thành tất cả thử thách!"
+    ],
+      "versions":[
+    {
+      "version":"6.25.0",
+      "link":"https://link4m.net/1Z9Ia"
+    },
+    {
+      "version":"6.25.0",
+      "link":"https://www.mediafire.com/file/enjjcy7llc474y7/DBLEGENDS-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Zombie Tsunami",
+      "bundle": "net.mobigame.ZombieCarnaval",
+      "icon": "img/icon/ZombieTsunami.png",
+      "banner": "img/banner/ZombieTsunami.png",
+      "features":  [
+        "Mua hàng trong ứng dụng miễn phí"
+    ],
+      "versions":[
+    {
+      "version":"4.7.0",
+      "link":"https://link4m.net/cJ7mdhx2"
+    },
+    {
+      "version":"4.7.0",
+      "link":"https://www.mediafire.com/file/ikhwoehiem617kk/ZombieTsunami-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "LIMBO+",
+      "bundle": "com.playdeadgames.limbo.arcade",
+      "icon": "img/icon/LIMBO.png",
+      "banner": "img/banner/LIMBO.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions":[
+    {
+      "version":"1.0.1",
+      "link":"https://link4m.org/mqjW1N6m"
+    },
+    {
+      "version":"1.0.1",
+      "link":"https://www.mediafire.com/file/2mkyhk6c8ya24wg/LIMBO%252B-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "LIMBO",
+      "bundle": "com.playdeadgames.limbo.ios",
+      "icon": "img/icon/LIMBO.png",
+      "banner": "img/banner/LIMBO.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions":[
+    {
+      "version":"1.2.2",
+      "link":"https://link4m.net/6eIsaq"
+    },
+    {
+      "version":"1.2.2",
+      "link":"https://www.mediafire.com/file/1tp2u16k8jqggif/LIMBO-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Zooba",
+      "bundle": "com.fungames.battleroyale",
+      "icon": "img/icon/Zooba.png",
+      "banner": "img/banner/Zooba.png",
+      "features":  [
+        "Hack bản đồ",
+        "Cho phép chụp trong nước"
+    ],
+      "versions":[
+    {
+      "version":"6.4.0",
+      "link":"https://link4m.net/sPaBqEa"
+    },
+    {
+      "version":"6.4.0",
+      "link":"https://www.mediafire.com/file/lhz59ee1h88qrt0/Zooba-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Liên Quân Mobile",
+      "bundle": "com.garena.game.kgvn",
+      "icon": "img/icon/LienQuanMobile.png",
+      "banner": "img/banner/LienQuanMobile.png",
+      "features":  [
+        "Cam xa",
+        "Maps sáng",
+        "3 ngón chạm 2 lần mở Menu",
+        "Lưu ý : Đánh kín"
+    ],
+      "versions":[
+    {
+      "version":"1.63.1.5 + No Menu",
+      "link":"https://link4m.net/H8Np7"
+    },
+    {
+      "version":"1.63.1.5 + Menu",
+      "link":"https://www.mediafire.com/file/8ajiglvnbfy0ij1/LienQuanMobile_TQM-VIP.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "INSIDE",
+      "bundle": "com.playdeadgames.inside.ios",
+      "icon": "img/icon/INSIDE.png",
+      "banner": "img/banner/INSIDE.png",
+      "features":  [
+        "Trả phí trên App Store",
+        "Mở khoá toàn bộ",
+        "Lưu ý✍️: Mỗi lần bạn mở trò chơi, hãy nhấp vào mua toàn bộ trò chơi rồi Hủy"
+    ],
+      "versions":[
+    {
+      "version":"1.1.10",
+      "link":"https://link4m.org/eRr7fa"
+    },
+    {
+      "version":"1.1.14",
+      "link":"https://www.mediafire.com/file/vb4db1i7kpgrr7d/INSIDE_1.1.14-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Streets of Rage 4",
+      "bundle": "com.playdigious.streetsofrage4",
+      "icon": "img/icon/StreetsofRage4.png",
+      "banner": "img/banner/StreetsofRage4.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions":[
+    {
+      "version":"1.0.9",
+      "link":"https://link4m.org/dnBqsx"
+    },
+    {
+      "version":"1.0.9",
+      "link":"https://drive.google.com/file/d/198G7KsmZi7SIbhWPTRYO_Qz3EUgziBQJ/view?usp=drivesdk",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Dead Cells",
+      "bundle": "com.playdigious.deadcells.applearcade",
+      "icon": "img/icon/DeadCells.png",
+      "banner": "img/banner/DeadCells.png",
+      "features":  [
+        "Trả phí trên Appstore",
+        "Bình hồi máu không giới hạn",
+        "Bùa mê không giới hạn (Giết chết chỉ bằng một đòn)",
+        "Tiền xu không giới hạn",
+        "Tế bào không giới hạn",
+        "Đạn không giới hạn",
+        "Không có thời gian hồi chiêu",
+        "Giết người không giới hạn mà không cần trúng đòn",
+        "Không bị nhiễm bệnh tật",
+        "Hủy bỏ lời nguyền chỉ với một lần giết",
+        "Nhảy không giới hạn",
+        "Đặt lại bộ đếm thời gian",
+        "Miễn phí mua trong ứng dụng"
+    ],
+      "versions":[
+    {
+      "version":"3.3.13",
+      "link":"https://link4m.net/yoDVanY7"
+    },
+    {
+      "version":"3.3.13",
+      "link":"https://drive.google.com/file/d/1VrK7k1VuPHyggPDGL_a9ky8V9sF9jUt8/view?usp=drivesdk",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Shadow Knight",
+      "bundle": "com.fansipan.stickman.fight.shadow.knight",
+      "icon": "img/icon/ShadowKnight.png",
+      "banner": "img/banner/ShadowKnight.png",
+      "features":  [
+        "Không bao giờ chết",
+        "Sát thương cao",
+        "Luôn thắng (PVP)"
+    ],
+      "versions":[
+    {
+      "version":"3.24.361",
+      "link":"https://link4m.org/4zBhHA"
+    },
+    {
+      "version":"3.24.361",
+      "link":"https://www.mediafire.com/file/1g2p5fr04mqbmr8/ShadowKnight_TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Shadow War",
+      "bundle": "com.shadow.war.legend.slime.idle.rpg.survival.game",
+      "icon": "img/icon/ShadowWar.png",
+      "banner": "img/banner/ShadowWar.png",
+      "features":  [
+        "Tiền tệ không giới hạn",
+        "Không bao giờ chết"
+    ],
+      "versions":[
+    {
+      "version":"1.0.41",
+      "link":"https://link4m.org/mlB6cV6"
+    },
+    {
+      "version":"1.0.41",
+      "link":"https://www.mediafire.com/file/zq8wy06mu4tqvew/ShadowWar-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Subway City",
+      "bundle": "com.sybogames.subway.surfers.game",
+      "icon": "img/icon/SubwayCity.png",
+      "banner": "img/banner/SubwayCity.png",
+      "features":  [
+        "Xu không giới hạn",
+        "Chìa khóa không giới hạn",
+        "Hồi sinh không giới hạn",
+        "Token không giới hạn",
+        "Mở khóa tất cả ván trượt",
+        "Mở khóa tất cả người chơi"
+    ],
+      "versions":[
+    {
+      "version":"2.3.1",
+      "link":"https://link4m.org/Ku07iNZ"
+    },
+    {
+      "version":"2.3.1",
+      "link":"https://www.mediafire.com/file/gm2kfagbsruzv1s/SubwayCity-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Subway Surfers",
+      "bundle": "com.kiloo.subwaysurfers",
+      "icon": "img/icon/SubwaySurfers.png",
+      "banner": "img/banner/SubwaySurfers.png",
+      "features":  [
+        "Cửa hàng miễn phí (không phải mua trong ứng dụng miễn phí)",
+        "Mở khóa trang phục nhân vật",
+        "Chiều cao nhảy tùy chỉnh",
+        "Không bị kẹt (Để kết thúc màn chơi, vuốt sang trái cho đến khi chóng mặt, vuốt lại và bạn sẽ thua)"
+    ],
+      "versions":[
+    {
+      "version":"3.65.1",
+      "link":"https://link4m.com/GoudG"
+    },
+    {
+      "version":"3.65.1",
+      "link":"https://www.mediafire.com/file/fuagn24lqgk83a1/SubwaySurf-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Getting Over It",
+      "bundle": "net.Foddy.GettingOverIt",
+      "icon": "img/icon/GettingOverIt.png",
+      "banner": "img/banner/GettingOverIt.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions":[
+    {
+      "version":"1.14",
+      "link":"https://link4m.com/ahZc9p"
+    },
+    {
+      "version":"1.14",
+      "link":"https://www.mediafire.com/file/r8dxgvjhv84h3o6/GettingOverIt-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Hungry Shark World",
+      "bundle": "com.ziau.sharkworld",
+      "icon": "img/icon/HungrySharkWorld.png",
+      "banner": "img/banner/HungrySharkWorld.png",
+      "features":  [
+        "Xu không giới hạn",
+        "Kim cương không giới hạn",
+        "Ngọc trai không giới hạn",
+        "Đóng băng máu",
+        "Tăng tốc đóng băng",
+        "Mở khóa tất cả",
+        "Không trọng lực",
+        "Mở khóa Gói Mùa giải"
+    ],
+      "versions":[
+    {
+      "version":"7.6.6",
+      "link":"https://link4m.com/T1VTtCL"
+    },
+    {
+      "version":"7.6.6",
+      "link":"https://www.mediafire.com/file/tswe3ltf9fei2v8/HungrySharkWorld-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Hungry Shark Evolution",
+      "bundle": "com.fgol.HungrySharkEvolution",
+      "icon": "img/icon/HungrySharkEvolution.png",
+      "banner": "img/banner/HungrySharkEvolution.png",
+      "features":  [
+        "Xu không giới hạn",
+        "Kim cương không giới hạn",
+        "Không quảng cáo"
+    ],
+      "versions":[
+    {
+      "version":"12.8.3",
+      "link":"https://link4m.com/aK1Xqh"
+    },
+    {
+      "version":"12.8.3",
+      "link":"https://www.mediafire.com/file/wnfbqu9b5ly62yl/HungrySharkEvolution-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Gardenscapes",
+      "bundle": "com.plrx.gardenscapes-vn",
+      "icon": "img/icon/Gardenscapes.png",
+      "banner": "img/banner/Gardenscapes.png",
+      "features":  [
+        "Lượt di chuyển vô hạn",
+        "Vật phẩm hỗ trợ vô hạn",
+        "Mạng sống vô hạn",
+        "LƯU Ý✍️: Nếu bạn gặp lỗi kết nối, đó là do bạn không sử dụng cùng một ID Apple được tải xuống từ bên ngoài với tài khoản iCloud của mình"
+    ],
+      "versions":[
+    {
+      "version":"9.7.5",
+      "link":"https://link4m.org/8PIi2"
+    },
+    {
+      "version":"9.7.5",
+      "link":"https://www.mediafire.com/file/165lz4gzihqjxta/Gardenscapes-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Fruit Ninja Classic",
+      "bundle": "com.Halfbrick.Fruit",
+      "icon": "img/icon/FruitNinjaClassic.png",
+      "banner": "img/banner/FruitNinjaClassic.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions":[
+    {
+      "version":"2.4.6",
+      "link":"https://link4m.org/mUjkev"
+    },
+    {
+      "version":"2.4.6",
+      "link":"https://www.mediafire.com/file/2dptauhnv2888w2/FruitNinjaClassic-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Coin Master",
+      "bundle": "com.mobile-softing.coinmaster",
+      "icon": "img/icon/CoinMaster.png",
+      "banner": "img/banner/CoinMaster.png",
+      "features":  [
+        "Đã thêm iGameGod (để tăng tốc)"
+    ],
+      "versions":[
+    {
+      "version":"3.5.2641",
+      "link":"https://link4m.org/oHgqrRx"
+    },
+    {
+      "version":"3.5.2641",
+      "link":"https://www.mediafire.com/file/s2dqmdtx2m7s7rc/CoinMaster-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Clash of Clan",
+      "bundle": "nt.nc.ios",
+      "icon": "img/icon/ClashofClan.png",
+      "banner": "img/banner/ClashofClan.png",
+      "features":  [
+        "Kim cương Vô hạn",
+        "Xu Vô hạn",
+        "Tài nguyên Vô hạn",
+        "Máy chủ riêng",
+        "Chế độ nhiều người chơi"
+    ],
+      "versions":[
+    {
+      "version":"18.400.7",
+      "link":"https://link4m.net/OFVE0jH"
+    },
+    {
+      "version":"18.400.7",
+      "link":"https://www.mediafire.com/file/6wni6ujc113yh71/ClashofClan-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Candy Crush Saga",
+      "bundle": "com.midasplayer.apps.candycrushsaga",
+      "icon": "img/icon/CandyCrushSaga.png",
+      "banner": "img/banner/CandyCrushSaga.png",
+      "features":  [
+        "Mạng sống không giới hạn",
+        "Vật phẩm hỗ trợ không giới hạn"
+    ],
+      "versions":[
+    {
+      "version":"1.324.3",
+      "link":"https://link4m.org/eIT2HE"
+    },
+    {
+      "version":"1.324.3",
+      "link":"https://www.mediafire.com/file/5xk61yhbhgqh2n9/CandyCrushSaga+_TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Archero 2",
+      "bundle": "com.xq.archeroii",
+      "icon": "img/icon/Archero2.png",
+      "banner": "img/banner/Archero2.png",
+      "features":  [
+        "Đã thêm IGG",
+        "Tăng tốc quảng cáo (Chờ thêm 5 giây trước khi thoát quảng cáo để chắc chắn nhận được phần thưởng)",
+        "Trong Hầm ngục: Làm chậm trò chơi ở tốc độ 0.1 và nhập HP của bạn! Nhận một lần trúng đòn và nhập giá trị mới. Chỉnh sửa I4 & I8 thành (số HP Nax) sau đó đóng băng số đó)",
+        "Cập nhật: Không bao giờ đặt HP của bạn vượt quá HP tối đa! Điều đó sẽ khiến tài khoản của bạn bị gắn cờ và cấm! Vì vậy, nếu bạn có HP tối đa là 512, hãy đóng băng nó ở mức 512 HP!"
+    ],
+      "versions":[
+    {
+      "version":"1.0.13",
+      "link":"https://link4m.net/DZ5pFh"
+    },
+    {
+      "version":"1.0.13",
+      "link":"https://www.mediafire.com/file/u3jbwxhdm3khuvq/Archeroii-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Archero",
+      "bundle": "com.mb.archero.hero",
+      "icon": "img/icon/Archero.png",
+      "banner": "img/banner/Archero.png",
+      "features":  [
+        "Tiêu diệt chỉ bằng một phát bắn",
+        "Không bao giờ chết",
+        "Đóng băng kẻ thù"
+    ],
+      "versions":[
+    {
+      "version":"6.9.4",
+      "link":"https://link4m.net/BSq4o4Ay"
+    },
+    {
+      "version":"6.9.4",
+      "link":"https://www.mediafire.com/file/qhhxqrs35k8tlz9/Archero-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Archer Hunter",
+      "bundle": "co.imba.archero",
+      "icon": "img/icon/ArcherHunter.png",
+      "banner": "img/banner/ArcherHunter.png",
+      "features":  [
+        "Kim cương [Hồi sinh để bị vô hiệu hóa sau khi hack]",
+        "Xu [Nâng cấp vũ khí để bị vô hiệu hóa sau khi hack]",
+        "HP [Kiểm tra trạng thái]",
+        "ATK [Kiểm tra trạng thái]"
+    ],
+      "versions":[
+    {
+      "version":"0.22.362",
+      "link":"https://link4m.net/jY70HQq"
+    },
+    {
+      "version":"0.22.362",
+      "link":"https://www.mediafire.com/file/3reth893x9bf9t2/ArcherHunter-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Jetpack 2",
+      "bundle": "com.halfbrick.jetpack",
+      "icon": "img/icon/Jetpack2.png",
+      "banner": "img/banner/Jetpack2.png",
+      "features":  [
+        "Tiền tệ không giới hạn"
+    ],
+      "versions":[
+    {
+      "version":"3.5.10",
+      "link":"https://link4m.org/bXCF7Cb"
+    },
+    {
+      "version":"3.5.10",
+      "link":"https://www.mediafire.com/file/h0pnn2i75usns9c/Jetpack2-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    }
+  ]
+

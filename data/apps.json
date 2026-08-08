@@ -1,0 +1,1662 @@
+[
+    {
+      "name": "RingTones Manager",
+      "bundle": "com.netskao.ringtonesmanager",
+      "icon": "img/icon/RingTonesManager.png",
+      "banner": "img/banner/RingTonesManager.png",
+      "features":  [
+        "Hỗ trợ TrollStore"
+    ],
+      "versions": [
+    {
+      "version":"1.1-4",
+      "link":"https://link4m.com/Cgeol"
+    },
+    {
+      "version":"1.1-4",
+      "link":"https://archive.org/download/ring-tones/RingTones.ipa",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Gemini",
+      "bundle": "com.google.geminirm",
+      "icon": "img/icon/Gemini.png",
+      "banner": "img/banner/Gemini.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"1.2025.1370008",
+      "link":"https://link4m.net/SLXZwJ"
+    },
+    {
+      "version":"1.2025.1370008",
+      "link":"https://www.mediafire.com/file/hefg5me5wqe6edr/Gemini_1.2025.1370008-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "SMPRO",
+      "bundle": "com.plusblog.smpro",
+      "icon": "img/icon/SMPRO.png",
+      "banner": "img/banner/SMPRO.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"5.5",
+      "link":"https://link4m.com/3nSwrEU"
+    },
+    {
+      "version":"5.5",
+      "link":"https://archive.org/download/smpro-5.5-tqm/SMPRO_5.5-TQM.ipa",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Telegram",
+      "bundle": "ph.telegra.Telegraph",
+      "icon": "img/icon/Telegram.png",
+      "banner": "img/banner/Telegram.png",
+      "features":  [
+        "Nhấn giữ 'Hỏi một câu hỏi' để mở Menu.",
+        "Chống thu hồi — Tin nhắn đã xóa sẽ không biến mất nữa.",
+        "Chế độ ẩn danh — Luôn ẩn danh: Không ai có thể thấy trạng thái trực tuyến, trạng thái đang gõ hoặc đọc tin nhắn của bạn.",
+        "Đọc không để lại dấu vết — Tin nhắn đã đọc không để lại dấu vết.",
+        "Chống chỉnh sửa — Xem văn bản gốc ngay cả khi tin nhắn đã được chỉnh sửa. (Đang phát triển)",
+        "Không quảng cáo — Không có quảng cáo hoặc bài đăng được tài trợ.",
+        "Lưu phương tiện bị hạn chế — Lưu các tệp phương tiện ngay cả trong các khu vực bị vô hiệu hóa.",
+        "Chống thông báo chụp màn hình — Ảnh chụp màn hình sẽ không gửi thông báo.",
+        "Chống tự hủy — Ảnh và video tự hủy sẽ không biến mất sau khi được xem. Telegram: Nhấn giữ câu hỏi thứ ba từ cuối trong cài đặt để mở plugin."
+    ],
+      "versions": [
+    {
+      "version":"12.2.4",
+      "link":"https://link4m.net/Y75zu"
+    },
+    {
+      "version":"12.2.4",
+      "link":"https://www.mediafire.com/file/zu3wremi6241d86/Telegram_12.2.4-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Telegram 6",
+      "bundle": "ph.telegra.Telegraph",
+      "icon": "img/icon/Telegram.png",
+      "banner": "img/banner/Telegram.png",
+      "features":  [
+        "Hỗ trợ iOS 6 đến 10.3.3"
+    ],
+      "versions": [
+    {
+      "version":"0.93",
+      "link":"https://link4m.net/7IGP9"
+    },
+    {
+      "version":"0.93",
+      "link":"https://www.mediafire.com/file/9y2zt37nnpids82/Telegram_IOS6-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "AudioRecorder",
+      "bundle": "net.limneos.AudioRecorder",
+      "icon": "img/icon/AudioRecorder.png",
+      "banner": "img/banner/AudioRecorder.png",
+      "features":  [
+        "Hỗ trợ TrollStore"
+    ],
+      "versions": [
+    {
+      "version":"6.0.3",
+      "link":"https://link4m.net/RRhZsN"
+    },
+    {
+      "version":"6.0.3",
+      "link":"https://www.mediafire.com/file/v3wucv9i6o5oepx/AudioRecorder_TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Timemark",
+      "bundle": "com.oceangalaxy.camera",
+      "icon": "img/icon/Timemark.png",
+      "banner": "img/banner/Timemark.png",
+      "features":  [
+        "Loại bỏ Logo"
+    ],
+      "versions": [
+    {
+      "version":"4.0.26",
+      "link":"https://link4m.net/bQrRSnMv"
+    },
+    {
+      "version":"4.0.26",
+      "link":"https://www.mediafire.com/file/a27k1mu7z8o0g9l/Timemark_4.0.26-TQM.ipa/file",
+      "vip": true
+    },
+    {
+      "version":"10.0.170",
+      "link":"https://link4m.org/BtjIAJ"
+    },
+    {
+      "version":"10.0.170",
+      "link":"https://www.mediafire.com/file/v8ztf9iczw39z2v/Timemark_10.0.170-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "PrettyUp",
+      "bundle": "com.floatcamellia.prettyup",
+      "icon": "img/icon/PrettyUp.png",
+      "banner": "img/banner/PrettyUp.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"8.4.10",
+      "link":"https://link4m.net/0nFpuuOO"
+    },
+    {
+      "version":"8.6.00",
+      "link":"https://www.mediafire.com/file/meupisrjgcjxeoh/PrettyUp_8.6.00-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Duolingo",
+      "bundle": "com.duolingo.DuolingoMobile",
+      "icon": "img/icon/Duolingo.png",
+      "banner": "img/banner/Duolingo.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"7.127.0",
+      "link":"https://link4m.net/hHZRL"
+    },
+    {
+      "version":"7.127.0",
+      "link":"https://www.mediafire.com/file/4ayq8dlxa86pqpc/Duolingo_7.127.0-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "iSTB",
+      "bundle": "com.na.istb",
+      "icon": "img/icon/iSTB.png",
+      "banner": "img/banner/iSTB.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions": [
+    {
+      "version":"1.29.3",
+      "link":"https://link4m.net/Uu4ptVVA"
+    },
+    {
+      "version":"1.29.3",
+      "link":"https://www.mediafire.com/file/8mqjz1pvrji3iv7/iSTB_1.29.3-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "ProCam",
+      "bundle": "gemini.ProCam-2",
+      "icon": "img/icon/ProCam.png",
+      "banner": "img/banner/ProCam.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions": [
+    {
+      "version":"14.8.8",
+      "link":"https://link4m.net/HEDgGRGl"
+    },
+    {
+      "version":"14.8.8",
+      "link":"https://www.mediafire.com/file/1emud5jp8utrtpe/ProCam_14.8.8-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Photo Lab",
+      "bundle": "com.photoprohd",
+      "icon": "img/icon/PhotoLab.png",
+      "banner": "img/banner/PhotoLab.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions": [
+    {
+      "version":"3.12.47",
+      "link":"https://link4m.org/gziBiO"
+    },
+    {
+      "version":"3.12.47",
+      "link":"https://www.mediafire.com/file/pg4jrirl237vcdn/Photo+Lab_3.12.47-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Wallcraft",
+      "bundle": "com.wallpaperscraft.wallpapers",
+      "icon": "img/icon/Wallcraft.png",
+      "banner": "img/banner/Wallcraft.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"3.30",
+      "link":"https://link4m.net/2b8zUND"
+    },
+    {
+      "version":"3.38",
+      "link":"https://www.mediafire.com/file/yc5k14suxhqp50k/Wallcraft_3.38-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Messenger 14",
+      "bundle": "com.facebook.Messenger",
+      "icon": "img/icon/Messenger.png",
+      "banner": "img/banner/Messenger.png",
+      "vip": true,
+      "features":  [
+        "Không Quảng Cáo",
+        "Tắt phát hiện đọc tin nhắn",
+        "Tắt trạng thái gõ",
+        "Fix lỗi Cuộc gọi",
+        "Hỗ trợ iOS 14"
+    ],
+      "versions": [
+    {
+      "version":"458.0.0",
+      "link":"https://www.mediafire.com/file/7ycuf7ivq4aj5eo/Messenger_458.0.0-TQM-14.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "VN Video Editor",
+      "bundle": "com.frontrow.vlog",
+      "icon": "img/icon/VNVideoEditor.png",
+      "banner": "img/banner/VNVideoEditor.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"1.84",
+      "link":"https://link4m.net/oRoCw"
+    },
+    {
+      "version":"1.84",
+      "link":"https://www.mediafire.com/file/o3ok3lgfyxcuhbt/VN_Video_Editor_1.84-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Photoleap",
+      "bundle": "com.lightricks.Enlight-Editor",
+      "icon": "img/icon/Photoleap.png",
+      "banner": "img/banner/Photoleap.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"2.2.22",
+      "link":"https://link4m.com/1SMUf"
+    },
+    {
+      "version":"2.2.22",
+      "link":"https://archive.org/download/photoleap-2.2.22-tqm/Photoleap_2.2.22-TQM.ipa",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Motionleap",
+      "bundle": "com.lightricks.Enlight-Phoenix",
+      "icon": "img/icon/Motionleap.png",
+      "banner": "img/banner/Motionleap.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"1.9.23",
+      "link":"https://link4m.com/8Msmz"
+    },
+    {
+      "version":"1.9.23",
+      "link":"https://ia601603.us.archive.org/4/items/motionleap-1.9.23-tqm/Motionleap_1.9.23-TQM.ipa",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Mazii",
+      "bundle": "com.mazii.dictionary",
+      "icon": "img/icon/Mazii.png",
+      "banner": "img/banner/Mazii.png",
+      "vip": true,
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"5.4.9",
+      "link":"https://www.mediafire.com/file/elzjnbt8k459jrl/Mazii_TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "KineMaster",
+      "bundle": "com.kinemaster.kios",
+      "icon": "img/icon/KineMaster.png",
+      "banner": "img/banner/KineMaster.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"6.2.0",
+      "link":"https://link4m.com/ZdnV31I"
+    },
+    {
+      "version":"6.2.0",
+      "link":"https://dn721602.ca.archive.org/0/items/kinesmaster-TQM/kinesmaster-TQM.ipa",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Picsart Color",
+      "bundle": "com.picsart.draw",
+      "icon": "img/icon/PicsartColor.png",
+      "banner": "img/banner/PicsartColor.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"2.9.4",
+      "link":"https://link4m.com/J1S0CF7"
+    },
+    {
+      "version":"2.9.4",
+      "link":"https://dn721701.ca.archive.org/0/items/color-2.9.4-tqm/Color_2.9.4-TQM.ipa",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "intoLive",
+      "bundle": "me.imgbase.intolive",
+      "icon": "img/icon/intoLive.png",
+      "banner": "img/banner/intoLive.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"4.1.13",
+      "link":"https://link4m.com/4Y9Zut"
+    },
+    {
+      "version":"4.4.0",
+      "link":"https://www.mediafire.com/file/kp1l82hgwywuhxj/intoLive_4.4.0-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "BeautyPlus Video",
+      "bundle": "com.pixocial.beautyplusvideo",
+      "icon": "img/icon/BeautyPlusVideo.png",
+      "banner": "img/banner/BeautyPlusVideo.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"3.0.403",
+      "link":"https://link4m.com/ZQ7mnPI"
+    },
+    {
+      "version":"3.0.403",
+      "link":"https://dn721308.ca.archive.org/0/items/beauty-plus-video-3.0.403-tqm/BeautyPlusVideo_3.0.403-TQM.ipa",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "VSCO",
+      "bundle": "co.visualsupply.cam",
+      "icon": "img/icon/VSCO.png",
+      "banner": "img/banner/VSCO.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"461.5.2",
+      "link":"https://link4m.org/ZE5kD"
+    },
+    {
+      "version":"461.5.2",
+      "link":"https://www.mediafire.com/file/jkexl46xeopfwih/VSCO_461.5.2-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Facetune",
+      "bundle": "com.lightricks.Facetune2",
+      "icon": "img/icon/Facetune.png",
+      "banner": "img/banner/Facetune.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"3.58.1",
+      "link":"https://link4m.org/2pKGRO"
+    },
+    {
+      "version":"26.19",
+      "link":"https://www.mediafire.com/file/8dbnla8k7bq0z8y/Facetune_26.19-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Peachy",
+      "bundle": "com.camerasideas.Peachy",
+      "icon": "img/icon/Peachy.png",
+      "banner": "img/banner/Peachy.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"1.55.1",
+      "link":"https://link4m.net/5UGXsQOQ"
+    },
+    {
+      "version":"2.6.2",
+      "link":"https://www.mediafire.com/file/rza7f9zu1bx80tt/Peachy_2.6.2-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "InShot",
+      "bundle": "com.camerasideas.InstaShot",
+      "icon": "img/icon/InShot.png",
+      "banner": "img/banner/InShot.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"1.97.0",
+      "link":"https://link4m.net/g9UdsU7v"
+    },
+    {
+      "version":"1.97.0",
+      "link":"https://www.mediafire.com/file/xvef2ebu1g5gw91/InShot_1.97.0-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Funimate",
+      "bundle": "com.avcr.Funimate",
+      "icon": "img/icon/Funimate.png",
+      "banner": "img/banner/Funimate.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"18.6.0",
+      "link":"https://link4m.net/JwR8VQC5"
+    },
+    {
+      "version":"18.6.0",
+      "link":"https://www.mediafire.com/file/93f66f4ynsap3c1/Funimate_18.6.0-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Protake",
+      "bundle": "com.blink.academy.protake",
+      "icon": "img/icon/Protake.png",
+      "banner": "img/banner/Protake.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"4.2.4",
+      "link":"https://link4m.org/mlqvyqpH"
+    },
+    {
+      "version":"4.2.4",
+      "link":"https://www.mediafire.com/file/h9ok9h27348mvh4/Protake_4.2.4-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Photomath",
+      "bundle": "com.microblink.PhotoMath",
+      "icon": "img/icon/Photomath.png",
+      "banner": "img/banner/Photomath.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"8.46.0",
+      "link":"https://link4m.net/aujUduHJ"
+    },
+    {
+      "version":"8.46.0",
+      "link":"https://www.mediafire.com/file/z2ywqn9x1lky3iq/Photomath_8.46.0-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Locket",
+      "bundle": "com.locket.Locket",
+      "icon": "img/icon/Locket.png",
+      "banner": "img/banner/Locket.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"2.1.1",
+      "link":"https://link4m.net/7lEID"
+    },
+    {
+      "version":"2.55.0",
+      "link":"https://www.mediafire.com/file/tzopadnpchqkaln/Locket_2.55.0-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Hán Tự",
+      "bundle": "com.pegase.hantu",
+      "icon": "img/icon/hantu.png",
+      "banner": "img/banner/HanTu.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"4.5",
+      "link":"https://link4m.org/UbzVIk"
+    },
+    {
+      "version":"4.5",
+      "link":"https://www.mediafire.com/file/mwu6ff6uuajqr54/Hantu_4.5-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Hán Tự",
+      "bundle": "com.ichitech.kanji",
+      "icon": "img/icon/kanji.png",
+      "banner": "img/banner/HanTu.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"22.1",
+      "link":"https://link4m.net/vlXANAN"
+    },
+    {
+      "version":"22.1",
+      "link":"https://www.mediafire.com/file/w8pjxfo6q2vs3yc/HanTu_22.1-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "ibis Paint",
+      "bundle": "jp.ne.ibis.ibisPaint",
+      "icon": "img/icon/ibisPaint.png",
+      "banner": "img/banner/ibisPaintX.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"9.4.2",
+      "link":"https://link4m.net/gLKTR"
+    },
+    {
+      "version":"9.4.2",
+      "link":"https://www.mediafire.com/file/jla4yx4mby9ypvc/ibisPaint_9.4.2-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Learn Japanese",
+      "bundle": "com.mobiteach.japanese",
+      "icon": "img/icon/LearnJapanese.png",
+      "banner": "img/banner/LearnJapanese.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"6.1.7",
+      "link":"https://link4m.org/Dpugl3e"
+    },
+    {
+      "version":"6.1.7",
+      "link":"https://www.mediafire.com/file/p4xjhyge1xj4ckw/LearnJapanese_6.1.7-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "ChatGPT",
+      "bundle": "com.leaf.apps",
+      "icon": "img/icon/ChatGP.png",
+      "banner": "img/banner/ChatGPT.png",
+      "features":  [
+        "Mở khoá Premium",
+        "Hỗ trợ iOS 15 trở nên"
+    ],
+      "versions": [
+    {
+      "version":"1.0",
+      "link":"https://link4m.org/Bj5DprM"
+    },
+    {
+      "version":"1.0",
+      "link":"https://www.mediafire.com/file/dl6kf3ky3yekzxa/ChatGPT-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "ChatGPT",
+      "bundle": "com.openai.wep",
+      "icon": "img/icon/ChatGPT.png",
+      "banner": "img/banner/ChatGPT.png",
+      "features":  [
+        "Mở khoá Premium",
+        "Hỗ trợ iOS 15 trở nên"
+    ],
+      "versions": [
+    {
+      "version":"1.0",
+      "link":"https://link4m.net/cXaph3SZ"
+    },
+    {
+      "version":"1.0",
+      "link":"https://www.mediafire.com/file/8d0xszce371gpbx/ChatGPT_TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "TrollRecorder",
+      "bundle": "wiki.qaq.trapp",
+      "icon": "img/icon/TrollRecorder.png",
+      "banner": "img/banner/TrollRecorder.png",
+      "features":  [
+        "Hỗ trợ TrollStore"
+    ],
+      "versions": [
+    {
+      "version":"1.3.3",
+      "link":"https://link4m.org/paz2bD"
+    },
+    {
+      "version":"1.3.3",
+      "link":"https://archive.org/download/troll-recorder-1.3.3-tqm/TrollRecorder_1.3.3-TQM.ipa",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Filza No Url",
+      "bundle": "com.tigisoftware.Filza",
+      "icon": "img/icon/Filza.png",
+      "banner": "img/banner/Filza.png",
+      "features":  [
+        "Hỗ trợ TrollStore"
+    ],
+      "versions": [
+    {
+      "version":"4.0.0b3",
+      "link":"https://link4m.org/ZAS58Us"
+    },
+    {
+      "version":"4.0.0b3",
+      "link":"https://archive.org/download/esign-tqm_202303/FilzaNoUrl_4.0-TQM.ipa",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Youtube 5/10.3.3",
+      "bundle": "com.google.ios.youtube",
+      "icon": "img/icon/Youtube.png",
+      "banner": "img/banner/Youtube.png",
+      "vip": true,
+      "features":  [
+        "Nge nhạc khoá màn hình",
+        "Hỗ trợ iOS 5 đến 10.3.3",
+        "Không cần Jaibreaks",
+        "Độ phân giải 360p VR"
+    ],
+      "versions":[
+    {
+      "version":"1.4.0",
+      "link":"https://www.mediafire.com/file/uyt7b4481wo1sfa/YouTube_1.4.0-FIX_TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Youtube 15",
+      "bundle": "com.google.ios.youtube",
+      "icon": "img/icon/Youtube.png",
+      "banner": "img/banner/Youtube.png",
+      "features":  [
+        "Mở khoá Premium",
+        "Hỗ trợ iOS 15 trở nên"
+    ],
+      "versions":[
+    {
+      "version":"20.21.6",
+      "link":"https://link4m.net/9i3kbd"
+    },
+    {
+      "version":"20.21.6",
+      "link":"https://www.mediafire.com/file/40zyetb49oi1113/YouTube_20.21.6-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Youtube 14",
+      "bundle": "com.google.ios.youtube",
+      "icon": "img/icon/Youtube.png",
+      "banner": "img/banner/Youtube.png",
+      "features":  [
+        "Mở khoá Premium",
+        "Hỗ trợ iOS 14 trở nên",
+        "Youtube Legacy 1.10.3"
+    ],
+      "versions":[
+    {
+      "version":"19.20.2",
+      "link":"https://link4m.com/xT2EjrF"
+    },
+    {
+      "version":"19.20.2",
+      "link":"https://www.mediafire.com/file/9ifui9tvrxjhfkb/YouTube_19.20.2_YT5.2b4_TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Youtube 12",
+      "bundle": "com.google.ios.youtube",
+      "icon": "img/icon/Youtube.png",
+      "banner": "img/banner/Youtube.png",
+      "features":  [
+        "Mở khoá Premium",
+        "Hỗ trợ iOS 12 trở nên",
+        "Youtube Legacy 1.10.3",
+        "VIP : Hỗ trợ đăng nhập"
+    ],
+      "versions":[
+    {
+      "version":"17.28.2",
+      "link":"https://link4m.com/vEeMcjS"
+    },
+    {
+      "version":"17.28.2",
+      "link":"https://www.mediafire.com/file/fof31jf0tq0drbt/YouTube_17.28.2-TQM_VIP.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Swiftgram",
+      "bundle": "app.swiftgram.ios",
+      "icon": "img/icon/Swiftgram.png",
+      "banner": "img/banner/Swiftgram.png",
+      "features":  [
+        "Đã tích hợp TGExtra của ChocolateFluffy → Tích hợp các tùy chỉnh và tinh chỉnh nâng cao",
+        "Cấu hình các tùy chọn tinh chỉnh (nhấn giữ nút Hỏi một câu hỏi trong tab Cài đặt) → Truy cập tất cả cài đặt TGExtra từ một vị trí thuận tiện"
+    ],
+      "versions": [
+    {
+      "version":"12.8",
+      "link":"https://link4m.net/TQcJ1F"
+    },
+    {
+      "version":"12.8",
+      "link":"https://www.mediafire.com/file/293wx3zft28rw0l/Swiftgram_12.8-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Instagram",
+      "bundle": "com.burbn.instagram",
+      "icon": "img/icon/Instagram.png",
+      "banner": "img/banner/Instagram.png",
+      "features":  [
+        "Tải video nhạc",
+        "Loại bỏ Quảng Cáo"
+    ],
+      "versions": [
+    {
+      "version":"436.0.0",
+      "link":"https://link4m.net/iWJY8NLD"
+    },
+    {
+      "version":"436.0.0",
+      "link":"https://www.mediafire.com/file/eii232a7kb2yibq/Instagram_435.0.0-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "YTLite",
+      "bundle": "com.verback.YTLite",
+      "icon": "img/icon/YTLite.png",
+      "banner": "img/banner/Youtube.png",
+      "features":  [
+        "Hỗ trợ iOS 12 trở nên",
+        "Không Quảng Cáo",
+        "Khoá màn hình chạy nền",
+        "Xem video chế độ PIP"
+    ],
+      "versions": [
+    {
+      "version":"1.4.2",
+      "link":"https://link4m.net/URr7s"
+    },
+    {
+      "version":"1.4.2",
+      "link":"https://www.mediafire.com/file/ea662jpevqxncuk/YTLite_1.1.0-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Speedtest",
+      "bundle": "com.ookla.speedtest",
+      "icon": "img/icon/Speedtest.png",
+      "banner": "img/banner/Speedtest.png",
+      "features":  [
+        "Mở khoá Premium",
+        "Loại bỏ Quảng Cáo"
+    ],
+      "versions": [
+    {
+      "version":"7.0.4",
+      "link":"https://link4m.net/J9UepP1"
+    },
+    {
+      "version":"7.0.4",
+      "link":"https://www.mediafire.com/file/c90uuejpnsmgxo9/Speedtest_5.5.0-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "CapCut",
+      "bundle": "com.lemon.lvoverseas",
+      "icon": "img/icon/CapCut.png",
+      "banner": "img/banner/CapCut.png",
+      "features":  [
+        "Mở khoá Premium",
+        "Sử dụng VPN Hoa Kỳ để có được các tính năng cao cấp"
+    ],
+      "versions": [
+    {
+      "version":"12.6.0",
+      "link":"https://link4m.org/KDhdzIkm"
+    },
+    {
+      "version":"12.6.0",
+      "link":"https://www.mediafire.com/file/i2ca986nq27d60m/CapCut_12.6.0-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "BiliBili",
+      "bundle": "com.bstar.intl",
+      "icon": "img/icon/BiliBili.png",
+      "banner": "img/banner/BiliBili.png",
+      "features":  [
+        "Không quảng cáo",
+        "Xem chất lượng 2K"
+    ],
+      "versions": [
+    {
+      "version":"2.75.1",
+      "link":"https://link4m.org/ZBT2l2m"
+    },
+    {
+      "version":"3.3.0",
+      "link":"https://link4m.org/qQJAJQdB"
+    },
+    {
+      "version":"3.80.0",
+      "link":"https://www.mediafire.com/file/0n5irfamogcdw2g/bilibili_3.80.0-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "TikTok",
+      "bundle": "com.zhiliaoapp.musically",
+      "icon": "img/icon/TikTok.png",
+      "banner": "img/banner/TikTok.png",
+      "features":  [
+        "Loại bỏ quảng cáo",
+        "Tải video không Logo",
+        "Chuyển đổi vùng",
+        "Mở khoá giới hạn bình luận"
+    ],
+      "versions": [
+    {
+      "version":"40.1.0",
+      "link":"https://link4m.org/qPzOGv"
+    },
+    {
+      "version":"40.1.0",
+      "link":"https://www.mediafire.com/file/ympmtq0hjyitmlm/TikTok_40.1.0-TQM.ipa/file",
+      "vip": true
+    },
+    {
+      "version":"45.7.0",
+      "link":"https://link4m.org/ryQchP"
+    },
+    {
+      "version":"45.7.0",
+      "link":"https://www.mediafire.com/file/yho6gxwaso4z6q8/TikTok_45.7.0-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Timestamp Camera",
+      "bundle": "com.jeyluta.camera7pro",
+      "icon": "img/icon/TimestampCamera.png",
+      "banner": "img/banner/TimestampCamera.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"1.150",
+      "link":"https://link4m.org/LvyCjW"
+    },
+    {
+      "version":"1.150",
+      "link":"https://www.mediafire.com/file/p0diidrqt7c6qdk/TimestampCamera_1.150-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "CarTube",
+      "bundle": "com.avangelista.CarTube",
+      "icon": "img/icon/CarTube.png",
+      "banner": "img/banner/Youtube.png",
+      "features":  [
+        "Hỗ trợ TrollStore"
+    ],
+      "versions": [
+    {
+      "version":"1.3",
+      "link":"https://link4m.net/9JuJ8"
+    },
+    {
+      "version":"1.3",
+      "link":"https://www.mediafire.com/file/ah1ebkw163kg382/CarTube_1.3-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "ibis Paint X",
+      "bundle": "jp.ne.ibis.ibisPaintX",
+      "icon": "img/icon/ibisPaintX.png",
+      "banner": "img/banner/ibisPaintX.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"12.2.13",
+      "link":"https://link4m.net/j1u1Ua"
+    },
+    {
+      "version":"14.0.6",
+      "link":"https://www.mediafire.com/file/9a05d90fy9dzeud/ibisPaintX_14.0.2-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Shadowrocket",
+      "bundle": "com.liguangming.Shadowrocket",
+      "icon": "img/icon/Shadowrocket.png",
+      "banner": "img/banner/Shadowrocket.png",
+      "features":  [
+        "Trả phí trên App Store",
+        "Hỗ trợ TrollStore"
+    ],
+      "versions": [
+    {
+      "version":"2.2.56",
+      "link":"https://link4m.org/cUpmcE3D"
+    },
+    {
+      "version":"2.2.56",
+      "link":"https://www.mediafire.com/file/g8eqpz2wzcuejh2/Shadowrocket_2.2.56-TQM.tipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Ulike",
+      "bundle": "com.light.beautyabroad",
+      "icon": "img/icon/Ulike.png",
+      "banner": "img/banner/Ulike.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"3.2.0",
+      "link":"https://link4m.com/oXl1Nb5c"
+    },
+    {
+      "version":"3.2.0",
+      "link":"https://archive.org/download/ulike-TQM/ulike-TQM.ipa",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "NCT",
+      "bundle": "com.nct.nhaccuatui",
+      "icon": "img/icon/NCT.png",
+      "banner": "img/banner/NCT.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"8.3.14",
+      "link":"https://link4m.net/vZpHqj"
+    },
+    {
+      "version":"8.3.14",
+      "link":"https://www.mediafire.com/file/ogffy7ii3cux3wp/NCT_TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "SODA",
+      "bundle": "com.snowcorp.soda",
+      "icon": "img/icon/SODA.png",
+      "banner": "img/banner/SODA.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"9.2.5",
+      "link":"https://link4m.net/8FLFk"
+    },
+    {
+      "version":"9.2.5",
+      "link":"https://www.mediafire.com/file/7q0s0j03e8jvofc/SODA-9.2.5-VIP-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Messenger",
+      "bundle": "com.facebook.Messenger",
+      "icon": "img/icon/Messenger.png",
+      "banner": "img/banner/Messenger.png",
+      "features":  [
+        "Ứng dụng nhân bản",
+        "Tắt tính năng đánh dấu tin nhắn",
+        "Tắt câu chuyện đánh dấu",
+        "Tắt trạng thái gõ",
+        "Lưu hình ảnh và video Câu chuyện",
+        "VIP : Có thông báo Tin nhắn - Cuộc gọi"
+    ],
+      "versions": [
+    {
+      "version":"520.0.0",
+      "link":"https://link4m.org/LVudU3m"
+    },
+    {
+      "version":"571.0.0",
+      "link":"https://www.mediafire.com/file/i49aqq2dqj7ilgu/Messenger2_568.1.0-VIP-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "TrollInstallerX",
+      "bundle": "com.Alfie.TrollInstallerX",
+      "icon": "img/icon/TrollInstallerX.png",
+      "banner": "img/banner/TrollInstallerX.png",
+      "features":  [
+        "Cài đặt TrollStore"
+    ],
+      "versions": [
+    {
+      "version":"1.0.3",
+      "link":"https://link4m.net/D31OW"
+    },
+    {
+      "version":"1.0.3",
+      "link":"https://www.mediafire.com/file/pheowoh3r8se6j6/TrollInstallerX_1.0.3.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "PhotoRoom",
+      "bundle": "com.dr1ven.eraser",
+      "icon": "img/icon/PhotoRoom.png",
+      "banner": "img/banner/PhotoRoom.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"6.2.8",
+      "link":"https://link4m.net/WY4o79et"
+    },
+    {
+      "version":"6.2.8",
+      "link":"https://www.mediafire.com/file/4innep02fwy2j67/Photoroom_6.2.8-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "VivaCut",
+      "bundle": "com.vivacut.videoeditor",
+      "icon": "img/icon/VivaCut.png",
+      "banner": "img/banner/VivaCut.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"3.9.4",
+      "link":"https://link4m.org/hy6KG05t"
+    },
+    {
+      "version":"4.6.0",
+      "link":"https://www.mediafire.com/file/ztr3wyknms6b2yj/VivaCut_4.6.0-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "SnapEdit",
+      "bundle": "com.sfun.snapedit",
+      "icon": "img/icon/SnapEdit.png",
+      "banner": "img/banner/SnapEdit.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"5.4.7",
+      "link":"https://link4m.net/epSXHki"
+    },
+    {
+      "version":"6.15.0",
+      "link":"https://link4m.net/cRbFu"
+    },
+    {
+      "version":"6.20",
+      "link":"https://www.mediafire.com/file/tvfov0y0ttroeqn/SnapEdit__6.20-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Picsart",
+      "bundle": "com.picsart.studio",
+      "icon": "img/icon/Picsart.png",
+      "banner": "img/banner/Picsart.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"26.8.3",
+      "link":"https://link4m.org/qkmGX"
+    },
+    {
+      "version":"30.3.1",
+      "link":"https://www.mediafire.com/file/1gbxt7y5qnum91u/Picsart_30.2.1-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "FakeGPS",
+      "bundle": "com.mika.LocationSimulation",
+      "icon": "img/icon/FakeGPS.png",
+      "banner": "img/banner/FakeGPS.png",
+      "features":  [
+        "Mở khoá Premium",
+        "Hỗ trợ Trollstore"
+    ],
+      "versions": [
+    {
+      "version":"1.3.7",
+      "link":"https://link4m.org/V37f7"
+    },
+    {
+      "version":"1.3.7",
+      "link":"https://www.mediafire.com/file/m82awcw8qcocm16/Fake_GPS_1.3.7-TQM.ipa/file",
+      "vip": true
+    },
+    {
+      "version":"1.4.1",
+      "link":"https://link4m.org/2Jko5"
+    },
+    {
+      "version":"1.4.1",
+      "link":"https://www.mediafire.com/file/d2vielloimb2l77/Fake_GPS_1.4.1-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "PSExpress",
+      "bundle": "com.adobe.PSMobile",
+      "icon": "img/icon/PSExpress.png",
+      "banner": "img/banner/PSExpress.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"25.6.0",
+      "link":"https://link4m.org/SlbcNqe"
+    },
+    {
+      "version":"25.6.0",
+      "link":"https://www.mediafire.com/file/1x96ebpo4evtkma/PS_Express_25.6.0-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Lightroom",
+      "bundle": "com.adobe.lrmobilephone",
+      "icon": "img/icon/Lightroom.png",
+      "banner": "img/banner/Lightroom.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"10.0.1",
+      "link":"https://link4m.com/90v8qO"
+    },
+    {
+      "version":"10.0.1",
+      "link":"https://www.mediafire.com/file/beqbkz2erdzm222/Lightroom_10.0.1-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "SNOW",
+      "bundle": "com.campmobile.snow",
+      "icon": "img/icon/SNOW.png",
+      "banner": "img/banner/SNOW.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"14.0.11",
+      "link":"https://link4m.net/Ji07uo9"
+    },
+    {
+      "version":"15.2.7",
+      "link":"https://www.mediafire.com/file/ujz931k7rajyr1r/SNOW_15.2.1-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "BeautyPlus",
+      "bundle": "com.commsource.BeautyPlus",
+      "icon": "img/icon/BeautyPlus.png",
+      "banner": "img/banner/BeautyPlus.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"7.39.0",
+      "link":"https://link4m.org/JAPqDWrc"
+    },
+    {
+      "version":"7.41.0",
+      "link":"https://www.mediafire.com/file/945ohz6fhd1rqzd/BeautyPlus_7.39.0-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Videos Star",
+      "bundle": "com.frontierdesign.videostar",
+      "icon": "img/icon/VideosStar.png",
+      "banner": "img/banner/VideosStar.png",
+      "features":  [
+        "Mở khoá Premium",
+        "Xóa embedded mobile trên Esign trước khi cài đặt!"
+    ],
+      "versions": [
+    {
+      "version":"13.1.7",
+      "link":"https://link4m.com/C5wAPpX"
+    },
+    {
+      "version":"13.1.7",
+      "link":"video",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "BeautyCam",
+      "bundle": "com.meitu.myxj",
+      "icon": "img/icon/BeautyCam.png",
+      "banner": "img/banner/BeautyCam.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"12.5.20",
+      "link":"https://link4m.org/Wnhop"
+    },
+    {
+      "version":"13.2.30",
+      "link":"https://www.mediafire.com/file/tzfehem3b06wjw9/BeautyCam_13.2.20-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "B612",
+      "bundle": "com.linecorp.b612",
+      "icon": "img/icon/B612.png",
+      "banner": "img/banner/B612.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions":[
+    {
+      "version":"14.0.16",
+      "link":"https://link4m.net/SEE1ETUJ"
+    },
+    {
+      "version":"15.2.6",
+      "link":"https://www.mediafire.com/file/dgm9vtvxaitvon4/B612_15.2.1-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Youtube",
+      "bundle": "com.google.ios.youtube",
+      "icon": "img/icon/Youtube.png",
+      "banner": "img/banner/Youtube.png",
+      "features":  [
+        "Mở khoá Premium",
+        "Hỗ trợ iOS 16 trở lên"
+    ],
+      "versions":[
+    {
+      "version":"21.26.4",
+      "link":"https://link4m.com/EXOHN"
+    },
+    {
+      "version":"21.26.4",
+      "link":"https://www.mediafire.com/file/tkcl925luwvvld9/YouTube_21.20.4_TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Widgy",
+      "bundle": "com.woodsign.Widgy",
+      "icon": "img/icon/Widgy.png",
+      "banner": "img/banner/Widgy.png",
+      "features":  [
+        "Mở khoá Premium",
+        "Hỗ trợ Trollstore"
+    ],
+      "versions":[
+    {
+      "version":"3.2.1",
+      "link":"https://link4m.net/5zMSs62H"
+    },
+    {
+      "version":"3.2.1",
+      "link":"https://www.mediafire.com/file/cqlgspewabfvxk3/Widgy_3.2.1-TQM.ipa/file",
+      "vip": true
+    },
+    {
+      "version":"26.1.1",
+      "link":"https://link4m.net/umAgw1gL"
+    },
+    {
+      "version":"26.1.1",
+      "link":"https://www.mediafire.com/file/fyki36us07z5s7a/Widgy_26.1.1-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Aloha",
+      "bundle": "com.alohabrowser.alohabrowser",
+      "icon": "img/icon/Aloha.png",
+      "banner": "img/banner/Aloha.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions":[
+    {
+      "version":"8.1.1",
+      "link":"https://link4m.net/fgGTcJgL"
+    },
+    {
+      "version":"8.7.0",
+      "link":"https://www.mediafire.com/file/5t2y99poaibtczi/Aloha_8.7.0-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Facebook",
+      "bundle": "com.facebook.Facebook",
+      "icon": "img/icon/Facebook.png",
+      "banner": "img/banner/Facebook.png",
+      "features":  [
+        "Ứng dụng nhân bản",
+        "Chặn QC",
+        "Hỗ trợ tải Video HD"
+    ],
+      "versions":[
+    {
+      "version":"473.0.0",
+      "link":"https://link4m.com/Lxtzve"
+    },
+    {
+      "version":"473.0.0",
+      "link":"https://www.mediafire.com/file/0kqs2mnvgvovqoz/Facebook2_487.0.0-TQM.ipa/file",
+      "vip": true
+    },
+    {
+      "version":"499.0.0",
+      "link":"https://link4m.org/C4iLU"
+    },
+    {
+      "version":"499.0.0",
+      "link":"https://www.mediafire.com/file/tjmth1w1k5qwggp/Facebook2_499.0.0-TQM.ipa/file",
+      "vip": true
+    },
+    {
+      "version":"554.0.0",
+      "link":"https://link4m.net/TQsbnY1"
+    },
+    {
+      "version":"554.0.0",
+      "link":"https://www.mediafire.com/file/bnqhir5es9psr2v/Facebook2_554.0.0-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Zalo",
+      "bundle": "vn.com.vng.zingalo",
+      "icon": "img/icon/Zalo.png",
+      "banner": "img/banner/Zalo.png",
+      "features":  [
+        "Ứng dụng nhân bản",
+        "VIP : Có thông báo"
+    ],
+      "versions":[
+    {
+      "version":"26.06.01.1",
+      "link":"https://link4m.net/8O0Khm"
+    },
+    {
+      "version":"26.07.01",
+      "link":"https://www.mediafire.com/file/bgimrxrul0d6dem/Zalo2_TQM-VIP.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Meitu",
+      "bundle": "com.meitu.mtxx",
+      "icon": "img/icon/Meitu.png",
+      "banner": "img/banner/Meitu.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions":[
+    {
+      "version":"11.11.6",
+      "link":"https://link4m.com/GDCx0"
+    },
+    {
+      "version":"11.11.6",
+      "link":"https://www.mediafire.com/file/7h411a8jppj1ff3/Meitu_11.11.6-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Camera 360",
+      "bundle": "com.vstudio.camera360",
+      "icon": "img/icon/Camera360.png",
+      "banner": "img/banner/Camera360.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions":[
+    {
+      "version":"10.02.20",
+      "link":"https://link4m.org/Ji07uo9"
+    },
+    {
+      "version":"10.02.30",
+      "link":"https://www.mediafire.com/file/1id5xc1af3iwebc/Camera360_10.02.30-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "VivaVideo",
+      "bundle": "com.quvideo.XiaoYing",
+      "icon": "img/icon/VivaVideo.png",
+      "banner": "img/banner/VivaVideo.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions":[
+    {
+      "version":"9.21.5",
+      "link":"https://link4m.com/7woQjj1F"
+    },
+    {
+      "version":"9.37.1",
+      "link":"https://www.mediafire.com/file/2w93qh2w2h30wf9/VivaVideo_9.37.1-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    }
+  ]

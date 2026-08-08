@@ -1,0 +1,7 @@
+{
+    "compatitle":"iOS 11, 16.x",
+    "desc_long":"• Xem và truy cập dữ liệu ứng dụng của bạn bằng cách vuốt lên trên biểu tượng hoặc từ menu cảm ứng lực.<br>• Xem kích thước và phiên bản gói ứng dụng.<br>• Xem và sao chép số nhận dạng gói ứng dụng.<br>• Chỉnh sửa tên biểu tượng ứng dụng.<br>• Mở trang AppStore của ứng dụng.<br>• Truy cập gói ứng dụng và vùng chứa dữ liệu.<br>• Truy cập các nhóm vùng chứa ứng dụng.<br>• Kiểm tra kích thước bộ đệm ứng dụng và xóa chúng.<br>• Xóa huy hiệu ứng dụng.",
+    "screenshots":[
+        "img/appdata.png"
+    ]
+}

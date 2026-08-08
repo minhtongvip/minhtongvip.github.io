@@ -1,0 +1,7 @@
+{
+    "compatitle":"iOS 9, 18.x",
+    "desc_long":"• Chỉ cần thay đổi phông chữ trên thiết bị của bạn bằng A-Font.<br>• A-Font tự động tải phông chữ từ /Library/A-Font/<br>• Tinh chỉnh này chứa phông chữ Nanum Square Round của NAVER.",
+    "screenshots":[
+        "img/afont.png"
+    ]
+}

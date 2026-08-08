@@ -1,0 +1,11 @@
+{
+    "compatitle":"iOS 10.x",
+    "desc_long":"• Horseshoe chính là những gì mà Trung tâm điều khiển của iOS 10 đáng lẽ phải có, có thể tùy chỉnh, dễ sử dụng và tất cả trong một trang.<br>• Horseshoe đã được đầu tư hàng trăm giờ phát triển để đảm bảo người dùng cuối có trải nghiệm tốt nhất có thể khi sử dụng. Nó tương thích với nhiều tinh chỉnh Trung tâm điều khiển khác như Noctis, Polus, FlipControlCenter, và nhiều hơn nữa. Bạn có thể sắp xếp lại các phần của trung tâm điều khiển, ẩn một số phần, có thanh trượt đa chức năng để tiết kiệm không gian, sắp xếp lại các nút chuyển đổi nếu bạn đang sử dụng Polus hoặc FlipControlCenter, và bạn có thể làm tất cả những điều này chỉ với thao tác vuốt lên lần thứ hai đơn giản khi Trung tâm điều khiển đang mở. Nó thậm chí còn cung cấp cho bạn một thanh trượt mới để sử dụng trong Trung tâm điều khiển, một thanh trượt để điều chỉnh cân bằng âm thanh giữa tai nghe bên trái và bên phải của bạn, rất tiện dụng khi một bên tai nghe bị hỏng đột ngột khi bạn đang lái xe.",
+    "screenshots":[
+        "img/horseshoe1.png",
+        "img/horseshoe2.png",
+        "img/horseshoe3.png",
+        "img/horseshoe4.png",
+        "img/horseshoe5.png"
+    ]
+}

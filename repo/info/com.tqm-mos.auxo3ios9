@@ -1,0 +1,8 @@
+{
+    "compatitle":"iOS 9.x",
+    "desc_long":"• Auxo mang lại hình ảnh hoàn toàn mới cho iOS task switcher.<br>• Khái niệm và thiết kế của Sentry (với nguồn cảm hứng từ Lorand Koncz).<br>• Với ứng dụng mặc định App Switcher, Auxo sẽ thay thế các biểu tượng tiêu chuẩn bằng các khung hình ảnh biểu tượng linh hoạt. Với việc có thể xem trước mỗi ứng dụng, bạn cũng có thể vuốt biểu tượng này xuống để thoát ứng dụng. Ngay cả việc có thể thoát nhiều hơn 1 ứng dụng bằng cách sử dụng từ 2 ngón tay trở lên. Nếu bạn muốn thoát toàn bộ, chỉ cần chạm và giữ một biểu tượng ứng dụng nào đó, Auxo sẽ hiển thị cửa sổ hỏi đáp, chọn yes và toàn bộ ứng dụng sẽ thoát hết theo yêu cầu.<br>• Việc thiết kế lại trang Playback không chỉ cải thiện trình điều khiển âm thanh, mà nó còn cung cấp cho bạn thêm thông tin về những gì đang được phát. Chỉ cần chạm vào biểu tượng album để hiển thị toàn trang popup thông tin về bản nhạc. Bạn cũng có thể điều khiển âm lượng thông qua thanh trượt điều khiển âm lượng được thiết kế sẵn<br>• Cuối cùng, tại trang dành cho các nút Toggles cho phép bạn truy cập vào vô số các nút tắt của hệ thống, đơn giản hóa việc tùy chỉnh trong cài đặt trung tâm của bạn. Bạn có thể lướt qua các nút toggles của Auxo trực tiếp nằm trên thanh trượt tăng giảm độ sáng/tối màn hình. Chỉ việc vuốt lên hoặc xuống để hiển thị các nút được sắp xếp sẵn trên 2 hàng. Bạn cũng có thể chạm và giữ bất kỳ nút nào để vào ngay trực tiếp trên cài đặt trung tâm của thiết bị được gán cho tùy chỉnh mà bạn chọn.",
+    "screenshots":[
+        "img/auxo1.png",
+        "img/auxo2.png"
+    ]
+}

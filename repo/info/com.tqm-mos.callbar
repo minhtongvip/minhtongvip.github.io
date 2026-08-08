@@ -1,0 +1,9 @@
+{
+    "compatitle":"iOS 4, 7.x",
+    "desc_long":"• CallBar được thiết kế lại giao diện cuộc gọi tới cho phép bạn vẫn sử dụng thiết bị ngay cả khi chuông reo. Trả lời, từ chối hoặc bỏ qua cuộc gọi dễ dàng mà không phải ngưng công việc bạn đang làm. Bạn có thể kích hoạt tính năng 'Trả lời tại chỗ' (Answer In-Place) trong cấu hình cài đặt cho phép bạn nhận cuộc gọi bất kỳ khi nào. Ngay cả thiết lập cuộc gọi từ bất kỳ nơi đâu bằng cách khởi động giao diện quay số với thao tác Activator tuỳ chọn.<br>• Hỗ trợ cuộc gọi thông thường và FaceTime. Tương thích với Bluetooth.",
+    "screenshots":[
+        "img/callbar1.png",
+        "img/callbar2.png",
+        "img/callbar3.png"
+    ]
+}

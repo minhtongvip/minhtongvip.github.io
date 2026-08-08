@@ -1,0 +1,113 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://tqm-mos.com/img/logo/cert.png",
+  "minVersion": "0.3",
+  "itemSize": "{330, 110}",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Mô tả",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:12pt;\">CrackerXI+ là một ứng dụng bẻ khóa miễn phí cho phép bạn bẻ khóa các ứng dụng iOS được cài đặt trên thiết bị của mình.</p>\n<p style=\"font-size:12pt;\">CrackerXI Hook: Mình luôn bật cái này vì tắt nó toàn báo lỗi, có lúc mình tự hỏi thế sao không mặc định là bật luôn và bỏ luôn cái option này cho đỡ lằng nhằng =))</p>\n<p style=\"font-size:12pt;\">Cracker Name: Bạn điền tên bạn vào cho hoành tráng, làm màu cho vui 😉</p>\n<p style=\"font-size:12pt;\">Remove UISupportedDevices: Hình như để xóa các thiết bị được hỗ trợ UI. Mình chả biết dịch sao cho chuẩn nữa :'( Nói chung cái này mình chả bật bao giờ vì không dùng đến.</p>\n<p style=\"font-size:12pt;\">Set Minimum iOS version 10.0: Đặt mặc định file iPA sau khi loại bỏ ID sẽ hỗ trợ iOS 10.0 trở lên nhưng mình có test 1 số app yêu cầu iOS 11 trở lên và bật nó thì cũng không sử dụng được nên mình chẳng bao giờ bật.</p>\n<p style=\"font-size:12pt;\">Remove Watch App: Một số app có hỗ trợ cả Apple Watch, bạn bận cái này để xóa cái hỗ trợ Apple Watch đi. Mình cũng chả bao giờ dùng =))</p>\n<p style=\"font-size:12pt;\">Fakesign iPA File: Đây, cái này mình thấy đau đầu này. Một số app mình bật Fakesign lên thì máy khác cài ok, nhưng một số app thì máy khác bị crash cho nên anh em nào có kinh nghiệm vụ Fakesign này chỉ mình với nha 😀</p>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{430, 430}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/repo/img/crackxi+1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/repo/img/crackxi+2.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Phiên bản hiện tại 🍎",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "11.0 - 16.X",
+          "title": "Hỗ trợ"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Liên hệ & Hỗ trợ",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://zalo.me/0868388373",
+          "class": "DepictionTableButtonView",
+          "title": "Zalo (TQM-MOS)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:anhminh311105@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Gmail"
+        },
+        {
+          "action": "https://www.paypal.me/tranquangminh2202",
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ tôi 🍺 PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    }
+  ],
+  "tintColor": "#1182c4"
+}

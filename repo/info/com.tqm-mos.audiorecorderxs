@@ -1,0 +1,8 @@
+{
+    "compatitle":"iOS 12, 18.x",
+    "desc_long":"• Audio Recorder XS, tweak ghi âm cuộc gọi được mong chờ nhất trên iPhone!<br>• Hàng tá tính năng mới được thêm vào phiên bản lần này như:<br>- Ghi âm cuộc gọi từ hầu hết dịch vụ thoại (Điện thoại, FaceTime, Skype, Viber, Messenger, Tango, LINE,...)<br>- Ghi âm âm thanh hệ thống: Ghi lại mọi âm thanh từ loa điện thoại (những gì bạn nghe được)<br>- Tự động đồng bộ bản ghi âm lên Dropbox hoặc Google Drive<br>- Gán liên hệ cụ thể để tự động ghi âm mỗi khi có điện thoại từ số liên lạc đó đến<br>- Chia sẻ bản ghi âm tới mọi ứng dụng hỗ trợ trên thiết bị<br>- Gửi bản ghi âm qua email, iMessage, hoặc các ứng dụng có hỗ trợ<br>- Sử dụng trình duyệt web để dễ dàng sao chép mọi bản ghi từ điện thoại lên máy tính<br>- Gán thao tác Activator để mở giao diện ghi âm<br>- Quản lý cuộc ghi âm cho từng ứng dụng riêng<br>- Cải thiện trình phát ghi âm và giao diện",
+    "screenshots":[
+        "img/audiorecorder21.png",
+        "img/audiorecorder22.png"
+    ]
+}
