@@ -1,5 +1,66 @@
 [
     {
+      "name": "Reface",
+      "bundle": "com.neocortext.doublicatapp",
+      "icon": "img/icon/Reface.png",
+      "banner": "img/banner/Reface.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"6.9.1",
+      "link":"https://link4m.net/iuR1BCyy"
+    },
+    {
+      "version":"6.9.1",
+      "link":"https://www.mediafire.com/file/mhx80wi9f2fr89q/Reface_6.9.1-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Messenger 12",
+      "bundle": "com.facebook.Messenger",
+      "icon": "img/icon/Messenger.png",
+      "banner": "img/banner/Messenger.png",
+      "vip": true,
+      "features":  [
+        "Không Quảng Cáo",
+        "Tắt phát hiện đọc tin nhắn",
+        "Tắt trạng thái gõ",
+        "Fix lỗi Cuộc gọi",
+        "Hỗ trợ iOS 12"
+    ],
+      "versions": [
+    {
+      "version":"458.0.0",
+      "link":"https://www.mediafire.com/file/5dh4iyh9kp6kdo2/Messenger_458.0.0-TQM-12.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
+      "name": "Quizlet",
+      "bundle": "com.quizlet.quizlet",
+      "icon": "img/icon/Quizlet.png",
+      "banner": "img/banner/Quizlet.png",
+      "features":  [
+        "Mở khoá Premium"
+    ],
+      "versions": [
+    {
+      "version":"10.2",
+      "link":"https://link4m.org/VnhjgLKW"
+    },
+    {
+      "version":"10.46",
+      "link":"https://www.mediafire.com/file/x1ncizmzlwubyx3/Quizlet_10.46-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
       "name": "RingTones Manager",
       "bundle": "com.netskao.ringtonesmanager",
       "icon": "img/icon/RingTonesManager.png",
@@ -190,8 +251,8 @@
       "link":"https://link4m.net/hHZRL"
     },
     {
-      "version":"7.127.0",
-      "link":"https://www.mediafire.com/file/4ayq8dlxa86pqpc/Duolingo_7.127.0-TQM.ipa/file",
+      "version":"7.134.0",
+      "link":"https://www.mediafire.com/file/61u6cqkqdl34gtk/Duolingo_7.134.0-TQM.ipa/file",
       "vip": true
     }
   ]
@@ -1121,8 +1182,8 @@
       "link":"https://link4m.com/oXl1Nb5c"
     },
     {
-      "version":"3.2.0",
-      "link":"https://archive.org/download/ulike-TQM/ulike-TQM.ipa",
+      "version":"5.4.1",
+      "link":"https://www.mediafire.com/file/xvuxb0ktdg60sae/Ulike_5.4.1-TQM.ipa/file",
       "vip": true
     }
   ]
@@ -1157,8 +1218,8 @@
     ],
       "versions": [
     {
-      "version":"9.2.5",
-      "link":"https://link4m.net/8FLFk"
+      "version":"8.6.1",
+      "link":"https://link4m.org/0JHgdI"
     },
     {
       "version":"9.2.5",

@@ -1,5 +1,25 @@
 [
     {
+      "name": "Snake.io",
+      "bundle": "com.kooapps.snakearcade",
+      "icon": "img/icon/Snake.png",
+      "banner": "img/banner/Snake.png",
+      "features":  [
+        "Trả phí trên App Store"
+    ],
+      "versions":[
+    {
+      "version":"1.0.17",
+      "link":"https://link4m.net/D7vuus"
+    },
+    {
+      "version":"1.0.17",
+      "link":"https://www.mediafire.com/file/8gejc78cjtrsk3o/Snake.io_1.0.17-TQM.ipa/file",
+      "vip": true
+    }
+  ]
+    },
+    {
       "name": "Shadow Fight 3",
       "bundle": "com.nekki.shadowfight3",
       "icon": "img/icon/ShadowFight3.png",
