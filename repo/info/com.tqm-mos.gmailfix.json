@@ -19,7 +19,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:12pt;\">Âm thanh hệ thống , khoá máy , pin yếu , kết nối sạc ios 6 trên thiết bị đời cao</p>",
+          "markdown": "<p style=\"font-size:12pt;\">Khôi phục đầy đủ chức năng Mail trên các thiết bị chạy iOS 6 trở lên.</p>\n<p style=\"font-size:12pt;\">Đăng nhập bằng mật khẩu khoá ứng dụng của Google.</p>",
           "useRawFormat": true
         },
         {
@@ -64,7 +64,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "14.0 - 16.X",
+          "text": "6.0 - 8.X",
           "title": "Hỗ trợ"
         },
         {
