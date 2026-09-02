@@ -5,21 +5,13 @@ html,body{
 background:#f4f6fb;
 }
 
-html{
-    width:100%;
-    max-width:100%;
-    overflow-x:hidden;
-}
-
 body{
-    width:100%;
-    max-width:100%;
-    font-family:"TQM";
-    margin:0 auto;
-    padding:16px;
-    line-height:1.6;
-    overflow-x:hidden !important;
-    overflow-y:hidden !important;
+font-family:"TQM";
+margin:0 auto;
+padding:16px;
+line-height:1.6;
+overflow-x:hidden !important;
+overflow-y:hidden !important;
 }
 
 #your_ios {
@@ -43,18 +35,8 @@ box-shadow:0 4px 14px rgba(0,0,0,.08);
 }
 
 .card{
-    padding:16px;
-    margin:14px 0;
-    min-width:0;
-    max-width:100%;
-    overflow:hidden;
-}
-
-#screenshot{
-    width:100%;
-    max-width:100%;
-    min-width:0;
-    overflow:hidden;
+padding:16px;
+margin:14px 0;
 }
 
 .fieldset{
@@ -155,16 +137,13 @@ object-fit:contain;
 }
 
 .gallery{
-    display:flex;
-    flex-direction:row;
-    flex-wrap:nowrap;
-    width:100%;
-    max-width:100%;
-    min-width:0;
+    width:320px;
+    max-width:320px;
+    white-space:nowrap;
     overflow-x:scroll;
     overflow-y:hidden;
     box-sizing:border-box;
-    padding:10px 0;
+    padding:10px 2px;
     -webkit-overflow-scrolling:auto;
 }
 
@@ -172,23 +151,18 @@ object-fit:contain;
     display:none;
 }
 
-.gallery a{
-    display:block;
-    flex:0 0 190px;
-    width:190px;
-    max-width:190px;
-    min-width:190px;
-    margin-right:14px;
-}
-
 .gallery img{
-    display:block;
+    display:inline-block;
     width:190px;
     max-width:190px;
-    min-width:190px;
     height:auto;
     border-radius:14px;
     box-shadow:0 8px 24px rgba(0,0,0,.18);
+}
+
+.gallery a{
+    display:inline-block;
+    margin-right:14px;
 }
 
 @media(prefers-color-scheme:dark){
