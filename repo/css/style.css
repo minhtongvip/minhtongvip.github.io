@@ -141,6 +141,10 @@ object-fit:contain;
     padding:10px 2px;
 }
 
+.gallery::-webkit-scrollbar{
+    display:none;
+}
+
 .gallery img{
     display:inline-block;
     width:190px;
