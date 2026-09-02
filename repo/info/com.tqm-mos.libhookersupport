@@ -1,7 +1,4 @@
 {
     "compatitle":"iOS 12, 15.x",
-    "desc_long":"• Lớp tương thích để sử dụng các tinh chỉnh Coolstar trên các bootstrap dựa trên chất nền/chất thay thế",
-    "screenshots":[
-        "img/tweaks.png"
-    ]
+    "desc_long":"• Lớp tương thích để sử dụng các tinh chỉnh Coolstar trên các bootstrap dựa trên chất nền/chất thay thế"
 }

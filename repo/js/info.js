@@ -14,11 +14,22 @@ function isCompatibleIOS(version, compat) {
     return current >= min && current <= max;
 }
 
-function loadPackageInfo(){if(navigator.userAgent.search(/Cydia/)==-1){$("#showAddRepo_").show();$("#showAddRepoUrl_").show();}
-var urlSelfParts=window.location.href.split('info.html?id=');
-var form_url=urlSelfParts[0]+"info/"+urlSelfParts[1];
-$.ajax({url:form_url,type:"GET",dataType:"json",cache:false,success:function(decodeResp){
-$("#tweakStatusInfo").hide();
+function loadPackageInfo() {
+	if (navigator.userAgent.search(/Cydia/) == -1) {
+		$("#showAddRepo_").show();
+		$("#showAddRepoUrl_").show();
+	}
+	var urlSelfParts = window.location.href.split('info.html?id=');
+	var form_url = urlSelfParts[0]+"info/"+urlSelfParts[1];
+	$.ajax({
+		url: form_url,
+		type: "GET",
+      dataType:"json",
+		cache: false,
+		crossDomain: true,
+		success: function (returnhtml) {
+			$
+("#tweakStatusInfo").hide();
 
 if(decodeResp.name){document.title=decodeResp.name;$("#name").html(decodeResp.name).show();}
 
