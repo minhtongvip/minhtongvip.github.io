@@ -38,7 +38,22 @@ if (decodeResp.compatitle) {
     }
 }
 
-if(decodeResp.screenshots&&decodeResp.screenshots.length){var html='<div class="gallery">';for(var i=0;i<decodeResp.screenshots.length;i++){var img=decodeResp.screenshots[i];html+='<a href="'+img+'" target="_blank"><img src="'+img+'"></a>';}html+='</div>';$("#screenshot").html(html);$("#screenshot_").show();}
+if(decodeResp.screenshots && decodeResp.screenshots.length){
+    var html = '<div class="gallery">';
+
+    for(var i = 0; i < decodeResp.screenshots.length; i++){
+        var img = decodeResp.screenshots[i];
+
+        html += '<a href="' + img + '" target="_blank">';
+        html += '<img src="' + img + '" alt="">';
+        html += '</a>';
+    }
+
+    html += '</div>';
+
+    $("#screenshot").html(html);
+    $("#screenshot_").show();
+}
 
 },
 error:function(){
