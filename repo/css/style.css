@@ -5,12 +5,21 @@ html,body{
 background:#f4f6fb;
 }
 
+html{
+    width:100%;
+    max-width:100%;
+    overflow-x:hidden;
+}
+
 body{
-font-family:"TQM";
-margin:0 auto;
-padding:16px;
-line-height:1.6;
-overflow:hidden !important;
+    width:100%;
+    max-width:100%;
+    font-family:"TQM";
+    margin:0 auto;
+    padding:16px;
+    line-height:1.6;
+    overflow-x:hidden !important;
+    overflow-y:hidden !important;
 }
 
 #your_ios {
@@ -136,31 +145,35 @@ object-fit:contain;
 }
 
 .gallery{
+    display:block;
     width:100%;
     max-width:100%;
-    white-space:nowrap;
     overflow-x:auto;
     overflow-y:hidden;
-    padding:10px 2px;
+    white-space:nowrap;
     box-sizing:border-box;
+    padding:10px 0;
 }
 
 .gallery::-webkit-scrollbar{
     display:none;
 }
 
-.gallery img{
+.gallery a{
     display:inline-block;
+    width:190px;
+    max-width:190px;
+    margin-right:14px;
+    vertical-align:top;
+}
+
+.gallery img{
+    display:block;
     width:190px;
     max-width:190px;
     height:auto;
     border-radius:14px;
     box-shadow:0 8px 24px rgba(0,0,0,.18);
-}
-
-.gallery a{
-    display:inline-block;
-    margin-right:14px;
 }
 
 @media(prefers-color-scheme:dark){
