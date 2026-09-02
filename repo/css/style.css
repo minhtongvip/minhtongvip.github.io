@@ -136,9 +136,13 @@ object-fit:contain;
 }
 
 .gallery{
-    width:320px;
-    max-width:320px;
+    width:100%;
+    max-width:100%;
+    white-space:nowrap;
+    overflow-x:auto;
+    overflow-y:hidden;
     padding:10px 2px;
+    box-sizing:border-box;
 }
 
 .gallery::-webkit-scrollbar{
