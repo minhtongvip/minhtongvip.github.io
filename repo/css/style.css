@@ -142,6 +142,7 @@ object-fit:contain;
     text-align: center;
     overflow: hidden;
     font-size: 0;
+    padding:10px 2px;
 }
 
 .screenshot-viewer > li {
@@ -169,6 +170,7 @@ object-fit:contain;
     margin: 0 auto;
     border-radius: 16px !important;
     vertical-align: middle;
+    -webkit-box-reflect: below 0em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(80%, transparent), to(rgba(0,0,0, 0.3)));
 }
 
 @media(prefers-color-scheme:dark){
