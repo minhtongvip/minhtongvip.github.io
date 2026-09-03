@@ -1,4 +1,7 @@
 {
     "compatitle":"iOS 5, 6.x",
-    "desc_long":"• khắc phục sự cố với Apple Maps và bất kỳ MapView nào trong hệ thống (hỏi Siri về vị trí...) bằng cách chuyển hướng các URI không còn hoạt động."
+    "desc_long":"• khắc phục sự cố với Apple Maps và bất kỳ MapView nào trong hệ thống (hỏi Siri về vị trí...) bằng cách chuyển hướng các URI không còn hoạt động.",
+    "screenshots":[
+        "img/tweaks.png"
+    ]
 }

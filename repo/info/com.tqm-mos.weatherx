@@ -1,4 +1,7 @@
 {
     "compatitle":"iOS 2, 7.x",
-    "desc_long":"• Sửa lỗi ứng dụng thời tiết iOS , tiện ích thời tiết trong trung tâm thông báo và nhiệt độ trong ứng dụng đồng hồ iPad!."
+    "desc_long":"• Sửa lỗi ứng dụng thời tiết iOS , tiện ích thời tiết trong trung tâm thông báo và nhiệt độ trong ứng dụng đồng hồ iPad!.",
+    "screenshots":[
+        "img/tweaks.png"
+    ]
 }

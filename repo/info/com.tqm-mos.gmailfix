@@ -1,4 +1,7 @@
 {
     "compatitle":"iOS 6, 8.x",
-    "desc_long":"• Khôi phục đầy đủ chức năng Mail trên các thiết bị chạy iOS 6 trở lên.<br>• Đăng nhập bằng mật khẩu khoá ứng dụng của Google."
+    "desc_long":"• Khôi phục đầy đủ chức năng Mail trên các thiết bị chạy iOS 6 trở lên.<br>• Đăng nhập bằng mật khẩu khoá ứng dụng của Google.",
+    "screenshots":[
+        "img/tweaks.png"
+    ]
 }

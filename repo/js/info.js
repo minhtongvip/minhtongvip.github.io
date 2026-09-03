@@ -50,7 +50,7 @@ if (decodeResp.screenshots && decodeResp.screenshots.length) {
 
     var html = '<div class="screenshot-viewer">';
 
-    var total = Math.min(decodeResp.screenshots.length, 2);
+    var total = Math.min(decodeResp.screenshots.length, 3);
 
     for (var i = 0; i < total; i++) {
 

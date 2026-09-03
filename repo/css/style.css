@@ -141,6 +141,7 @@ object-fit:contain;
     display: block;
     text-align: center;
     overflow: hidden;
+    padding:10px 2px;
 }
 
 .screenshot-viewer > li {
