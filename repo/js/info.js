@@ -17,6 +17,14 @@ function isCompatibleIOS(version, compat) {
 function loadPackageInfo(){if(navigator.userAgent.search(/Cydia/)==-1){$("#showAddRepo_").show();$("#showAddRepoUrl_").show();}
 var urlSelfParts=window.location.href.split('info.html?id=');
 var form_url=urlSelfParts[0]+"info/"+urlSelfParts[1];
+
+var logoHtml =
+    '<div class="logo">' +
+        '<img src="../img/logo/cert.png" alt="Logo">' +
+    '</div>';
+
+$("#logo").html(logoHtml);
+
 $.ajax({url:form_url,type:"GET",dataType:"json",cache:false,crossDomain: true,success:function(decodeResp){
 $("#tweakStatusInfo").hide();
 
@@ -60,4 +68,35 @@ error:function(){
     $("#errorInfo").html("Mô tả không có sẵn cho "+urlSelfParts[1]).show();
 }
 });
+
+var supportHtml =
+    '<div class="card support-card">' +
+        '<div class="section-title">Liên hệ & Hỗ trợ</div>' +
+
+        '<div class="support-row">' +
+
+            '<a href="https://facebook.com/quangminhios" ' +
+               'target="_blank" ' +
+               'class="support-btn">' +
+                '<span>Facebook 👍</span>' +
+            '</a>' +
+
+            '<a href="https://zalo.me/0868388373" ' +
+               'target="_blank" ' +
+               'class="support-btn">' +
+                '<span>Zalo 💬</span>' +
+            '</a>' +
+
+        '</div>' +
+
+        '<div class="qr-box">' +
+            '<img src="../img/logo/QR.png" alt="QR">' +
+            '<p class="donate-text">' +
+                '❤️ Nếu bạn thấy hữu ích, hãy ủng hộ tôi.' +
+            '</p>' +
+        '</div>' +
+
+    '</div>';
+
+$("#support").html(supportHtml);
 }
