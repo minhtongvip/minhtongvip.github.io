@@ -3,6 +3,7 @@
 
 html,body{
 background:#f4f6fb;
+overflow-x: hidden;
 }
 
 body{
@@ -135,21 +136,16 @@ object-fit:contain;
 }
 
 .gallery {
-    width: auto;
-    height: 50%;
     display: block;
-    list-style: none;
+    width: calc(100% + 32px);
+    height: 290px;
     overflow-x: auto;
     overflow-y: hidden;
-    margin-top: 0;
-    padding-left: 20px;
-    padding-right: 20px;
-    min-width: 100%;
-    margin-left: -20px;
-    margin-right: -20px;
+    margin: 0 -16px;
+    padding: 0 16px;
     white-space: nowrap;
-    -ms-overflow-style: none;
     -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: none;
 }
 
 .gallery::-webkit-scrollbar {
@@ -157,13 +153,13 @@ object-fit:contain;
 }
 
 .gallery > a {
-    padding: 0;
-    margin: 0 8px;
-    font-size: 13px;
     display: inline-block;
-    vertical-align: bottom;
+    vertical-align: top;
     width: auto;
-    height: 290px;
+    height: 260px;
+    margin: 0 8px;
+    padding: 0;
+    white-space: normal;
 }
 
 .gallery > a:first-child {
@@ -175,12 +171,11 @@ object-fit:contain;
 }
 
 .gallery > a img {
-    margin: 0;
+    display: block;
     width: auto;
-    height: 82%;
-    overflow: hidden;
+    height: 240px;
+    max-width: none;
     border-radius: 16px !important;
-    display: inline-block;
     -webkit-box-reflect:
         below 0em
         -webkit-gradient(
