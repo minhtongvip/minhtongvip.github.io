@@ -50,7 +50,9 @@ if (decodeResp.screenshots && decodeResp.screenshots.length) {
 
     var html = '<div class="screenshot-viewer">';
 
-    for (var i = 0; i < decodeResp.screenshots.length; i++) {
+    var total = Math.min(decodeResp.screenshots.length, 2);
+
+    for (var i = 0; i < total; i++) {
 
         var img = decodeResp.screenshots[i];
 

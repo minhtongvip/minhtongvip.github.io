@@ -1,9 +1,8 @@
 /* TQM-Mos Modern CSS */
 *{margin:0;padding:0;box-sizing:border-box;}
 
-html,body{
+html{
 background:#f4f6fb;
-overflow-x: hidden;
 }
 
 body{
@@ -11,6 +10,7 @@ font-family:"TQM";
 margin:0 auto;
 padding:16px;
 line-height:1.6;
+background:#f4f6fb;
 }
 
 #your_ios {
@@ -136,67 +136,29 @@ object-fit:contain;
 }
 
 .screenshot-viewer {
-    width: calc(100% + 32px);
+    width: 100%;
     height: 290px;
-
     display: block;
-    list-style: none;
-
-    overflow-x: auto;
-    overflow-y: hidden;
-
-    margin-top: 0;
-    margin-left: -16px;
-    margin-right: -16px;
-
-    padding-left: 16px;
-    padding-right: 16px;
-
-    white-space: nowrap;
-
-    -ms-overflow-style: none;
-    -webkit-overflow-scrolling: touch;
-}
-
-.screenshot-viewer::-webkit-scrollbar {
-    display: none;
+    text-align: center;
+    overflow: hidden;
 }
 
 .screenshot-viewer > li {
-    padding: 0;
-    margin: 0 8px;
-
-    font-size: 13px;
-
     display: inline-block;
-    vertical-align: bottom;
-}
-
-.screenshot-viewer > li:first-child {
-    margin-left: 0;
-}
-
-.screenshot-viewer > li:last-child {
-    margin-right: 0;
+    vertical-align: top;
+    margin: 0 6px;
 }
 
 .screenshot-viewer a {
-    width: auto;
-    height: 290px;
-
     display: block;
+    height: 290px;
 }
 
 .screenshot-viewer img {
     width: auto;
     height: 82%;
-
-    overflow: hidden;
-
-    border-radius: 20px;
-
     display: inline-block;
-
+    border-radius: 16px !important;
     -webkit-box-reflect:
         below 0em
         -webkit-gradient(
