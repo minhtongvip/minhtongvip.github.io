@@ -48,7 +48,8 @@ if (decodeResp.compatitle) {
 
 if (decodeResp.screenshots && decodeResp.screenshots.length) {
 
-    var html = '<ul class="screenshot-viewer">';
+    var html = '<div class="cydia-screenshots">';
+    html += '<ul>';
 
     for (var i = 0; i < decodeResp.screenshots.length; i++) {
 
@@ -63,6 +64,7 @@ if (decodeResp.screenshots && decodeResp.screenshots.length) {
     }
 
     html += '</ul>';
+    html += '</div>';
 
     $("#screenshot").html(html);
     $("#screenshot_").show();

@@ -160,63 +160,91 @@ body {
    SCREENSHOT
    ========================================= */
 
-.screenshot-viewer a{
-  width: auto;
-  height: 290px;
-  display: block;
+.cydia-screenshots {
+    width: 100%;
+    height: 310px;
+
+    overflow-x: auto;
+    overflow-y: hidden;
+
+    white-space: nowrap;
+
+    margin: 0;
+    padding: 5px 0 15px 0;
+
+    -webkit-overflow-scrolling: touch;
 }
 
-.screenshot-viewer img{
-  width: auto;
-  height: 82%;
-  overflow: hidden;
-  border-radius: 20px;
-  display: inline-block;
-  -webkit-box-reflect: below 0em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(80%, transparent), to(rgba(0,0,0, 0.3)));
+.cydia-screenshots ul {
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
 }
 
-.screenshot-viewer{
-  width: auto;
-  height: 50%;
-  display: block;
-  list-style: none;
-  overflow-x: auto;
-  margin-top: 0px;
-  padding-left: 20px;
-  padding-right: 20px;
-  min-width: 100%;
-  margin-left: -20px;
-  margin-right: -20px;
-  overflow-y: hidden;
-  white-space: nowrap;
-  -ms-overflow-style: none;
-  -webkit-overflow-scrolling: touch;
+.cydia-screenshots li {
+    display: inline-block;
+    vertical-align: top;
+
+    width: 200px;
+    height: 290px;
+
+    margin: 0 12px 0 0;
+    padding: 0;
+
+    list-style: none;
 }
 
-.screenshot-viewer>li{
-  padding: 0;
-  margin: 0 8px;
-  font-size: 13px;
-  display: inline-block;
-  vertical-align: bottom;
+.cydia-screenshots li:last-child {
+    margin-right: 0;
 }
 
-.screenshot-viewer>li:first-child{
-  margin-left: 0;
+.cydia-screenshots a {
+    display: block;
+
+    width: 200px;
+    height: 290px;
+
+    margin: 0;
+    padding: 0;
+
+    text-decoration: none;
 }
 
-.screenshot-viewer>li:last-child{
-  margin-right: 0;
+.cydia-screenshots img {
+    display: block;
+
+    width: 200px;
+    height: 290px;
+
+    margin: 0;
+    padding: 0;
+
+    border: 0;
+    border-radius: 16px;
+
+    object-fit: contain;
+
+    background: #f2f2f7;
 }
 
-.screenshot-viewer>li img{
-  margin: 0;
-  width: auto;
-  overflow: hidden;
-  border: 3px solid #999;
-  border-radius: 16px!important;
-  box-shadow: 0px 2px 4px rgba(0,0,0, 0);
-  z-index: 1;
+/* màn hình nhỏ */
+@media screen and (max-width: 480px) {
+
+    .cydia-screenshots {
+        height: 280px;
+    }
+
+    .cydia-screenshots li {
+        width: 180px;
+        height: 260px;
+        margin-right: 10px;
+    }
+
+    .cydia-screenshots a,
+    .cydia-screenshots img {
+        width: 180px;
+        height: 260px;
+    }
 }
 
 /* =========================================
