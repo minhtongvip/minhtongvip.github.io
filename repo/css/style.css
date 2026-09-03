@@ -163,14 +163,11 @@ body {
 .screenshot-viewer {
     display: flex;
     width: 100%;
-    gap: 12px;
+    max-width: 100%;
     overflow-x: auto;
     overflow-y: hidden;
     padding: 10x 2px;
-    margin: 0;
     -webkit-overflow-scrolling: touch;
-    scroll-snap-type: x mandatory;
-    scrollbar-width: none;
 }
 
 .screenshot-viewer::-webkit-scrollbar {
