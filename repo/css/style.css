@@ -160,20 +160,6 @@ body {
    SCREENSHOT
    ========================================= */
 
-.screenshot-viewer {
-    display: flex;
-    width: 100%;
-    max-width: 100%;
-    overflow-x: auto;
-    overflow-y: hidden;
-    padding: 10x 2px;
-    -webkit-overflow-scrolling: touch;
-}
-
-.screenshot-viewer::-webkit-scrollbar {
-    display: none;
-}
-
 .screenshot-viewer a{
   width: auto;
   height: 290px;
@@ -187,6 +173,24 @@ body {
   border-radius: 20px;
   display: inline-block;
   -webkit-box-reflect: below 0em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(80%, transparent), to(rgba(0,0,0, 0.3)));
+}
+
+.screenshot-viewer{
+  width: auto;
+  height: 50%;
+  display: block;
+  list-style: none;
+  overflow-x: auto;
+  margin-top: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  min-width: 100%;
+  margin-left: -20px;
+  margin-right: -20px;
+  overflow-y: hidden;
+  white-space: nowrap;
+  -ms-overflow-style: none;
+  -webkit-overflow-scrolling: touch;
 }
 
 .screenshot-viewer>li{
@@ -209,7 +213,7 @@ body {
   margin: 0;
   width: auto;
   overflow: hidden;
-  border: 2px solid #999;
+  border: 3px solid #999;
   border-radius: 16px!important;
   box-shadow: 0px 2px 4px rgba(0,0,0, 0);
   z-index: 1;
