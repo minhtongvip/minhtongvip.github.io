@@ -46,15 +46,20 @@ if (decodeResp.compatitle) {
     }
 }
 
-if(decodeResp.screenshots && decodeResp.screenshots.length){
-    var html = '<div class="gallery">';
+if (decodeResp.screenshots && decodeResp.screenshots.length) {
 
-    for(var i = 0; i < decodeResp.screenshots.length; i++){
+    var html = '<div class="screenshot-viewer">';
+
+    for (var i = 0; i < decodeResp.screenshots.length; i++) {
+
         var img = decodeResp.screenshots[i];
 
-        html += '<a href="' + img + '" target="_blank">';
-        html += '<img src="' + img + '" alt="">';
-        html += '</a>';
+        html +=
+            '<li>' +
+                '<a href="' + img + '" target="_blank">' +
+                    '<img src="' + img + '" alt="Screenshot">' +
+                '</a>' +
+            '</li>';
     }
 
     html += '</div>';
@@ -95,8 +100,9 @@ var supportHtml =
                 '❤️ Nếu bạn thấy hữu ích, hãy ủng hộ tôi.' +
             '</p>' +
         '</div>' +
+    '</div>' +
 
-    '</div>';
+        '<footer class="footer">' + '© Bản quyền thuộc về TQM-MOS.' + '</footer>';
 
 $("#support").html(supportHtml);
 }
