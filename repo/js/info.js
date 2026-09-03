@@ -48,11 +48,9 @@ if (decodeResp.compatitle) {
 
 if (decodeResp.screenshots && decodeResp.screenshots.length) {
 
-    var html = '<div class="screenshot-viewer">';
+    var html = '<ul class="screenshot-viewer">';
 
-    var total = Math.min(decodeResp.screenshots.length, 2);
-
-    for (var i = 0; i < total; i++) {
+    for (var i = 0; i < decodeResp.screenshots.length; i++) {
 
         var img = decodeResp.screenshots[i];
 
@@ -64,7 +62,7 @@ if (decodeResp.screenshots && decodeResp.screenshots.length) {
             '</li>';
     }
 
-    html += '</div>';
+    html += '</ul>';
 
     $("#screenshot").html(html);
     $("#screenshot_").show();
