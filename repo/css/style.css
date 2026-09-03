@@ -136,8 +136,9 @@ object-fit:contain;
 }
 
 .screenshot-viewer {
-    width: auto;
-    height: 50%;
+    width: calc(100% + 32px);
+    height: 290px;
+
     display: block;
     list-style: none;
 
@@ -145,14 +146,11 @@ object-fit:contain;
     overflow-y: hidden;
 
     margin-top: 0;
+    margin-left: -16px;
+    margin-right: -16px;
 
-    padding-left: 20px;
-    padding-right: 20px;
-
-    min-width: 100%;
-
-    margin-left: -20px;
-    margin-right: -20px;
+    padding-left: 16px;
+    padding-right: 16px;
 
     white-space: nowrap;
 
@@ -195,12 +193,7 @@ object-fit:contain;
 
     overflow: hidden;
 
-    border: 3px solid #999;
-    border-radius: 16px !important;
-
-    box-shadow: 0px 2px 4px rgba(0,0,0,0);
-
-    z-index: 1;
+    border-radius: 20px;
 
     display: inline-block;
 
