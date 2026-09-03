@@ -160,91 +160,63 @@ body {
    SCREENSHOT
    ========================================= */
 
-.cydia-screenshots {
+.cydia-carousel {
     width: 100%;
-    height: 310px;
-
     overflow-x: auto;
     overflow-y: hidden;
-
-    white-space: nowrap;
-
-    margin: 0;
-    padding: 5px 0 15px 0;
-
     -webkit-overflow-scrolling: touch;
+    white-space: nowrap;
+    margin: 0;
+    padding: 4px 0 14px 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
-.cydia-screenshots ul {
+.cydia-carousel::-webkit-scrollbar {
+    display: none;
+}
+
+.cydia-carousel-list {
     margin: 0;
     padding: 0;
     white-space: nowrap;
-}
-
-.cydia-screenshots li {
-    display: inline-block;
-    vertical-align: top;
-
-    width: 200px;
-    height: 290px;
-
-    margin: 0 12px 0 0;
-    padding: 0;
-
     list-style: none;
 }
 
-.cydia-screenshots li:last-child {
+.cydia-carousel-item {
+    display: inline-block;
+    vertical-align: top;
+    width: 210px;
+    margin: 0 12px 0 0;
+    padding: 0;
+    white-space: normal;
+    list-style: none;
+}
+
+.cydia-carousel-item:last-child {
     margin-right: 0;
 }
 
-.cydia-screenshots a {
+.cydia-carousel-link {
     display: block;
-
-    width: 200px;
-    height: 290px;
-
+    width: 210px;
+    height: 300px;
     margin: 0;
     padding: 0;
-
     text-decoration: none;
+    text-align: center;
 }
 
-.cydia-screenshots img {
+.cydia-carousel-image {
     display: block;
-
-    width: 200px;
-    height: 290px;
-
-    margin: 0;
+    width: 210px;
+    height: 300px;
+    margin: 0 auto;
     padding: 0;
-
     border: 0;
     border-radius: 16px;
-
     object-fit: contain;
-
     background: #f2f2f7;
-}
-
-/* màn hình nhỏ */
-@media screen and (max-width: 480px) {
-
-    .cydia-screenshots {
-        height: 280px;
-    }
-
-    .cydia-screenshots li {
-        width: 180px;
-        height: 260px;
-        margin-right: 10px;
-    }
-
-    .cydia-screenshots a,
-    .cydia-screenshots img {
-        width: 180px;
-        height: 260px;
-    }
 }
 
 /* =========================================

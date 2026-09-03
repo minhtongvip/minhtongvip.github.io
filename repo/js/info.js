@@ -48,17 +48,17 @@ if (decodeResp.compatitle) {
 
 if (decodeResp.screenshots && decodeResp.screenshots.length) {
 
-    var html = '<div class="cydia-screenshots">';
-    html += '<ul>';
+    var html = '<div class="cydia-carousel">';
+    html += '<ul class="cydia-carousel-list">';
 
     for (var i = 0; i < decodeResp.screenshots.length; i++) {
 
         var img = decodeResp.screenshots[i];
 
         html +=
-            '<li>' +
-                '<a href="' + img + '" target="_blank">' +
-                    '<img src="' + img + '" alt="Screenshot">' +
+            '<li class="cydia-carousel-item">' +
+                '<a class="cydia-carousel-link" href="' + img + '" target="_blank">' +
+                    '<img class="cydia-carousel-image" src="' + img + '" alt="Screenshot">' +
                 '</a>' +
             '</li>';
     }
