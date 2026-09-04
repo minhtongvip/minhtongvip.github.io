@@ -162,13 +162,14 @@ body {
 
 .screenshot-viewer {
     display: block;
-    width: 300px;
+    min-width: 100%;
+    width: auto;
     height: 60%;
     overflow-x: auto;
     overflow-y: hidden;
     white-space: nowrap;
     margin: 0;
-    padding: 2px 2px;
+    padding: 10px 0;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     -webkit-overflow-scrolling: touch;
