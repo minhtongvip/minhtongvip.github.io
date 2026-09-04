@@ -160,63 +160,69 @@ body {
    SCREENSHOT
    ========================================= */
 
-.cydia-carousel {
-    width: 100%;
+/* =========================
+   A-BYPASS STYLE SCREENSHOT
+   ========================= */
+
+.screenshot-viewer {
+    width: auto;
+    height: 290px;
+    display: block;
+    list-style: none;
     overflow-x: auto;
     overflow-y: hidden;
-    -webkit-overflow-scrolling: touch;
     white-space: nowrap;
-    margin: 0;
-    padding: 4px 0 14px 0;
+    -webkit-overflow-scrolling: touch;
+    margin: 0 -20px;
+    padding: 0 20px;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
 
-.cydia-carousel::-webkit-scrollbar {
-    display: none;
-}
-
-.cydia-carousel-list {
-    margin: 0;
-    padding: 0;
-    white-space: nowrap;
-    list-style: none;
-}
-
-.cydia-carousel-item {
+.screenshot-viewer > li {
     display: inline-block;
-    vertical-align: top;
-    width: 210px;
-    margin: 0 12px 0 0;
+    vertical-align: bottom;
     padding: 0;
-    white-space: normal;
+    margin: 0 8px;
+    font-size: 13px;
     list-style: none;
 }
 
-.cydia-carousel-item:last-child {
+.screenshot-viewer > li:first-child {
+    margin-left: 0;
+}
+
+.screenshot-viewer > li:last-child {
     margin-right: 0;
 }
 
-.cydia-carousel-link {
+.screenshot-viewer a {
     display: block;
-    width: 210px;
-    height: 300px;
-    margin: 0;
-    padding: 0;
+    width: auto;
+    height: 290px;
     text-decoration: none;
-    text-align: center;
 }
 
-.cydia-carousel-image {
-    display: block;
-    width: 210px;
-    height: 300px;
-    margin: 0 auto;
-    padding: 0;
-    border: 0;
+.screenshot-viewer img {
+    display: inline-block;
+    width: auto;
+    height: 82%;
+    max-width: none;
+    overflow: hidden;
+    border: 3px solid #999;
     border-radius: 16px;
-    object-fit: contain;
-    background: #f2f2f7;
+    margin: 0;
+    vertical-align: bottom;
+    -webkit-box-reflect:
+        below 0em
+        -webkit-gradient(
+            linear,
+            left top,
+            left bottom,
+            from(transparent),
+            color-stop(80%, transparent),
+            to(rgba(0,0,0,0.3))
+        );
 }
 
 /* =========================================
