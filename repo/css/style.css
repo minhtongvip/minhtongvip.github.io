@@ -189,8 +189,8 @@ body {
     display: inline-block;
     vertical-align: top;
     width: 100%;
-    height: 62%;
-    margin: 0;
+    height: 100%;
+    margin: 0 2px 0 0;
     padding: 0;
     list-style: none;
     white-space: normal;
@@ -199,7 +199,7 @@ body {
 .screenshot-viewer li a {
     display: block;
     width: 100%;
-    height: 62%;
+    height: 100%;
     margin: 0;
     padding: 0;
 }
