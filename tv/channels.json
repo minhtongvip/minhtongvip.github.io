@@ -224,22 +224,6 @@
     "website": null
   },
   {
-    "id": "sctv2hd",
-    "name": "SCTV2 - todayTV HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "KÊNH GIẢI TRÍ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "sctv6hd",
     "name": "SCTV6 - FIM 360 HD",
     "alt_names": [],
@@ -674,22 +658,6 @@
   {
     "id": "cantho1",
     "name": "TH CẦN THƠ 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "cantho2",
-    "name": "TH CẦN THƠ 2 HD",
     "alt_names": [],
     "network": null,
     "owners": [],

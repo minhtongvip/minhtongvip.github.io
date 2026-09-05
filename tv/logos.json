@@ -140,16 +140,6 @@
     "url": "https://i.imgur.com/n7QICK7.png"
   },
   {
-    "channel": "sctv2hd",
-    "feed": null,
-    "in_use": true,
-    "tags": [],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/iMDjKF9.png"
-  },
-  {
     "channel": "sctv6hd",
     "feed": null,
     "in_use": true,
@@ -428,16 +418,6 @@
     "height": null,
     "format": "PNG",
     "url": "https://i.imgur.com/F5OhQVa.png"
-  },
-  {
-    "channel": "cantho2",
-    "feed": null,
-    "in_use": true,
-    "tags": [],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/HqV3frO.png"
   },
   {
     "channel": "cantho3",

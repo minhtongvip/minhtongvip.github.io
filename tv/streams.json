@@ -140,16 +140,6 @@
     "referrer": null
   },
   {
-    "channel": "sctv2hd",
-    "feed": "HD",
-    "title": "SCTV2 - todayTV HD",
-    "url": "https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8",
-    "quality": "1080p",
-    "labels": [],
-    "user_agent": null,
-    "referrer": null
-  },
-  {
     "channel": "sctv6hd",
     "feed": "HD",
     "title": "SCTV6 - FIM 360 HD",
@@ -424,16 +414,6 @@
     "feed": "HD",
     "title": "TH CẦN THƠ 1 HD",
     "url": "https://live.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist_b2500000.m3u8",
-    "quality": "1080p",
-    "labels": [],
-    "user_agent": null,
-    "referrer": null
-  },
-  {
-    "channel": "cantho2",
-    "feed": "HD",
-    "title": "TH CẦN THƠ 2 HD",
-    "url": "https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist_b5000000.m3u8",
     "quality": "1080p",
     "labels": [],
     "user_agent": null,
