@@ -1,262 +1,75 @@
 [
   {
-    "id": "vtv1hd",
-    "name": "VTV1 HD",
-    "alt_names": [],
-    "network": "VTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8",
-    "logo": "https://i.imgur.com/EHjW7mC.png"
-  },
-  {
-    "id": "vtv2hd",
-    "name": "VTV2 HD",
-    "alt_names": [],
-    "network": "VTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8",
-    "logo": "https://i.imgur.com/urCWISb.png"
-  },
-  {
-    "id": "vtv3hd",
-    "name": "VTV3 HD",
-    "alt_names": [],
-    "network": "VTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8",
-    "logo": "https://i.imgur.com/yybRDKn.png"
-  },
-  {
-    "id": "vtv4hd",
-    "name": "VTV4 HD",
-    "alt_names": [],
-    "network": "VTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8",
-    "logo": "https://i.imgur.com/G6uVWLi.png"
-  },
-  {
-    "id": "vietnamtoday",
-    "name": "VIETNAM TODAY HD",
+    "id": "AirTV.vn",
+    "name": "Air TV",
     "alt_names": [],
     "network": null,
     "owners": [],
     "country": "VN",
-    "categories": [
-      "general"
-    ],
+    "categories": [],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
     "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/p9bWxfm.png"
+    "website": null
   },
   {
-    "id": "vtv5hd",
-    "name": "VTV5 HD",
-    "alt_names": [],
-    "network": "VTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
+    "id": "AnGiangTV1.vn",
+    "name": "An Giang TV 1",
+    "alt_names": [
+      "ATV1",
+      "Kien Giang TV",
+      "KG-PTTH"
     ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8",
-    "logo": "https://i.imgur.com/Rzi9LxP.png"
-  },
-  {
-    "id": "vtv5hdtnb",
-    "name": "VTV5 TÂY NAM BỘ HD",
-    "alt_names": [],
-    "network": "VTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8",
-    "logo": "https://i.imgur.com/xiuHjEQ.png"
-  },
-  {
-    "id": "vtv5hdtn",
-    "name": "VTV5 TÂY NGUYÊN HD",
-    "alt_names": [],
-    "network": "VTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/index.m3u8",
-    "logo": "https://i.imgur.com/Hlcnqqt.png"
-  },
-  {
-    "id": "vtv6hd",
-    "name": "VTV6 HD",
-    "alt_names": [],
-    "network": "VTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8",
-    "logo": "https://i.imgur.com/WYu3c0U.png"
-  },
-  {
-    "id": "vtv7hd",
-    "name": "VTV7 HD",
-    "alt_names": [],
-    "network": "VTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8",
-    "logo": "https://i.imgur.com/bphN2eA.png"
-  },
-  {
-    "id": "vtv8hd",
-    "name": "VTV8 HD",
-    "alt_names": [],
-    "network": "VTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/tjA1fU8.png"
-  },
-  {
-    "id": "vtv9hd",
-    "name": "VTV9 HD",
-    "alt_names": [],
-    "network": "VTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8",
-    "logo": "https://i.imgur.com/rUeimhI.png"
-  },
-  {
-    "id": "vtv10hd",
-    "name": "VTV10 HD",
-    "alt_names": [],
-    "network": "VTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8",
-    "logo": "https://i.imgur.com/n1VZWPh.png"
-  },
-  {
-    "id": "onviedramas",
-    "name": "ON Vie DRAMAS",
-    "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "An Giang Radio - Television Station"
+    ],
     "country": "VN",
     "categories": [
-      "movies"
+      "general"
     ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
     "replaced_by": null,
-    "website": null,
-    "stream_url": "http://dvrfl05.bozztv.com/vch_vchannel18/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/n7QICK7.png"
+    "website": "https://angiangtv.vn/"
   },
   {
-    "id": "sctv2hd",
-    "name": "SCTV2 - todayTV HD",
-    "alt_names": [],
+    "id": "AnGiangTV2.vn",
+    "name": "An Giang TV 2",
+    "alt_names": [
+      "An Giang TV",
+      "AnGiangTV",
+      "ATV",
+      "ATV2"
+    ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "An Giang Radio - Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": "1998-08-19",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://angiangtv.vn/"
+  },
+  {
+    "id": "AnGiangTV3.vn",
+    "name": "An Giang TV 3",
+    "alt_names": [
+      "ATV 3",
+      "Kien Giang TV 1",
+      "KG1-PTTH"
+    ],
+    "network": null,
+    "owners": [
+      "An Giang Radio - Television Station"
+    ],
     "country": "VN",
     "categories": [
       "entertainment"
@@ -265,2011 +78,643 @@
     "launched": null,
     "closed": null,
     "replaced_by": null,
-    "website": null,
-    "stream_url": "https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8",
-    "logo": "https://i.imgur.com/iMDjKF9.png"
+    "website": "https://angiangtv.vn/"
   },
   {
-    "id": "sctv6hd",
-    "name": "SCTV6 - FIM 360 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.postimg.cc/PqcqqxhT/FIM360-logo.webp"
-  },
-  {
-    "id": "htv1",
-    "name": "HTV1 HD",
-    "alt_names": [],
-    "network": "HTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/KEMSBD3.png"
-  },
-  {
-    "id": "htv2hd",
-    "name": "HTV2 - Vie Channel HD",
-    "alt_names": [],
-    "network": "HTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/2npoF3Q.png"
-  },
-  {
-    "id": "htv3",
-    "name": "HTV3 HD",
-    "alt_names": [],
-    "network": "HTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/TCoIsVF.png"
-  },
-  {
-    "id": "htv4",
-    "name": "HTV4 HD",
-    "alt_names": [],
-    "network": "HTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/BcCA0x2.png"
-  },
-  {
-    "id": "htv5",
-    "name": "HTV5 HD",
-    "alt_names": [],
-    "network": "HTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/EI0mJRf.png"
-  },
-  {
-    "id": "htv7hd",
-    "name": "HTV7 HD",
-    "alt_names": [],
-    "network": "HTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/n2PEK28.png"
-  },
-  {
-    "id": "htv9hd",
-    "name": "HTV9 HD",
-    "alt_names": [],
-    "network": "HTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/6GSN524.png"
-  },
-  {
-    "id": "htvthethaohd",
-    "name": "HTV THỂ THAO HD",
-    "alt_names": [],
-    "network": "HTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/ikaiET3.png"
-  },
-  {
-    "id": "htvccanhachd",
-    "name": "HTVC CA NHẠC HD",
-    "alt_names": [],
-    "network": "HTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/qWTkcZN.png"
-  },
-  {
-    "id": "htvcdulichhd",
-    "name": "HTVC DU LỊCH & CUỘC SỐNG HD",
-    "alt_names": [],
-    "network": "HTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/mDemDFL.png"
-  },
-  {
-    "id": "htvcgiadinhhd",
-    "name": "HTVC GIA ĐÌNH HD",
-    "alt_names": [],
-    "network": "HTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/Al6xJme.png"
-  },
-  {
-    "id": "htvcphimhd",
-    "name": "HTVC PHIM HD",
-    "alt_names": [],
-    "network": "HTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/P0wqvmu.png"
-  },
-  {
-    "id": "htvcphunuhd",
-    "name": "HTVC PHỤ NỮ HD",
-    "alt_names": [],
-    "network": "HTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/FxzpvHI.png"
-  },
-  {
-    "id": "htvcthuanviet",
-    "name": "HTVC THUẦN VIỆT HD",
-    "alt_names": [],
-    "network": "HTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/KtMeo6q.png"
-  },
-  {
-    "id": "htvcplushd",
-    "name": "HTVC+ HD",
-    "alt_names": [],
-    "network": "HTV",
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/Tkjs3C5.png"
-  },
-  {
-    "id": "antvhd",
-    "name": "ANTV - TH CÔNG AN NHÂN DÂN HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/nOb4rPT.png"
-  },
-  {
-    "id": "qpvnhd",
-    "name": "QPVN - TH QUỐC PHÒNG VIỆT NAM HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/UIGZw0y.png"
-  },
-  {
-    "id": "vinhlong1hd",
-    "name": "TH VĨNH LONG 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/q3fjpYc.png"
-  },
-  {
-    "id": "vinhlong2hd",
-    "name": "TH VĨNH LONG 2 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/zGv54Ed.png"
-  },
-  {
-    "id": "vinhlong3hd",
-    "name": "TH VĨNH LONG 3 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/44c1Yoz.png"
-  },
-  {
-    "id": "vinhlong4hd",
-    "name": "TH VĨNH LONG 4 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/JWDsJxB.png"
-  },
-  {
-    "id": "vinhlong5hd",
-    "name": "TH VĨNH LONG 5 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/hSdSUqx.png"
-  },
-  {
-    "id": "angiang1",
-    "name": "ATV1 - TH AN GIANG 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/mgp6RAU.png"
-  },
-  {
-    "id": "angiang2",
-    "name": "ATV2 - TH AN GIANG 2 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/efrauLr.png"
-  },
-  {
-    "id": "angiang3",
-    "name": "ATV3 - TH AN GIANG 3 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/gZUV4z8.png"
-  },
-  {
-    "id": "camau",
-    "name": "CTV - TH CÀ MAU HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/ZKV1ok2.png"
-  },
-  {
-    "id": "cantho1",
-    "name": "TH CẦN THƠ 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/F5OhQVa.png"
-  },
-  {
-    "id": "cantho2",
-    "name": "TH CẦN THƠ 2 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/HqV3frO.png"
-  },
-  {
-    "id": "cantho3",
-    "name": "TH CẦN THƠ 3 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/7FA1I1d.png"
-  },
-  {
-    "id": "dongthap1",
-    "name": "THĐT1 - TH ĐỒNG THÁP 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/TqAz7ET.png"
-  },
-  {
-    "id": "dongthap2",
-    "name": "MIỀN TÂY THĐT2 - TH ĐỒNG THÁP 2 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/PfETBEp.png"
-  },
-  {
-    "id": "lamdong1",
-    "name": "LTV1 - TH LÂM ĐỒNG 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8",
-    "logo": "https://i.postimg.cc/f35Jkqv6/LD1.png"
-  },
-  {
-    "id": "lamdong2",
-    "name": "LTV2 - TH LÂM ĐỒNG 2 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.postimg.cc/n99zRFfP/LD2.png"
-  },
-  {
-    "id": "tayninh1",
-    "name": "TN - TH TÂY NINH HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/HFm3hbC.png"
-  },
-  {
-    "id": "danang1",
-    "name": "ĐNRT1 - TH TP. ĐÀ NẴNG 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.postimg.cc/8jwBQ42q/dnrt1.png"
-  },
-  {
-    "id": "danang2",
-    "name": "ĐNRT2 - TH TP. ĐÀ NẴNG 2 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.postimg.cc/870Rs5Pm/dnrt2.png"
-  },
-  {
-    "id": "gialai",
-    "name": "GTV - TH GIA LAI HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.postimg.cc/grHBjV9t/Gialai.png"
-  },
-  {
-    "id": "hatinh",
-    "name": "BHT TV - TH HÀ TĨNH HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/sESKlNO.png"
-  },
-  {
-    "id": "hue",
-    "name": "HueTV - TH TP. HUẾ HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/bVWyWC7.png"
-  },
-  {
-    "id": "khanhhoa",
-    "name": "KTV - TH KHÁNH HÒA HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.postimg.cc/2qn7JYr6/KH.png"
-  },
-  {
-    "id": "khanhhoa1",
-    "name": "KTV1 - TH KHÁNH HÒA 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.postimg.cc/14vcbJhC/KH1.png"
-  },
-  {
-    "id": "nghean",
-    "name": "NTV - TH NGHỆ AN HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/FLvFSLS.png"
-  },
-  {
-    "id": "quangngai",
-    "name": "QNgTV1 - TH QUẢNG NGÃI HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.postimg.cc/pdnCmw7y/QNg-TV1.png"
-  },
-  {
-    "id": "quangngai2",
-    "name": "QNgTV2 - TH QUẢNG NGÃI 2 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzsd1/quangngai01_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.postimg.cc/0j90HbNC/QNg-TV2.png"
-  },
-  {
-    "id": "quangtri",
-    "name": "QTTV - TH QUẢNG TRỊ HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/6qOelwt.png"
-  },
-  {
-    "id": "thanhhoa",
-    "name": "TTV - TH THANH HOÁ HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/UwTCbZ5.png"
-  },
-  {
-    "id": "hanoi1",
-    "name": "H1 - TH HÀ NỘI 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.postimg.cc/hvL15x02/Hanoi-TV1.png"
-  },
-  {
-    "id": "hanoi2",
-    "name": "H2 - TH HÀ NỘI 2 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.postimg.cc/Nft4rJgS/Hanoi-TV2.png"
-  },
-  {
-    "id": "bacninh",
-    "name": "BTV - TH BẮC NINH HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.postimg.cc/BjpqCL1S/BNTV.png"
-  },
-  {
-    "id": "dienbien",
-    "name": "ĐTV - TH ĐIỆN BIÊN HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/hMDRDxN.png"
-  },
-  {
-    "id": "haiphong",
-    "name": "THP - TH TP. HẢI PHÒNG HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/iq9JLb9.png"
-  },
-  {
-    "id": "haiphong3",
-    "name": "THP3 - TH TP. HẢI PHÒNG 3 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/FEvJhRf.png"
-  },
-  {
-    "id": "hungyen",
-    "name": "HYTV - TH HƯNG YÊN HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/fakTCLE.png"
-  },
-  {
-    "id": "laichau",
-    "name": "LTV - TH LAI CHÂU HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/n02cvKQ.png"
-  },
-  {
-    "id": "langson",
-    "name": "LSTV - TH LẠNG SƠN HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/yxz02UD.png"
-  },
-  {
-    "id": "laocai",
-    "name": "THLC - TH LÀO CAI HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/Vd0P0rx.png"
-  },
-  {
-    "id": "ninhbinh",
-    "name": "NBTV - TH NINH BÌNH HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/qHQTwJ9.png"
-  },
-  {
-    "id": "phutho",
-    "name": "PTV - TH PHÚ THỌ HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/LXuRwJY.png"
-  },
-  {
-    "id": "quangninh1",
-    "name": "QTV1 - TH QUẢNG NINH 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/KVia0uU.png"
-  },
-  {
-    "id": "quangninh3",
-    "name": "QTV3 - TH QUẢNG NINH 3 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/AheAmMj.png"
-  },
-  {
-    "id": "sonla",
-    "name": "SNews - TH SƠN LA HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.postimg.cc/3JnLC20C/Snews.png"
-  },
-  {
-    "id": "thainguyen",
-    "name": "TN - TH THÁI NGUYÊN HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/P3pbab8.png"
-  },
-  {
-    "id": "tuyenquang",
-    "name": "TTV - TH TUYÊN QUANG HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/Pfq3ix9.png"
-  },
-  {
-    "id": "tv.hd",
-    "name": "&TV HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
-    "logo": "https://i.imgur.com/32W50Y6.png"
-  },
-  {
-    "id": "ABCNews.au",
-    "name": "ABC NEWS",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8",
-    "logo": "https://i.imgur.com/BrW7gk8.png"
-  },
-  {
-    "id": "ABPNews.in",
-    "name": "ABP NEWS",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpnews-xiaomi/playlist.m3u8",
-    "logo": "https://i.postimg.cc/4N8BnkKb/ABP-News.png"
-  },
-  {
-    "id": "Alarabiya.ae@SD",
-    "name": "Al Arabiya",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
-    "logo": "https://i.imgur.com/NXFkYFj.png"
-  },
-  {
-    "id": "AlJazeeraEnglish",
-    "name": "ALJAZEERA",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8",
-    "logo": "https://i.imgur.com/BB93NQP.png"
-  },
-  {
-    "id": "angel.tv",
-    "name": "ANGEL TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8",
-    "logo": "https://i.imgur.com/qKLEGU7.png"
-  },
-  {
-    "id": "afnhd",
-    "name": "ASIAN FOOD NETWORK",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
+    "id": "AnNinhTheGioi.vn",
+    "name": "An Ninh The Gioi",
+    "alt_names": [
+      "An Ninh Thế Giới"
     ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/hnKYaz4.png"
-  },
-  {
-    "id": "B4UMovies.in@India",
-    "name": "B4U Movies",
-    "alt_names": [],
     "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
+    "owners": [
+      "HCATV"
     ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://cdn-2.pishow.tv/live/419/master.m3u8",
-    "logo": "https://i.imgur.com/M9kMFJl.png"
-  },
-  {
-    "id": "B4UMusic.in@India",
-    "name": "B4U Music",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
     "country": "VN",
-    "categories": [
-      "music"
-    ],
+    "categories": [],
     "is_nsfw": false,
-    "launched": null,
+    "launched": "2009-10-28",
     "closed": null,
     "replaced_by": null,
-    "website": null,
-    "stream_url": "https://cdn-2.pishow.tv/live/415/master.m3u8",
-    "logo": "https://i.imgur.com/KSxPLJA.png"
+    "website": "https://antg.cand.com.vn/"
   },
   {
-    "id": "BoonniyomTV.th@SD",
-    "name": "Boonniyom TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
+    "id": "AnNinhTV.vn",
+    "name": "An Ninh TV",
+    "alt_names": [
+      "ANTV"
     ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.x2.co.th/live/bntv.m3u8",
-    "logo": "https://i.imgur.com/KvdFCD5.png"
-  },
-  {
-    "id": "btv",
-    "name": "BTV",
-    "alt_names": [],
     "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
+    "owners": [
+      "Ministry of Public Security of Vietnam"
     ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
-    "logo": "https://i.imgur.com/sSnrg7o.png"
-  },
-  {
-    "id": "CGNTVSouthKorea.kr",
-    "name": "CGN TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
     "country": "VN",
-    "categories": [
-      "documentary"
-    ],
+    "categories": [],
     "is_nsfw": false,
-    "launched": null,
+    "launched": "2011-12-01",
     "closed": null,
     "replaced_by": null,
-    "website": null,
-    "stream_url": "https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8",
-    "logo": "https://i.imgur.com/zwZASOB.png"
+    "website": "https://www.antv.gov.vn/"
   },
   {
-    "id": "cctv4",
-    "name": "CCTV4",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
+    "id": "Ant.vn",
+    "name": "Ant",
+    "alt_names": [
+      "BPTV3 - ANT"
     ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://dash.antik.sk/live/test_cctv_tizen/playlist.m3u8",
-    "logo": "https://i.imgur.com/kx8metk.png"
-  },
-  {
-    "id": "cctv10",
-    "name": "CCTV10",
-    "alt_names": [],
     "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
+    "owners": [
+      "Binh Phuoc Newspaper Radio and Television Station"
     ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8",
-    "logo": "https://i.imgur.com/W8JNs1s.png"
-  },
-  {
-    "id": "cctv14",
-    "name": "CCTV14",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
     "country": "VN",
     "categories": [
       "kids"
     ],
     "is_nsfw": false,
-    "launched": null,
-    "closed": null,
+    "launched": "2017-01-01",
+    "closed": "2022-07-01",
     "replaced_by": null,
-    "website": null,
-    "stream_url": "http://cdn4.skygo.mn/live/disk1/CCTV-14/HLSv3-FTA/CCTV-14.m3u8",
-    "logo": "https://i.imgur.com/SORrhtE.png"
+    "website": null
   },
   {
-    "id": "clubbing.tv",
-    "name": "CLUBBING TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "music"
+    "id": "AnVienTV.vn",
+    "name": "An Vien TV",
+    "alt_names": [
+      "An Viên Television"
     ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8",
-    "logo": "https://i.imgur.com/MyiA92q.png"
-  },
-  {
-    "id": "cna",
-    "name": "CNA",
-    "alt_names": [],
     "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "news"
+    "owners": [
+      "Audio Visual Global JSC"
     ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/W70LTtj.png"
-  },
-  {
-    "id": "davinci",
-    "name": "DA VINCI HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/V8AUJP6.png"
-  },
-  {
-    "id": "ducktv",
-    "name": "DUCK TV HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://dash.antik.sk/live/duck_tv/index.m3u8",
-    "logo": "https://i.imgur.com/gRFQ35W.png"
-  },
-  {
-    "id": "DVBTV.mm@SD",
-    "name": "Democratic Voice of Burma TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live-stream.dvb.no/hls/stream_src/index.m3u8",
-    "logo": "https://i.imgur.com/VdezHOv.png"
-  },
-  {
-    "id": "dw",
-    "name": "DW",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist_b2500000.m3u8",
-    "logo": "https://i.imgur.com/g5g4KJc.png"
-  },
-  {
-    "id": "958",
-    "name": "English Club TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://dash.antik.sk/live/test_ectv_hd_1200/playlist.m3u8",
-    "logo": "https://i.imgur.com/9FMvaRK.png"
-  },
-  {
-    "id": "EWTN.us",
-    "name": "EWTN Africa-Asia",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8",
-    "logo": "https://i.imgur.com/KvpMbkd.png"
-  },
-  {
-    "id": "GolfChannel",
-    "name": "GOLF CHANNEL",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://dash.antik.sk/live/test_golf_channel/playlist.m3u8",
-    "logo": "https://i.imgur.com/Kir4aaU.png"
-  },
-  {
-    "id": "joomusic",
-    "name": "JooMusic",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
-    "logo": "https://i.imgur.com/KHuKQQL.png"
-  },
-  {
-    "id": "GodStandsTV.pk@Main",
-    "name": "God Stands TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8",
-    "logo": "https://i.imgur.com/EO6cYUI.png"
-  },
-  {
-    "id": "historyhd",
-    "name": "History",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://s70378.cdn.ngenix.net/history/1/index.m3u8",
-    "logo": "https://i.imgur.com/P5aKEES.png"
-  },
-  {
-    "id": "2800",
-    "name": "Insight TV HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
-    "logo": "https://i.imgur.com/7xmaoL0.png"
-  },
-  {
-    "id": "kix",
-    "name": "KIX HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
     "country": "VN",
     "categories": [
       "entertainment"
     ],
     "is_nsfw": false,
-    "launched": null,
+    "launched": "2011-11-11",
     "closed": null,
     "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/Q83Q3gl.png"
+    "website": "https://www.avg.vn/"
   },
   {
-    "id": "lovenature4k",
-    "name": "LOVE NATURE 4K",
+    "id": "ARICOShopping.vn",
+    "name": "ARICO Shopping",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "ARICO Cable Television Joint Stock Company"
+    ],
     "country": "VN",
     "categories": [
-      "documentary"
+      "shop"
     ],
     "is_nsfw": false,
-    "launched": null,
+    "launched": "2009-05-24",
     "closed": null,
     "replaced_by": null,
-    "website": null,
-    "stream_url": "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8",
-    "logo": "https://i.imgur.com/Cj5a1JF.png"
+    "website": "http://arico.vn/dn"
   },
   {
-    "id": "madani.channel.urdu",
-    "name": "Madani Channel Urdu",
-    "alt_names": [],
+    "id": "BacGiangTV.vn",
+    "name": "Bac Giang TV",
+    "alt_names": [
+      "Bắc Giang TV"
+    ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Bac Giang Radio and Television Station"
+    ],
     "country": "VN",
     "categories": [
-      "documentary"
+      "general"
     ],
     "is_nsfw": false,
-    "launched": null,
+    "launched": "1992-02-01",
     "closed": null,
     "replaced_by": null,
-    "website": null,
-    "stream_url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8",
-    "logo": "https://i.imgur.com/MitLeCJ.png"
+    "website": "http://www.bacgiangtv.vn/"
   },
   {
-    "id": "MTA6Asia.uk@SD",
-    "name": "MTA6 Asia",
-    "alt_names": [],
+    "id": "BacKanTV.vn",
+    "name": "Bac Kan TV",
+    "alt_names": [
+      "Bắc Kạn TV"
+    ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Bac Kan Radio and Television Station"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": "1992-09-02",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://backantv.vn/"
+  },
+  {
+    "id": "BacLieuTV.vn",
+    "name": "Bac Lieu TV",
+    "alt_names": [
+      "Bạc Liêu TV"
+    ],
+    "network": null,
+    "owners": [
+      "Bac Lieu Radio and Television Station"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": "1994-01-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://thbl.vn/"
+  },
+  {
+    "id": "BacNinhTV.vn",
+    "name": "Bac Ninh TV",
+    "alt_names": [
+      "Bắc Ninh TV"
+    ],
+    "network": null,
+    "owners": [
+      "Bac Ninh Radio and Television Station"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": "1992-02-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://bacninhtv.vn/"
+  },
+  {
+    "id": "BaRiaVungTauTV.vn",
+    "name": "Ba Ria Vung Tau TV",
+    "alt_names": [
+      "Bà Rịa Vũng Tàu TV"
+    ],
+    "network": null,
+    "owners": [
+      "Ba Ria - Vung Tau Radio and Television Station"
+    ],
     "country": "VN",
     "categories": [
-      "documentary"
+      "general"
     ],
     "is_nsfw": false,
-    "launched": null,
+    "launched": "1981-03-18",
     "closed": null,
     "replaced_by": null,
-    "website": null,
-    "stream_url": "https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8",
-    "logo": "https://i.imgur.com/nhCNPJI.png"
+    "website": "http://www.brt.vn/"
   },
   {
-    "id": "NBS.kr",
-    "name": "NBS",
-    "alt_names": [],
+    "id": "BenTreTV.vn",
+    "name": "Ben Tre TV",
+    "alt_names": [
+      "Bến Tre TV"
+    ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Ben Tre Radio and Television Station"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": "1985-07-22",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://thbt.vn/"
+  },
+  {
+    "id": "BinhDinhTV.vn",
+    "name": "Binh Dinh TV",
+    "alt_names": [
+      "Bình Định TV"
+    ],
+    "network": null,
+    "owners": [
+      "Binh Dinh Radio and Television Station"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": "1979-09-14",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://binhdinhtv.vn/"
+  },
+  {
+    "id": "BinhDuongTV1.vn",
+    "name": "Binh Duong TV 1",
+    "alt_names": [
+      "Bình Dương TV 1"
+    ],
+    "network": null,
+    "owners": [
+      "Binh Duong Radio - Television Station"
+    ],
     "country": "VN",
     "categories": [
-      "documentary"
+      "news",
+      "general"
     ],
     "is_nsfw": false,
-    "launched": null,
+    "launched": "1991-12-18",
     "closed": null,
     "replaced_by": null,
-    "website": null,
-    "stream_url": "https://media.joycorp.co.kr:4443/live/live_720p/chunklist.m3u8",
-    "logo": "https://i.imgur.com/pOSroOE.png"
+    "website": "http://www.btv.org.vn/"
   },
   {
-    "id": "NeiMonggolTV.cn",
-    "name": "NEI MONGGOL TV",
-    "alt_names": [],
+    "id": "BinhDuongTV11.vn",
+    "name": "Binh Duong TV 11",
+    "alt_names": [
+      "Bình Dương TV 11",
+      " BTV11 - Top Home Shopping"
+    ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Binh Duong Radio - Television Station",
+      " HD Communications & Trading Company Limited"
+    ],
     "country": "VN",
     "categories": [
-      "local"
+      "shop"
     ],
     "is_nsfw": false,
-    "launched": null,
-    "closed": null,
+    "launched": "2008-09-22",
+    "closed": "2024-05-01",
     "replaced_by": null,
-    "website": null,
-    "stream_url": "http://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8",
-    "logo": "https://i.imgur.com/WeugJBE.png"
+    "website": "http://www.btv.org.vn/"
   },
   {
-    "id": "NewsOne.pk@SD",
-    "name": "News One",
-    "alt_names": [],
+    "id": "BinhDuongTV2.vn",
+    "name": "Binh Duong TV 2",
+    "alt_names": [
+      "Bình Dương TV 2"
+    ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Binh Duong Radio - Television Station"
+    ],
     "country": "VN",
     "categories": [
-      "news"
+      "sports",
+      "entertainment"
     ],
     "is_nsfw": false,
-    "launched": null,
+    "launched": "2001-01-19",
     "closed": null,
     "replaced_by": null,
-    "website": null,
-    "stream_url": "https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8",
-    "logo": "https://i.imgur.com/ivrRYMk.png"
+    "website": "http://www.btv.org.vn/"
   },
   {
-    "id": "outdoorfhd",
-    "name": "OUTDOOR CHANNEL HD",
-    "alt_names": [],
+    "id": "BinhDuongTV3.vn",
+    "name": "Binh Duong TV 3",
+    "alt_names": [
+      "Bình Dương TV 3"
+    ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Binh Duong Radio - Television Station"
+    ],
     "country": "VN",
     "categories": [
-      "documentary"
+      "business",
+      "entertainment"
     ],
     "is_nsfw": false,
-    "launched": null,
-    "closed": null,
+    "launched": "2002-02-03",
+    "closed": "2024-03-01",
     "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8",
-    "logo": "https://i.imgur.com/VO7PRty.png"
+    "website": "http://www.btv.org.vn/"
   },
   {
-    "id": "SharjahTV.ae@SD",
-    "name": "Sharjah TV",
-    "alt_names": [],
+    "id": "BinhDuongTV4.vn",
+    "name": "Binh Duong TV 4",
+    "alt_names": [
+      "Bình Dương TV 4"
+    ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Binh Duong Radio - Television Station"
+    ],
     "country": "VN",
     "categories": [
-      "documentary"
+      "series",
+      "entertainment"
     ],
     "is_nsfw": false,
-    "launched": null,
-    "closed": null,
+    "launched": "2005-04-15",
+    "closed": "2024-01-01",
     "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8",
-    "logo": "https://i.imgur.com/Oz2bPOt.png"
+    "website": "http://www.btv.org.vn/"
   },
   {
-    "id": "447000",
-    "name": "SKY NEWS",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "news"
+    "id": "BinhDuongTV5.vn",
+    "name": "Binh Duong TV 5",
+    "alt_names": [
+      "Bình Dương TV 5",
+      " BTV5 - ON Sports Action"
     ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist720p.m3u8",
-    "logo": "https://i.imgur.com/jP0rB8j.png"
-  },
-  {
-    "id": "STOUChannel.th@SD",
-    "name": "STOU Channel",
-    "alt_names": [],
     "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "news"
+    "owners": [
+      "Binh Duong Radio - Television Station",
+      " Vietnam Cable Television Corporation Joint Stock Company"
     ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8",
-    "logo": "https://i.imgur.com/L3T2QZz.png"
-  },
-  {
-    "id": "PeaceTVEnglish.ae@SD",
-    "name": "Peace TV English",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
-    "logo": "https://i.imgur.com/rjgCM2B.png"
-  },
-  {
-    "id": "PoliceTV.th@SD",
-    "name": "Police TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8",
-    "logo": "https://i.imgur.com/GhboFGt.png"
-  },
-  {
-    "id": "press.tv",
-    "name": "Press TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://live.presstv.ir/hls/presstv.m3u8",
-    "logo": "https://i.postimg.cc/vcqTngdN/Press-TV.png"
-  },
-  {
-    "id": "republic.tv",
-    "name": "Republic TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8",
-    "logo": "https://i.imgur.com/K9KX8un.png"
-  },
-  {
-    "id": "RepublicBangla.in@SD",
-    "name": "Republic Bangla",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://cdn-4.pishow.tv/live/270/master.m3u8",
-    "logo": "https://i.imgur.com/jV4vVpH.png"
-  },
-  {
-    "id": "5597",
-    "name": "TRACE URBAN HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8",
-    "logo": "https://i.imgur.com/DLIbUMx.png"
-  },
-  {
-    "id": "TopNews.th@SD",
-    "name": "Top News",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.topnews.co.th/hls/topnews_a_720.m3u8",
-    "logo": "https://i.imgur.com/tRFnV9M.png"
-  },
-  {
-    "id": "TSports7.th@SD",
-    "name": "T Sports 7",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
     "country": "VN",
     "categories": [
       "sports"
     ],
     "is_nsfw": false,
+    "launched": "2006-01-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.btv.org.vn/"
+  },
+  {
+    "id": "BinhDuongTV6.vn",
+    "name": "Binh Duong TV 6",
+    "alt_names": [
+      "Bình Dương TV 6"
+    ],
+    "network": null,
+    "owners": [
+      "Binh Duong Radio - Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "culture"
+    ],
+    "is_nsfw": false,
+    "launched": "2008-09-22",
+    "closed": "2024-03-01",
+    "replaced_by": null,
+    "website": "http://www.btv.org.vn/"
+  },
+  {
+    "id": "BinhDuongTV9.vn",
+    "name": "Binh Duong TV 9",
+    "alt_names": [
+      "Bình Dương TV 9",
+      " BTV9 - Bchannel"
+    ],
+    "network": null,
+    "owners": [
+      "Binh Duong Radio - Television Station",
+      " Vietnam Cable Television Corporation Joint Stock Company",
+      " Vietnam Buddhist Church"
+    ],
+    "country": "VN",
+    "categories": [
+      "culture"
+    ],
+    "is_nsfw": false,
+    "launched": "2005-06-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://bchannel.vn/"
+  },
+  {
+    "id": "BinhPhuocTV1.vn",
+    "name": "Binh Phuoc TV 1",
+    "alt_names": [
+      "Bình Phước TV 1"
+    ],
+    "network": null,
+    "owners": [
+      "Binh Phuoc Newspaper Radio - Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "news",
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "1991-12-18",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://bptv.vn/"
+  },
+  {
+    "id": "BinhPhuocTV2.vn",
+    "name": "Binh Phuoc TV 2",
+    "alt_names": [
+      "Bình Phước TV 2"
+    ],
+    "network": null,
+    "owners": [
+      "Binh Phuoc Newspaper Radio - Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "2008-06-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://bptv.vn/"
+  },
+  {
+    "id": "BinhPhuocTV3.vn",
+    "name": "Binh Phuoc TV 3",
+    "alt_names": [
+      "Bình Phước TV 3",
+      " BPTV3 - ANT"
+    ],
+    "network": null,
+    "owners": [
+      "Binh Phuoc Newspaper Radio - Television Station",
+      " Global Audio Visual Joint Stock Company"
+    ],
+    "country": "VN",
+    "categories": [
+      "kids"
+    ],
+    "is_nsfw": false,
+    "launched": "2005-06-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://bptv.vn/"
+  },
+  {
+    "id": "BinhThuanTV.vn",
+    "name": "Binh Thuan TV",
+    "alt_names": [
+      "Bình Thuận TV"
+    ],
+    "network": null,
+    "owners": [
+      "Binh Thuan Radio and Television Station"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": "1985-09-02",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://binhthuantv.vn/"
+  },
+  {
+    "id": "BinhThuanTV6.vn",
+    "name": "Binh Thuan TV 6",
+    "alt_names": [
+      "Bình Thuận TV 6"
+    ],
+    "network": null,
+    "owners": [
+      "Binh Thuan Radio and Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "shop"
+    ],
+    "is_nsfw": false,
+    "launched": "2019-01-17",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://newatv.vn/"
+  },
+  {
+    "id": "BoxHits.vn",
+    "name": "Box Hits",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Cable Television Corporation Joint Stock Company",
+      "IN THE BOX ASIA LLC"
+    ],
+    "country": "VN",
+    "categories": [
+      "movies"
+    ],
+    "is_nsfw": false,
+    "launched": "2021-07-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.intheboxtv.eu/"
+  },
+  {
+    "id": "BoxMovie1.vn",
+    "name": "Box Movie 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Cable Television Corporation Joint Stock Company",
+      " IN THE BOX ASIA LLC"
+    ],
+    "country": "VN",
+    "categories": [
+      "movies"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-11-04",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.intheboxtv.eu/"
+  },
+  {
+    "id": "BRT.vn",
+    "name": "BRT",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
     "launched": null,
     "closed": null,
     "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8",
-    "logo": "https://i.imgur.com/KyI0s5n.png"
+    "website": null
   },
   {
-    "id": "tvk",
-    "name": "TVK",
+    "id": "CaMauTV.vn",
+    "name": "Ca Mau TV",
+    "alt_names": [
+      "Cà Mau TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "CanThoTV.vn",
+    "name": "Can Tho TV",
+    "alt_names": [
+      "CầnThơ1",
+      "CanTho1",
+      "THTPCT1",
+      "THTPCT",
+      "THCT43",
+      "THCT"
+    ],
+    "network": "CầnThơ TV",
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://canthotv.vn/can-tho-1/"
+  },
+  {
+    "id": "CanThoTV2.vn",
+    "name": "Can Tho TV 2",
+    "alt_names": [
+      "CầnThơ2",
+      "CanTho2",
+      "THTPCT2",
+      "Hà Giang",
+      "Hậu Giang",
+      "Hau Giang TV",
+      "HGTV"
+    ],
+    "network": "CầnThơ TV",
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "science",
+      "education"
+    ],
+    "is_nsfw": false,
+    "launched": "2025-08-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://haugiangtivi.vn/"
+  },
+  {
+    "id": "CanThoTV3.vn",
+    "name": "Can Tho TV 3",
+    "alt_names": [
+      "CầnThơ3",
+      "CanTho3",
+      "THTPCT3",
+      "THTPCT",
+      "STV3"
+    ],
+    "network": "CầnThơ TV",
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": "2025-07-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://thst.vn/"
+  },
+  {
+    "id": "CaoBangTV.vn",
+    "name": "Cao Bang TV",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -2281,13 +726,179 @@
     "launched": null,
     "closed": null,
     "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8",
-    "logo": "https://i.imgur.com/BIBHaGo.jpg"
+    "website": "http://caobangtv.vn/"
   },
   {
-    "id": "tvnasia",
-    "name": "tvN",
+    "id": "DakLakTV.vn",
+    "name": "Dak Lak TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.drt.org.vn/"
+  },
+  {
+    "id": "DakNongTV.vn",
+    "name": "Dak Nong TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.truyenhinhdaknong.vn/"
+  },
+  {
+    "id": "DaNangTV1.vn",
+    "name": "Da Nang TV 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.drt.danang.vn/"
+  },
+  {
+    "id": "DaNangTV2.vn",
+    "name": "Da Nang TV2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "DhammasaphaTV.vn",
+    "name": "Dhammasapha TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "religious"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "DienBienTV.vn",
+    "name": "Dien Bien TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://dienbientv.vn/"
+  },
+  {
+    "id": "DongNaiTV1.vn",
+    "name": "Dong Nai TV 1",
+    "alt_names": [
+      "Đồng Nai TV 1"
+    ],
+    "network": null,
+    "owners": [
+      "Dong Nai Radio - Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "news",
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "1976-11-19",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://dnrtv.org.vn/"
+  },
+  {
+    "id": "DongNaiTV2.vn",
+    "name": "Dong Nai TV 2",
+    "alt_names": [
+      "Đồng Nai TV 2"
+    ],
+    "network": null,
+    "owners": [
+      "Dong Nai Radio - Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "sports",
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": "2003-01-26",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://dnrtv.org.vn/"
+  },
+  {
+    "id": "DongNaiTV3.vn",
+    "name": "Dong Nai TV 3",
+    "alt_names": [
+      "Đồng Nai TV 3"
+    ],
+    "network": null,
+    "owners": [
+      "Dong Nai Radio - Television Station"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": "2009-01-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://dnrtv.org.vn/"
+  },
+  {
+    "id": "DongThapTV.vn",
+    "name": "Dong Thap TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://thdt.vn/"
+  },
+  {
+    "id": "EChannel.vn",
+    "name": "E Channel",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -2299,14 +910,2280 @@
     "launched": null,
     "closed": null,
     "replaced_by": null,
-    "website": null,
-    "stream_url": "https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8",
-    "logo": "https://i.imgur.com/vQoKH17.png"
+    "website": "http://echannel.vn/"
   },
   {
-    "id": "ytn",
-    "name": "YTN",
+    "id": "GiaLaiTV.vn",
+    "name": "Gia Lai TV",
     "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "GSShop.vn",
+    "name": "GS Shop",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "shop"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://gsshop.vn/"
+  },
+  {
+    "id": "HaGiangTV.vn",
+    "name": "Ha Giang TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://hagiangtv.vn/"
+  },
+  {
+    "id": "HaiPhongTV.vn",
+    "name": "Hai Phong TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://thhp.vn/"
+  },
+  {
+    "id": "HaNamTV.vn",
+    "name": "Ha Nam TV",
+    "alt_names": [
+      "Hà Nam TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://hanamtv.vn/"
+  },
+  {
+    "id": "HanoiTV1.vn",
+    "name": "HanoiTV1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Hanoi People's Committee"
+    ],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "1954-10-14",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://hanoitv.vn/"
+  },
+  {
+    "id": "HanoiTV2.vn",
+    "name": "HanoiTV2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Hanoi People's Committee"
+    ],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://hanoitv.vn/"
+  },
+  {
+    "id": "HaTinhTV.vn",
+    "name": "Ha Tinh TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://hatinhtv.vn/"
+  },
+  {
+    "id": "HauGiangTV.vn",
+    "name": "Hau Giang TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2025-06-30",
+    "replaced_by": "CanThoTV2.vn",
+    "website": "https://haugiangtivi.vn/"
+  },
+  {
+    "id": "HBTV.vn",
+    "name": "HBTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "People's Committee of Hoa Binh Province"
+    ],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://hoabinhtv.vn/"
+  },
+  {
+    "id": "HDTV.vn",
+    "name": "HDTV",
+    "alt_names": [
+      "Hải Dương TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.haiduongtv.com.vn/truyen-hinh-truc-tuyen.html"
+  },
+  {
+    "id": "HollywoodClassic.vn",
+    "name": "Hollywood Classic",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Cable Television Corporation Joint Stock Company",
+      "IN THE BOX ASIA LLC"
+    ],
+    "country": "VN",
+    "categories": [
+      "movies"
+    ],
+    "is_nsfw": false,
+    "launched": "2018-04-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.intheboxtv.eu"
+  },
+  {
+    "id": "HoungFaTV.vn",
+    "name": "Houng Fa TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "HTV1.vn",
+    "name": "HTV1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Ho Chi Minh City Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "2003-10-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://htv.com.vn/"
+  },
+  {
+    "id": "HTV2.vn",
+    "name": "HTV2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Ho Chi Minh City Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "entertainment",
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "2003-10-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://htv.com.vn/"
+  },
+  {
+    "id": "HTV3.vn",
+    "name": "HTV3",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Ho Chi Minh City Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "series",
+      "entertainment",
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "2003-10-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://htv.com.vn/"
+  },
+  {
+    "id": "HTV4.vn",
+    "name": "HTV4",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Ho Chi Minh City Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "education"
+    ],
+    "is_nsfw": false,
+    "launched": "2003-10-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://htv.com.vn/"
+  },
+  {
+    "id": "HTV7.vn",
+    "name": "HTV7",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Ho Chi Minh City Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "1966-10-25",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://htv.com.vn/"
+  },
+  {
+    "id": "HTV9.vn",
+    "name": "HTV9",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Ho Chi Minh City Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "news",
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "1966-01-22",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://htv.com.vn/"
+  },
+  {
+    "id": "HTVCFamily.vn",
+    "name": "HTVC Family",
+    "alt_names": [
+      "HTVC Gia đình"
+    ],
+    "network": null,
+    "owners": [
+      "Ho Chi Minh City Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "family"
+    ],
+    "is_nsfw": false,
+    "launched": "2007-06-28",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://htvc.vn"
+  },
+  {
+    "id": "HTVCMovies.vn",
+    "name": "HTVC Movies",
+    "alt_names": [
+      "HTVC Phim"
+    ],
+    "network": null,
+    "owners": [
+      "Ho Chi Minh City Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "series",
+      "movies"
+    ],
+    "is_nsfw": false,
+    "launched": "2007-09-02",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://htvc.vn"
+  },
+  {
+    "id": "HTVCMusic.vn",
+    "name": "HTVC Music",
+    "alt_names": [
+      "HTVC Ca nhạc"
+    ],
+    "network": null,
+    "owners": [
+      "Ho Chi Minh City Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "music"
+    ],
+    "is_nsfw": false,
+    "launched": "2007-05-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://htvc.vn"
+  },
+  {
+    "id": "HTVCoop.vn",
+    "name": "HTV Co.op",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Ho Chi Minh City Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "series",
+      "culture",
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": "2011-06-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://htvcoop.com.vn/"
+  },
+  {
+    "id": "HTVCPlus.vn",
+    "name": "HTVC Plus",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Ho Chi Minh City Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": "2006-05-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://htvc.vn"
+  },
+  {
+    "id": "HTVCPureVietnamese.vn",
+    "name": "HTVC Pure Vietnamese",
+    "alt_names": [
+      "HTVC Thuần Việt"
+    ],
+    "network": null,
+    "owners": [
+      "Ho Chi Minh City Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "culture",
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": "2003-07-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://htvc.vn"
+  },
+  {
+    "id": "HTVCTravelandLife.vn",
+    "name": "HTVC Travel and Life",
+    "alt_names": [
+      "HTVC Du lịch và Cuộc sống"
+    ],
+    "network": null,
+    "owners": [
+      "Ho Chi Minh City Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "travel",
+      "lifestyle"
+    ],
+    "is_nsfw": false,
+    "launched": "2007-07-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://htvc.vn"
+  },
+  {
+    "id": "HTVCWomen.vn",
+    "name": "HTVC Women",
+    "alt_names": [
+      "HTVC Phụ nữ"
+    ],
+    "network": null,
+    "owners": [
+      "Ho Chi Minh City Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "lifestyle"
+    ],
+    "is_nsfw": false,
+    "launched": "2007-10-20",
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://htvc.vn"
+  },
+  {
+    "id": "HTVKey.vn",
+    "name": "HTV Key",
+    "alt_names": [
+      "HTV4"
+    ],
+    "network": null,
+    "owners": [
+      "Ho Chi Minh City Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "education"
+    ],
+    "is_nsfw": false,
+    "launched": "2003-10-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://htv.com.vn/"
+  },
+  {
+    "id": "HTVSports.vn",
+    "name": "HTV Sports",
+    "alt_names": [
+      "HTV Thể thao"
+    ],
+    "network": null,
+    "owners": [
+      "Ho Chi Minh City Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "2003-09-25",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://htv.com.vn/"
+  },
+  {
+    "id": "HungYenTV.vn",
+    "name": "Hung Yen TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.hungyentv.vn/"
+  },
+  {
+    "id": "InfoTV.vn",
+    "name": "Info TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": "2007-11-12",
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "KhanhHoaTV.vn",
+    "name": "Khanh Hoa TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://khanhhoa.tv/"
+  },
+  {
+    "id": "KhmerTV.vn",
+    "name": "Khmer TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "culture"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "KonTumTV.vn",
+    "name": "Kon Tum TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://kontumtv.vn/"
+  },
+  {
+    "id": "KPlusCine.vn",
+    "name": "K+ Cine",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Satellite Digital Television Company Limited"
+    ],
+    "country": "VN",
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "is_nsfw": false,
+    "launched": "2010-03-24",
+    "closed": "2026-01-01",
+    "replaced_by": null,
+    "website": "https://www.kplus.vn/"
+  },
+  {
+    "id": "KPlusKids.vn",
+    "name": "K+ Kids",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Satellite Digital Television Company Limited"
+    ],
+    "country": "VN",
+    "categories": [
+      "kids"
+    ],
+    "is_nsfw": false,
+    "launched": "2021-10-01",
+    "closed": "2026-01-01",
+    "replaced_by": null,
+    "website": "https://www.kplus.vn/"
+  },
+  {
+    "id": "KPlusLife.vn",
+    "name": "K+ Life",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Satellite Digital Television Company Limited"
+    ],
+    "country": "VN",
+    "categories": [
+      "lifestyle"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2026-01-01",
+    "replaced_by": null,
+    "website": "https://www.kplus.vn/"
+  },
+  {
+    "id": "KPlusSport1.vn",
+    "name": "K+ Sport 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Satellite Digital Television Company Limited"
+    ],
+    "country": "VN",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "2013-08-01",
+    "closed": "2026-01-01",
+    "replaced_by": null,
+    "website": "https://www.kplus.vn/"
+  },
+  {
+    "id": "KPlusSport2.vn",
+    "name": "K+ Sport 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Satellite Digital Television Company Limited"
+    ],
+    "country": "VN",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "2011-01-20",
+    "closed": "2026-01-01",
+    "replaced_by": null,
+    "website": "https://www.kplus.vn/"
+  },
+  {
+    "id": "LaiChauTV.vn",
+    "name": "Lai Chau TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://laichautv.vn/"
+  },
+  {
+    "id": "LamDongTV.vn",
+    "name": "Lam Dong TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://lamdongtv.vn/"
+  },
+  {
+    "id": "LangSonTV.vn",
+    "name": "Lang Son TV",
+    "alt_names": [
+      "LSTV"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.langsontv.vn/"
+  },
+  {
+    "id": "LaoCaiTV.vn",
+    "name": "Lao Cai TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://laocaitv.vn/"
+  },
+  {
+    "id": "LaoSVTV.vn",
+    "name": "Lao SV TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "shop"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "MienTayTV.vn",
+    "name": "Mien Tay TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "MTV.vn",
+    "name": "MTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Paramount Networks EMEAA",
+      "IMC Group"
+    ],
+    "country": "VN",
+    "categories": [
+      "music"
+    ],
+    "is_nsfw": false,
+    "launched": "2011-07-01",
+    "closed": "2023-01-01",
+    "replaced_by": null,
+    "website": "http://mtvwe.com"
+  },
+  {
+    "id": "MusicBox.vn",
+    "name": "Music Box",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Cable Television Corporation Joint Stock Company",
+      " IN THE BOX ASIA LLC"
+    ],
+    "country": "VN",
+    "categories": [
+      "music"
+    ],
+    "is_nsfw": false,
+    "launched": "2021-07-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.intheboxtv.eu/"
+  },
+  {
+    "id": "NamDinhTV.vn",
+    "name": "Nam Dinh TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.namdinhtv.vn/"
+  },
+  {
+    "id": "NgheAnTV.vn",
+    "name": "Nghe An TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://truyenhinhnghean.vn/"
+  },
+  {
+    "id": "NhanDanTV.vn",
+    "name": "Nhan Dan TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "education"
+    ],
+    "is_nsfw": false,
+    "launched": "2015-09-01",
+    "closed": "2025-01-15",
+    "replaced_by": null,
+    "website": "https://nhandantv.vn/"
+  },
+  {
+    "id": "NinhBinhTV.vn",
+    "name": "Ninh Binh TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://nbtv.vn/"
+  },
+  {
+    "id": "NinhThuanTV.vn",
+    "name": "Ninh Thuan TV",
+    "alt_names": [
+      "Thuan Hai TV",
+      "TNT Ninh Thuan",
+      "Khanh Hoa TV 1"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.ninhthuantv.vn/"
+  },
+  {
+    "id": "ONBiBi.vn",
+    "name": "ON BiBi",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Cable Television Corporation Joint Stock Company"
+    ],
+    "country": "VN",
+    "categories": [
+      "kids"
+    ],
+    "is_nsfw": false,
+    "launched": "2006-06-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://bibi.vn/"
+  },
+  {
+    "id": "ONCine.vn",
+    "name": "ON Cine",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Cable Television Corporation Joint Stock Company"
+    ],
+    "country": "VN",
+    "categories": [
+      "series"
+    ],
+    "is_nsfw": false,
+    "launched": "2008-08-08",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtvcab.vn"
+  },
+  {
+    "id": "ONFootball.vn",
+    "name": "ON Football",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Cable Television Corporation Joint Stock Company"
+    ],
+    "country": "VN",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "2009-08-23",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtvcab.vn"
+  },
+  {
+    "id": "ONGolf.vn",
+    "name": "ON Golf",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Cable Television Corporation Joint Stock Company"
+    ],
+    "country": "VN",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-11-18",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtvcab.vn"
+  },
+  {
+    "id": "ONKids.vn",
+    "name": "ON Kids",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Cable Television Corporation Joint Stock Company"
+    ],
+    "country": "VN",
+    "categories": [
+      "kids"
+    ],
+    "is_nsfw": false,
+    "launched": "2018-04-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtvcab.vn"
+  },
+  {
+    "id": "ONLife.vn",
+    "name": "ON Life",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Cable Television Corporation Joint Stock Company"
+    ],
+    "country": "VN",
+    "categories": [
+      "lifestyle"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-12-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtvcab.vn"
+  },
+  {
+    "id": "ONMovies.vn",
+    "name": "ON Movies",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Cable Television Corporation Joint Stock Company"
+    ],
+    "country": "VN",
+    "categories": [
+      "movies"
+    ],
+    "is_nsfw": false,
+    "launched": "2005-03-13",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtvcab.vn"
+  },
+  {
+    "id": "ONMusic.vn",
+    "name": "ON Music",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Cable Television Corporation Joint Stock Company"
+    ],
+    "country": "VN",
+    "categories": [
+      "music"
+    ],
+    "is_nsfw": false,
+    "launched": "2009-06-16",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtvcab.vn"
+  },
+  {
+    "id": "ONPhimViet.vn",
+    "name": "ON Phim Viet",
+    "alt_names": [
+      "ON Phim Việt"
+    ],
+    "network": null,
+    "owners": [
+      "Vietnam Cable Television Corporation Joint Stock Company"
+    ],
+    "country": "VN",
+    "categories": [
+      "series"
+    ],
+    "is_nsfw": false,
+    "launched": "1996-03-30",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtvcab.vn"
+  },
+  {
+    "id": "ONSports.vn",
+    "name": "ON Sports",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Cable Television Corporation Joint Stock Company"
+    ],
+    "country": "VN",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "2004-12-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtvcab.vn"
+  },
+  {
+    "id": "ONSportsNews.vn",
+    "name": "ON Sports News",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Cable Television Corporation Joint Stock Company"
+    ],
+    "country": "VN",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "2014-06-06",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtvcab.vn"
+  },
+  {
+    "id": "ONStyleTV.vn",
+    "name": "ON Style TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Cable Television Corporation Joint Stock Company"
+    ],
+    "country": "VN",
+    "categories": [
+      "lifestyle"
+    ],
+    "is_nsfw": false,
+    "launched": "2008-11-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtvcab.vn"
+  },
+  {
+    "id": "ONVieDrama.vn",
+    "name": "ON Vie Drama",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Cable Television Corporation Joint Stock Company"
+    ],
+    "country": "VN",
+    "categories": [
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": "2014-05-05",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtvcab.vn"
+  },
+  {
+    "id": "OyLaoTV.vn",
+    "name": "Oy Lao TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "ParamountNetwork.vn",
+    "name": "Paramount Network",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Paramount Global"
+    ],
+    "country": "VN",
+    "categories": [
+      "series",
+      "movies"
+    ],
+    "is_nsfw": false,
+    "launched": "2017-01-01",
+    "closed": "2022-12-31",
+    "replaced_by": null,
+    "website": "https://www.paramountnetwork.com/"
+  },
+  {
+    "id": "PhimHay.vn",
+    "name": "Phim Hay",
+    "alt_names": [
+      "HCATV - Phim Hay"
+    ],
+    "network": null,
+    "owners": [
+      "HCATV"
+    ],
+    "country": "VN",
+    "categories": [
+      "series"
+    ],
+    "is_nsfw": false,
+    "launched": "2011-11-11",
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "PhuThoTV.vn",
+    "name": "Phu Tho TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://phuthotv.vn/"
+  },
+  {
+    "id": "PhuYenTV.vn",
+    "name": "Phu Yen TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.ptpphuyen.vn/"
+  },
+  {
+    "id": "QPVN.vn",
+    "name": "QPVN",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.qpvn.vn/"
+  },
+  {
+    "id": "QRT.vn",
+    "name": "QRT",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "QuangBinhTV.vn",
+    "name": "Quang Binh TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.qbtv.vn/"
+  },
+  {
+    "id": "QuangNamTV.vn",
+    "name": "Quang Nam TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://qrt.vn/"
+  },
+  {
+    "id": "QuangNgaiTV.vn",
+    "name": "Quang Ngai TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://quangngaitv.vn/"
+  },
+  {
+    "id": "QuangNinhTV1.vn",
+    "name": "Quang Ninh TV 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://baoquangninh.com.vn/"
+  },
+  {
+    "id": "QuangNinhTV3.vn",
+    "name": "Quang Ninh TV 3",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://baoquangninh.com.vn/"
+  },
+  {
+    "id": "QuangTriTV.vn",
+    "name": "Quang Tri TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://quangtritv.vn/"
+  },
+  {
+    "id": "QuocHoiTV.vn",
+    "name": "Quoc Hoi TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2025-01-01",
+    "replaced_by": null,
+    "website": "http://quochoitv.vn/"
+  },
+  {
+    "id": "SCTV1.vn",
+    "name": "SCTV1",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV10.vn",
+    "name": "SCTV10",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV11.vn",
+    "name": "SCTV11",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV12.vn",
+    "name": "SCTV12",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV13.vn",
+    "name": "SCTV13",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV14.vn",
+    "name": "SCTV14",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV15.vn",
+    "name": "SCTV15",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV16.vn",
+    "name": "SCTV16",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV17.vn",
+    "name": "SCTV17",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV18.vn",
+    "name": "SCTV18",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV19.vn",
+    "name": "SCTV19",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV2.vn",
+    "name": "SCTV2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV20.vn",
+    "name": "SCTV20",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV21.vn",
+    "name": "SCTV21",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV22.vn",
+    "name": "SCTV22",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV3.vn",
+    "name": "SCTV3",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV4.vn",
+    "name": "SCTV4",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV4K.vn",
+    "name": "SCTV4K",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Saigontourist Cable Television Limited Liability Company"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": "2015-01-01",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://sctv.com.vn"
+  },
+  {
+    "id": "SCTV5.vn",
+    "name": "SCTV5",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV6.vn",
+    "name": "SCTV6",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV7.vn",
+    "name": "SCTV7",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV8.vn",
+    "name": "SCTV8",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTV9.vn",
+    "name": "SCTV9",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "SCTVPhimTongHop.vn",
+    "name": "SCTV Phim Tong Hop",
+    "alt_names": [
+      "SCTV Phim Tổng Hợp"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.sctv.com.vn/"
+  },
+  {
+    "id": "Shopping24h.vn",
+    "name": "Shopping 24h",
+    "alt_names": [
+      "HCATV5 - Shopping 24h"
+    ],
+    "network": null,
+    "owners": [
+      "HCATV"
+    ],
+    "country": "VN",
+    "categories": [
+      "shop"
+    ],
+    "is_nsfw": false,
+    "launched": "2022-08-27",
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "SkyShop.vn",
+    "name": "SkyShop",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "shop"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://skyshoptv.vn/"
+  },
+  {
+    "id": "SocTrangTV1.vn",
+    "name": "Soc Trang TV 1",
+    "alt_names": [
+      "STV1"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2025-06-30",
+    "replaced_by": null,
+    "website": "http://thst.vn/"
+  },
+  {
+    "id": "SocTrangTV2.vn",
+    "name": "Soc Trang TV 2",
+    "alt_names": [
+      "STV2"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2025-06-30",
+    "replaced_by": "CanThoTV3.vn",
+    "website": "https://thst.vn/"
+  },
+  {
+    "id": "SonLaTV.vn",
+    "name": "Son La TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://sonlatv.vn/"
+  },
+  {
+    "id": "TayNinhTV.vn",
+    "name": "Tay Ninh TV",
+    "alt_names": [
+      "TTV 11"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://ttv11.vn/"
+  },
+  {
+    "id": "TayNinhTV1.vn",
+    "name": "Tay Ninh TV1",
+    "alt_names": [],
+    "network": "Tay Ninh Television",
+    "owners": [
+      "Tay Ninh Newspaper Radio and Television"
+    ],
+    "country": "VN",
+    "categories": [
+      "culture",
+      "news",
+      "entertainment",
+      "music"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://la34.com.vn/"
+  },
+  {
+    "id": "TeaTV.vn",
+    "name": "Tea TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "shop"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "TeaTVKhmer.vn",
+    "name": "Tea TV Khmer",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "shop"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "ThaiBinhTV.vn",
+    "name": "Thai Binh TV",
+    "alt_names": [
+      "TBTV"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://thaibinhtv.vn/"
+  },
+  {
+    "id": "ThaiNguyenTV.vn",
+    "name": "Thai Nguyen TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://thainguyentv.vn/"
+  },
+  {
+    "id": "ThaiNguyenTV2.vn",
+    "name": "Thai Nguyen TV 2",
+    "alt_names": [
+      "Thái Nguyên TV2"
+    ],
+    "network": null,
+    "owners": [
+      "Thai Nguyen Radio - Television Station"
+    ],
+    "country": "VN",
+    "categories": [
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": "2009-07-15",
+    "closed": "2023-01-18",
+    "replaced_by": null,
+    "website": "https://thainguyentv.vn/"
+  },
+  {
+    "id": "ThanhHoaTV.vn",
+    "name": "Thanh Hoa TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://truyenhinhthanhhoa.vn/"
+  },
+  {
+    "id": "ThuaThienHueTV.vn",
+    "name": "Thua Thien Hue TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.trt.com.vn/"
+  },
+  {
+    "id": "TienGiangTV.vn",
+    "name": "Tien Giang TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.thtg.vn/"
+  },
+  {
+    "id": "TodayTV.vn",
+    "name": "Today TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://www.todaytv.vn/"
+  },
+  {
+    "id": "TraVinhTV.vn",
+    "name": "Tra Vinh TV",
+    "alt_names": [
+      "THVL5"
+    ],
+    "network": "Vinh Long TV",
+    "owners": [
+      "Vinh Long Newspaper and Radio Television"
+    ],
+    "country": "VN",
+    "categories": [
+      "culture",
+      "entertainment",
+      "music",
+      "news"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.thvli.vn/live/thvl5-hd"
+  },
+  {
+    "id": "TraVinhTV2.vn",
+    "name": "Tra Vinh TV 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "science",
+      "education"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2025-06-30",
+    "replaced_by": null,
+    "website": "https://travinhtv.vn/"
+  },
+  {
+    "id": "TTXVN.vn",
+    "name": "TTXVN",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://vnanet.vn/"
+  },
+  {
+    "id": "TuyenQuangTV.vn",
+    "name": "Tuyen Quang TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://tuyenquangtv.vn/"
+  },
+  {
+    "id": "TVBVietnam.vn",
+    "name": "TVB Vietnam",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "UniquelyThai.vn",
+    "name": "Uniquely Thai",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "shop"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "VajtswvTxojlus.vn",
+    "name": "Vajtswv Txojlus",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "religious"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "VanphenhTV.vn",
+    "name": "Vanphenh TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "shop"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "VCALTV.vn",
+    "name": "VCAL TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "news",
+      "culture"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.vcal.tv/"
+  },
+  {
+    "id": "VFamily.vn",
+    "name": "VFamily",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "family"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "VietMyTV.vn",
+    "name": "Viet My TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "VietnamToday.vn",
+    "name": "Vietnam Today",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "VTV"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": "2025-09-07",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vietnamtoday.vtv.vn/"
+  },
+  {
+    "id": "VinhLongTV1.vn",
+    "name": "Vinh Long TV 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "news",
+      "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.thvl.vn/"
+  },
+  {
+    "id": "VinhLongTV2.vn",
+    "name": "Vinh Long TV 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "culture",
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.thvl.vn/"
+  },
+  {
+    "id": "VinhLongTV3.vn",
+    "name": "Vinh Long TV 3",
+    "alt_names": [
+      "THVL3"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "movies",
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.thvli.vn/live/thvl3-hd"
+  },
+  {
+    "id": "VinhLongTV4.vn",
+    "name": "Vinh Long TV 4",
+    "alt_names": [
+      "THVL4"
+    ],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "culture",
+      "travel",
+      "sports",
+      "entertainment"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.thvli.vn/live/thvl4-hd"
+  },
+  {
+    "id": "VinhPhucTV.vn",
+    "name": "Vinh Phuc TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://vinhphuctv.vn/"
+  },
+  {
+    "id": "VITV.vn",
+    "name": "VITV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "VNews.vn",
+    "name": "V News",
+    "alt_names": [
+      "Truyền hình Thông tấn"
+    ],
     "network": null,
     "owners": [],
     "country": "VN",
@@ -2317,49 +3194,11 @@
     "launched": null,
     "closed": null,
     "replaced_by": null,
-    "website": null,
-    "stream_url": "https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8",
-    "logo": "https://i.imgur.com/SSQxzsd.png"
+    "website": "https://vnews.gov.vn/?v=live"
   },
   {
-    "id": "zee.bangla.sonar",
-    "name": "ZEE Bangla Sonar",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8",
-    "logo": "https://i.postimg.cc/TYXNKKFt/image.png"
-  },
-  {
-    "id": "zee.cinema",
-    "name": "ZEE Cinema",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
-    "logo": "https://i.postimg.cc/9zh7RbnV/ZC.png"
-  },
-  {
-    "id": "zee.news",
-    "name": "Zee News",
+    "id": "VOVTV.vn",
+    "name": "VOV TV",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -2369,1270 +3208,543 @@
     ],
     "is_nsfw": false,
     "launched": null,
-    "closed": null,
+    "closed": "2025-01-15",
     "replaced_by": null,
-    "website": null,
-    "stream_url": "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8",
-    "logo": "https://i.postimg.cc/nrW9bkzs/Zee-News.png"
+    "website": "https://truyenhinhvov.vn/live.htm"
   },
   {
-    "id": "zoomoo.hd",
-    "name": "ZOOMOO HD",
-    "alt_names": [],
+    "id": "VSBetHD.vn",
+    "name": "VSBet HD",
+    "alt_names": [
+      "ColaTV"
+    ],
     "network": null,
     "owners": [],
     "country": "VN",
     "categories": [
-      "kids"
+      "sports"
     ],
     "is_nsfw": false,
     "launched": null,
     "closed": null,
     "replaced_by": null,
-    "website": null,
-    "stream_url": "https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8",
-    "logo": "https://i.imgur.com/ciTJrnl.png"
+    "website": "https://colascore1.com/"
   },
   {
-    "id": "276",
-    "name": "2x2",
+    "id": "VTC1.vn",
+    "name": "VTC1",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2025-01-15",
+    "replaced_by": null,
+    "website": "https://vtc.gov.vn/live/"
+  },
+  {
+    "id": "VTC10.vn",
+    "name": "VTC10",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2025-01-15",
+    "replaced_by": null,
+    "website": "https://vtc.gov.vn/live/"
+  },
+  {
+    "id": "VTC11.vn",
+    "name": "VTC11",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2025-01-15",
+    "replaced_by": null,
+    "website": "https://vtc.gov.vn/live/"
+  },
+  {
+    "id": "VTC12.vn",
+    "name": "VTC12",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2024-01-24",
+    "replaced_by": null,
+    "website": "https://vtc.gov.vn/live/"
+  },
+  {
+    "id": "VTC13.vn",
+    "name": "VTC13",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2024-01-24",
+    "replaced_by": null,
+    "website": "https://vtc.gov.vn/live/"
+  },
+  {
+    "id": "VTC14.vn",
+    "name": "VTC14",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2025-01-15",
+    "replaced_by": null,
+    "website": "https://vtc.gov.vn/live/"
+  },
+  {
+    "id": "VTC16.vn",
+    "name": "VTC16",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2025-01-15",
+    "replaced_by": null,
+    "website": "https://vtc.gov.vn/live/"
+  },
+  {
+    "id": "VTC2.vn",
+    "name": "VTC2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2025-01-15",
+    "replaced_by": null,
+    "website": "https://vtc.gov.vn/live/"
+  },
+  {
+    "id": "VTC3.vn",
+    "name": "VTC3",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2025-01-15",
+    "replaced_by": null,
+    "website": "https://vtc.gov.vn/live/"
+  },
+  {
+    "id": "VTC4.vn",
+    "name": "VTC4",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2025-01-15",
+    "replaced_by": null,
+    "website": "https://vtc.gov.vn/live/"
+  },
+  {
+    "id": "VTC5.vn",
+    "name": "VTC5",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2025-01-15",
+    "replaced_by": null,
+    "website": "https://vtc.gov.vn/live/"
+  },
+  {
+    "id": "VTC6.vn",
+    "name": "VTC6",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2025-01-15",
+    "replaced_by": null,
+    "website": "https://vtc.gov.vn/live/"
+  },
+  {
+    "id": "VTC7.vn",
+    "name": "VTC7",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2025-01-15",
+    "replaced_by": null,
+    "website": "https://vtc.gov.vn/live/"
+  },
+  {
+    "id": "VTC8.vn",
+    "name": "VTC8",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2025-01-15",
+    "replaced_by": null,
+    "website": "https://vtc.gov.vn/live/"
+  },
+  {
+    "id": "VTC9.vn",
+    "name": "VTC9",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": "2025-01-15",
+    "replaced_by": null,
+    "website": "https://vtc.gov.vn/live/"
+  },
+  {
+    "id": "VTV1.vn",
+    "name": "VTV1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtv.vn/"
+  },
+  {
+    "id": "VTV10.vn",
+    "name": "VTV10",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": "2026-03-30",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtv.vn/"
+  },
+  {
+    "id": "VTV2.vn",
+    "name": "VTV2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtv.vn/"
+  },
+  {
+    "id": "VTV3.vn",
+    "name": "VTV3",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtv.vn/"
+  },
+  {
+    "id": "VTV4.vn",
+    "name": "VTV4",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://vtv4.vtv.vn/"
+  },
+  {
+    "id": "VTV5.vn",
+    "name": "VTV5",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtv.vn/"
+  },
+  {
+    "id": "VTV5TayNamBo.vn",
+    "name": "VTV5 Tay Nam Bo",
+    "alt_names": [
+      "VTV5 Tây Nam Bộ"
+    ],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtv.vn/"
+  },
+  {
+    "id": "VTV5TayNguyen.vn",
+    "name": "VTV5 Tay Nguyen",
+    "alt_names": [
+      "VTV5 Tây Nguyên"
+    ],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtv.vn/"
+  },
+  {
+    "id": "VTV6.vn",
+    "name": "VTV6",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country": "VN",
+    "categories": [
+      "sports"
+    ],
+    "is_nsfw": false,
+    "launched": "2026-06-08",
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtv.vn/"
+  },
+  {
+    "id": "VTV7.vn",
+    "name": "VTV7",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtv.vn/"
+  },
+  {
+    "id": "VTV8.vn",
+    "name": "VTV8",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtv.vn/"
+  },
+  {
+    "id": "VTV9.vn",
+    "name": "VTV9",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtv.vn/"
+  },
+  {
+    "id": "VTVCab1.vn",
+    "name": "VTVCab1",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "http://giaitritv.vn/"
+  },
+  {
+    "id": "VTVCab7.vn",
+    "name": "VTVCab7",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://vtv.vn/vtvcab-7.html"
+  },
+  {
+    "id": "VTVCanTho.vn",
+    "name": "VTV Can Tho",
+    "alt_names": [
+      "VTV Cần Thơ"
+    ],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": "2022-10-10",
+    "closed": "2026-03-30",
+    "replaced_by": "VTV10.vn",
+    "website": "https://vtv.vn/"
+  },
+  {
+    "id": "VTVHyundaiHomeShopping.vn",
+    "name": "VTV Hyundai Home Shopping",
     "alt_names": [],
     "network": null,
     "owners": [],
     "country": "VN",
     "categories": [
+      "shop"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.vtvhyundai.vn/"
+  },
+  {
+    "id": "Yeah1TV.vn",
+    "name": "Yeah 1 TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://yeah1.com/"
+  },
+  {
+    "id": "YenBaiTV.vn",
+    "name": "Yen Bai TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://yenbaitv.org.vn/"
+  },
+  {
+    "id": "YouTV.vn",
+    "name": "You TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Hanoi Media Group"
+    ],
+    "country": "VN",
+    "categories": [
+      "family",
       "entertainment"
     ],
     "is_nsfw": false,
-    "launched": null,
+    "launched": "2009-10-28",
     "closed": null,
     "replaced_by": null,
-    "website": null,
-    "stream_url": "http://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8",
-    "logo": "https://i.imgur.com/fhQFLEl.png"
-  },
-  {
-    "id": "946",
-    "name": "7TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://v4.proofix.ru/7tv-live/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/Wuy9Vtn.png"
-  },
-  {
-    "id": "ovaa.tv",
-    "name": "OVAA TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "local"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://vod.tuva.ru/ovaa/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.postimg.cc/sD3KQQ9P/Ovaa-TV-logo.png"
-  },
-  {
-    "id": "1821",
-    "name": "1HD Music Television",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/4Ww7CsR.png"
-  },
-  {
-    "id": "9029",
-    "name": "Baby time",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv",
-    "logo": "https://i.imgur.com/lW3WIBD.png"
-  },
-  {
-    "id": "300037",
-    "name": "BRIDGE",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8",
-    "logo": "https://i.imgur.com/qYObfrG.png"
-  },
-  {
-    "id": "4373",
-    "name": "BRIDGE Classic",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv",
-    "logo": "https://i.imgur.com/JJTQq81.png"
-  },
-  {
-    "id": "300121",
-    "name": "Europa Plus TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://31.148.48.15/Europa_Plus_HD/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/GLc4qrc.png"
-  },
-  {
-    "id": "503",
-    "name": "Fon Music",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/tXABQDE.png"
-  },
-  {
-    "id": "1667",
-    "name": "Maidan",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8",
-    "logo": "https://i.imgur.com/C8CCjZK.png"
-  },
-  {
-    "id": "229",
-    "name": "Mezzo",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://live-3.otcnet.ru/Mezzo/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/auNdGeW.png"
-  },
-  {
-    "id": "muzzone",
-    "name": "Muzzone",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "music"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://s70378.cdn.ngenix.net/muzzone/2/index.m3u8",
-    "logo": "https://i.imgur.com/nHVABXh.png"
-  },
-  {
-    "id": "1574",
-    "name": "Leomax 24",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/qU9ohQu.png"
-  },
-  {
-    "id": "744",
-    "name": "Shopping Live",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8",
-    "logo": "https://i.imgur.com/EMmGnjV.png"
-  },
-  {
-    "id": "vitrina.tv",
-    "name": "Vitrina TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://v4.proofix.ru:80/vitrina-live/index.m3u8",
-    "logo": "https://i.imgur.com/lzQsVfn.png"
-  },
-  {
-    "id": "2011",
-    "name": "Ani",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://185.46.16.239:8000/Ani",
-    "logo": "https://i.imgur.com/i2AP0hp.png"
-  },
-  {
-    "id": "balapan",
-    "name": "Balapan",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://live-3.otcnet.ru/Balapan/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/2o5T0gi.png"
-  },
-  {
-    "id": "300082",
-    "name": "Gulli Girl",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://live-3.otcnet.ru/GulliGirl/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/lbViDuC.png"
-  },
-  {
-    "id": "100054",
-    "name": "TiJi",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "kids"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://live-3.otcnet.ru/Tiji/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/QCOUJ30.png"
-  },
-  {
-    "id": "1503",
-    "name": ".black",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8",
-    "logo": "https://i.imgur.com/Q4A6ci4.png"
-  },
-  {
-    "id": "689",
-    "name": ".Red",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://s70378.cdn.ngenix.net/sony_channel/2/index.m3u8",
-    "logo": "https://i.imgur.com/GET9Qut.png"
-  },
-  {
-    "id": "300001",
-    "name": ".Sci-Fi",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8",
-    "logo": "https://i.imgur.com/nSSUHcg.png"
-  },
-  {
-    "id": "300154",
-    "name": "Amedia 1",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv",
-    "logo": "https://i.imgur.com/2pAHdAi.png"
-  },
-  {
-    "id": "2492",
-    "name": "Amedia 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8",
-    "logo": "https://i.imgur.com/NqHla2V.png"
-  },
-  {
-    "id": "1926",
-    "name": "Amedia Hit",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv",
-    "logo": "https://i.imgur.com/a8ZBGBw.png"
-  },
-  {
-    "id": "1683",
-    "name": "Amedia Premium",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv",
-    "logo": "https://i.imgur.com/a8ZBGBw.png"
-  },
-  {
-    "id": "1871",
-    "name": "Bollywood",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://stream8.cinerama.uz/1444/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/YLQRnXt.png"
-  },
-  {
-    "id": "2138",
-    "name": "Bolt",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://stream.mcquack.net/73/index.m3u8",
-    "logo": "https://i.imgur.com/YdIHXOR.png"
-  },
-  {
-    "id": "100013",
-    "name": "Cinema",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/b5e9qUA.png"
-  },
-  {
-    "id": "2230",
-    "name": "Filmbox",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://88.212.15.19/live/test_filmbox/playlist.m3u8",
-    "logo": "https://i.imgur.com/VyaslIY.png"
-  },
-  {
-    "id": "2249",
-    "name": "Filmbox Arthouse",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://dash.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8",
-    "logo": "https://i.imgur.com/hDg35ne.png"
-  },
-  {
-    "id": "filmuadrama",
-    "name": "FilmUADrama",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://dash.antik.sk/live/test_film_drama_atktv/playlist.m3u8",
-    "logo": "https://i.imgur.com/Hnwsh5d.png"
-  },
-  {
-    "id": "filmua.live",
-    "name": "FilmUA Live",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://dash.antik.sk/live/test_film_life_atktv/playlist.m3u8",
-    "logo": "https://i.imgur.com/kizTBgS.png"
-  },
-  {
-    "id": "1422",
-    "name": "HOLLYWOOD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/1j7cT2I.png"
-  },
-  {
-    "id": "2398",
-    "name": "Star Cinema",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://dash.antik.sk/live/test_star_cinema_atktv/playlist.m3u8",
-    "logo": "https://i.imgur.com/5sis895.png"
-  },
-  {
-    "id": "2400",
-    "name": "Star Family",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://dash.antik.sk/live/test_star_family_atktv/playlist.m3u8",
-    "logo": "https://i.imgur.com/eGuGHnZ.png"
-  },
-  {
-    "id": "288",
-    "name": "Viju TV1000",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/ZMsyjSr.png"
-  },
-  {
-    "id": "300047",
-    "name": "Viju TV1000 Action",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/TMmyuzh.png"
-  },
-  {
-    "id": "300116",
-    "name": "viju+ Comedy",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://stream8.cinerama.uz/1061/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/YoNOFu7.png"
-  },
-  {
-    "id": "1012",
-    "name": "viju+ Megahit",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8",
-    "logo": "https://i.imgur.com/oIQNddV.png"
-  },
-  {
-    "id": "300114",
-    "name": "viju+ Premiere",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://stream8.cinerama.uz/1056/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/klRvhR5.png"
-  },
-  {
-    "id": "2452",
-    "name": "viju+ Serial",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "movies"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://stream8.cinerama.uz/1224/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/8yXZET5.png"
-  },
-  {
-    "id": "2229",
-    "name": "DocuBox",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://dash.antik.sk/live/test_docubox_medium_atk/playlist.m3u8",
-    "logo": "https://i.imgur.com/pX4U9OG.png"
-  },
-  {
-    "id": "1520",
-    "name": "Galaxy",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://s70378.cdn.ngenix.net/galaxy/2/index.m3u8",
-    "logo": "https://i.imgur.com/fR3abSD.png"
-  },
-  {
-    "id": "gnc",
-    "name": "GNC",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://live-gnctv.cdnvideo.ru/gnctv_hls_tcode/gnctv_tc1/playlist.m3u8",
-    "logo": "https://i.postimg.cc/Dm3XVy0D/GNC.png"
-  },
-  {
-    "id": "2428",
-    "name": "NANO",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://s1.tv-nano.com/Nano_rec/index.m3u8",
-    "logo": "https://i.imgur.com/dYj3XDa.png"
-  },
-  {
-    "id": "55",
-    "name": "Ocean TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://s70378.cdn.ngenix.net/ocean_tv/2/index.m3u8",
-    "logo": "https://i.postimg.cc/YhXFJDMJ/Ocean.png"
-  },
-  {
-    "id": "400019",
-    "name": "RTG HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://s70378.cdn.ngenix.net/rtg_hd/3/index.m3u8",
-    "logo": "https://i.imgur.com/ZMKPAho.png"
-  },
-  {
-    "id": "9082",
-    "name": "The explorers",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://s70378.cdn.ngenix.net/the_explorers/2/index.m3u8",
-    "logo": "https://i.postimg.cc/6q9mfqs9/The-explorer.png"
-  },
-  {
-    "id": "3218",
-    "name": "TERRA",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://s70378.cdn.ngenix.net/terra/2/index.m3u8",
-    "logo": "https://i.imgur.com/ZxUjCpF.png"
-  },
-  {
-    "id": "100024",
-    "name": "Top Secret",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref",
-    "logo": "https://i.imgur.com/HM4xy4G.png"
-  },
-  {
-    "id": "5600",
-    "name": "UNIVER TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8",
-    "logo": "https://i.imgur.com/r3u0mxr.png"
-  },
-  {
-    "id": "324",
-    "name": "viju Explore",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv",
-    "logo": "https://i.imgur.com/EGIpLPu.png"
-  },
-  {
-    "id": "325",
-    "name": "viju History",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv",
-    "logo": "https://i.imgur.com/FqWkeXb.png"
-  },
-  {
-    "id": "1009",
-    "name": "viju Nature",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv",
-    "logo": "https://i.imgur.com/8BPZ18l.png"
-  },
-  {
-    "id": "1754",
-    "name": "Luxury",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://s1.tv-nano.com/Luxury_rec/tracks-v1a1/index.m3u8",
-    "logo": "https://i.imgur.com/nobZa5l.png"
-  },
-  {
-    "id": "1754.2",
-    "name": "TVM Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "entertainment"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://cdn-01.bonus-tv.ru/tvm_edge/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/ZX6crqH.png"
-  },
-  {
-    "id": "atameken.business.hd",
-    "name": "Atameken Business HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "news"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8",
-    "logo": "https://i.imgur.com/CfRvm8i.png"
-  },
-  {
-    "id": "9033",
-    "name": "Silk Way TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "documentary"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8",
-    "logo": "https://i.imgur.com/SJNDksF.png"
-  },
-  {
-    "id": "259",
-    "name": "Extreme Sports",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8",
-    "logo": "https://i.imgur.com/m7IC01U.png"
-  },
-  {
-    "id": "2261",
-    "name": "Fast&FunBox",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://dash.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8",
-    "logo": "https://i.postimg.cc/W163TDXX/Fast282013).png"
-  },
-  {
-    "id": "2263",
-    "name": "FightBox",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://dash.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8",
-    "logo": "https://i.imgur.com/mRsnztA.png"
-  },
-  {
-    "id": "300086",
-    "name": "KHL",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/RgdHdOV.png"
-  },
-  {
-    "id": "1590",
-    "name": "KHL Prime HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://fs.uplink.kz/khl_prime/tracks-v1a1/mono.ts.m3u8?token=onlinetv",
-    "logo": "https://i.imgur.com/pwxT0ON.png"
-  },
-  {
-    "id": "mma.tv.com",
-    "name": "MMA-TV.com",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv",
-    "logo": "https://i.imgur.com/QhdxNsB.png"
-  },
-  {
-    "id": "qazsport",
-    "name": "QAZSPORT",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv",
-    "logo": "https://i.imgur.com/UDJ0P5Q.png"
-  },
-  {
-    "id": "300002",
-    "name": "Viju+ Sport",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "sports"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "http://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8",
-    "logo": "https://i.imgur.com/fXESG0l.png"
-  },
-  {
-    "id": "hanoi90",
-    "name": "Hà Nội FM90",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8",
-    "logo": "https://i.postimg.cc/5Qd2rzFC/HN90.png"
-  },
-  {
-    "id": "hanoi96",
-    "name": "Hà Nội FM96",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "general"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null,
-    "stream_url": "https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8",
-    "logo": "https://i.postimg.cc/NLmMHdWV/HN96.png"
+    "website": "https://hanoionline.vn/"
   }
 ]
