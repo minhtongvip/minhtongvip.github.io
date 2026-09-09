@@ -1,14 +1,1 @@
-[
-  {
-    "id": 100401,
-    "version": "1.26.33",
-    "link": "https://link4m.net/af7ZH",
-    "vip": false
-  },
-  {
-    "id": 100402,
-    "version": "1.26.33",
-    "link": "https://www.mediafire.com/file/io44vqmb9wd3tzu/Minecraft-TQM.ipa/file",
-    "vip": true
-  }
-]
+{"status":1,"error":0,"result":{"items":[{"id":100401,"version":"1.26.33","link":"https://link4m.net/af7ZH","vip":false,"app_id":1004,"content_id":1004,"downloadLink":"https://link4m.net/af7ZH"},{"id":100402,"version":"1.26.33","link":"https://www.mediafire.com/file/io44vqmb9wd3tzu/Minecraft-TQM.ipa/file","vip":true,"app_id":1004,"content_id":1004,"downloadLink":"https://www.mediafire.com/file/io44vqmb9wd3tzu/Minecraft-TQM.ipa/file"}],"list":[{"id":100401,"version":"1.26.33","link":"https://link4m.net/af7ZH","vip":false,"app_id":1004,"content_id":1004,"downloadLink":"https://link4m.net/af7ZH"},{"id":100402,"version":"1.26.33","link":"https://www.mediafire.com/file/io44vqmb9wd3tzu/Minecraft-TQM.ipa/file","vip":true,"app_id":1004,"content_id":1004,"downloadLink":"https://www.mediafire.com/file/io44vqmb9wd3tzu/Minecraft-TQM.ipa/file"}],"data":[{"id":100401,"version":"1.26.33","link":"https://link4m.net/af7ZH","vip":false,"app_id":1004,"content_id":1004,"downloadLink":"https://link4m.net/af7ZH"},{"id":100402,"version":"1.26.33","link":"https://www.mediafire.com/file/io44vqmb9wd3tzu/Minecraft-TQM.ipa/file","vip":true,"app_id":1004,"content_id":1004,"downloadLink":"https://www.mediafire.com/file/io44vqmb9wd3tzu/Minecraft-TQM.ipa/file"}]},"data":[{"id":100401,"version":"1.26.33","link":"https://link4m.net/af7ZH","vip":false,"app_id":1004,"content_id":1004,"downloadLink":"https://link4m.net/af7ZH"},{"id":100402,"version":"1.26.33","link":"https://www.mediafire.com/file/io44vqmb9wd3tzu/Minecraft-TQM.ipa/file","vip":true,"app_id":1004,"content_id":1004,"downloadLink":"https://www.mediafire.com/file/io44vqmb9wd3tzu/Minecraft-TQM.ipa/file"}],"items":[{"id":100401,"version":"1.26.33","link":"https://link4m.net/af7ZH","vip":false,"app_id":1004,"content_id":1004,"downloadLink":"https://link4m.net/af7ZH"},{"id":100402,"version":"1.26.33","link":"https://www.mediafire.com/file/io44vqmb9wd3tzu/Minecraft-TQM.ipa/file","vip":true,"app_id":1004,"content_id":1004,"downloadLink":"https://www.mediafire.com/file/io44vqmb9wd3tzu/Minecraft-TQM.ipa/file"}],"list":[{"id":100401,"version":"1.26.33","link":"https://link4m.net/af7ZH","vip":false,"app_id":1004,"content_id":1004,"downloadLink":"https://link4m.net/af7ZH"},{"id":100402,"version":"1.26.33","link":"https://www.mediafire.com/file/io44vqmb9wd3tzu/Minecraft-TQM.ipa/file","vip":true,"app_id":1004,"content_id":1004,"downloadLink":"https://www.mediafire.com/file/io44vqmb9wd3tzu/Minecraft-TQM.ipa/file"}]}
