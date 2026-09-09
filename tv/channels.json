@@ -208,22 +208,6 @@
     "website": null
   },
   {
-    "id": "onviedramas",
-    "name": "ON Vie DRAMAS",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "KÊNH PHIM TRUYỆN"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "sctv6hd",
     "name": "SCTV6 - FIM 360 HD",
     "alt_names": [],
@@ -1304,38 +1288,6 @@
     "country": "VN",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "hanoi90",
-    "name": "Hà Nội FM90",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "KÊNH KHÁC"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "hanoi96",
-    "name": "Hà Nội FM96",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "KÊNH KHÁC"
     ],
     "is_nsfw": false,
     "launched": null,

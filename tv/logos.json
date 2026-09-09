@@ -130,16 +130,6 @@
     "url": "https://i.imgur.com/n1VZWPh.png"
   },
   {
-    "channel": "onviedramas",
-    "feed": null,
-    "in_use": true,
-    "tags": [],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/n7QICK7.png"
-  },
-  {
     "channel": "sctv6hd",
     "feed": null,
     "in_use": true,
@@ -818,25 +808,5 @@
     "height": null,
     "format": "PNG",
     "url": "https://i.imgur.com/Pfq3ix9.png"
-  },
-  {
-    "channel": "hanoi90",
-    "feed": null,
-    "in_use": true,
-    "tags": [],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.postimg.cc/5Qd2rzFC/HN90.png"
-  },
-  {
-    "channel": "hanoi96",
-    "feed": null,
-    "in_use": true,
-    "tags": [],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.postimg.cc/NLmMHdWV/HN96.png"
   }
 ]

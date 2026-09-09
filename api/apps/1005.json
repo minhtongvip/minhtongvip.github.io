@@ -1,0 +1,26 @@
+{
+  "id": 1005,
+  "name": "Dead Cells",
+  "bundle": "com.playdigious.deadcells.applearcade",
+  "icon": "img/icon/DeadCells.png",
+  "banner": "img/banner/DeadCells.png",
+  "features": [
+    "Trả phí trên Appstore",
+    "Tiền xu không giới hạn",
+    "Đạn không giới hạn"
+  ],
+  "versions": [
+    {
+      "id": 100501,
+      "version": "3.3.13",
+      "link": "https://link4m.net/yoDVanY7",
+      "vip": false
+    },
+    {
+      "id": 100502,
+      "version": "3.3.13",
+      "link": "https://drive.google.com/file/d/1VrK7k1VuPHyggPDGL_a9ky8V9sF9jUt8/view?usp=drivesdk",
+      "vip": true
+    }
+  ]
+}

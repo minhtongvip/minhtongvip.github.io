@@ -1,0 +1,25 @@
+{
+  "id": 1002,
+  "name": "Shadow Fight 3",
+  "bundle": "com.nekki.shadowfight3",
+  "icon": "img/icon/ShadowFight3.png",
+  "banner": "img/banner/ShadowFight3.png",
+  "features": [
+    "One Hit",
+    "Dumb Enemy"
+  ],
+  "versions": [
+    {
+      "id": 100201,
+      "version": "1.45.3",
+      "link": "https://link4m.org/otbDUR",
+      "vip": false
+    },
+    {
+      "id": 100202,
+      "version": "1.45.3",
+      "link": "https://www.mediafire.com/file/0n50qk2v5q1xsth/ShadowFight3_TQM.ipa/file",
+      "vip": true
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "AppVN Static API",
+  "version": "1.0",
+  "apps": "/api/apps.json",
+  "categories": "/api/categories.json"
+}

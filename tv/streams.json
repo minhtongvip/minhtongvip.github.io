@@ -130,16 +130,6 @@
     "referrer": null
   },
   {
-    "channel": "onviedramas",
-    "feed": "SD",
-    "title": "ON Vie DRAMAS",
-    "url": "http://dvrfl05.bozztv.com/vch_vchannel18/tracks-v1a1/mono.m3u8",
-    "quality": "SD",
-    "labels": [],
-    "user_agent": null,
-    "referrer": null
-  },
-  {
     "channel": "sctv6hd",
     "feed": "HD",
     "title": "SCTV6 - FIM 360 HD",
@@ -815,26 +805,6 @@
     "title": "TTV - TH TUYÊN QUANG HD",
     "url": "https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8",
     "quality": "1080p",
-    "labels": [],
-    "user_agent": null,
-    "referrer": null
-  },
-  {
-    "channel": "hanoi90",
-    "feed": "SD",
-    "title": "Hà Nội FM90",
-    "url": "https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8",
-    "quality": "SD",
-    "labels": [],
-    "user_agent": null,
-    "referrer": null
-  },
-  {
-    "channel": "hanoi96",
-    "feed": "SD",
-    "title": "Hà Nội FM96",
-    "url": "https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8",
-    "quality": "SD",
     "labels": [],
     "user_agent": null,
     "referrer": null
