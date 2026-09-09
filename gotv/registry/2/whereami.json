@@ -1,0 +1,16 @@
+{
+  "territoryId": "1",
+  "territoryName": "TQM-MOS",
+  "currentTerritory": "1",
+  "territory": {
+    "id": "1",
+    "territoryId": "1",
+    "name": "TQM-MOS",
+    "territoryName": "TQM-MOS",
+    "parentId": "0",
+    "isLeaf": true
+  },
+  "contractorId": "1",
+  "contractorName": "TQM-MOS",
+  "ipAddress": "0.0.0.0"
+}

@@ -1,0 +1,13 @@
+{
+  "territories": [
+    {
+      "id": "1",
+      "territoryId": "1",
+      "name": "TQM-MOS",
+      "territoryName": "TQM-MOS",
+      "parentId": "0",
+      "isLeaf": true
+    }
+  ],
+  "count": 1
+}

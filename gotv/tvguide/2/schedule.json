@@ -1,0 +1,83 @@
+{
+  "schedule": [
+    {
+      "id": "1",
+      "telecastId": "1",
+      "channelId": "1",
+      "channel_id": "1",
+      "title": "Bip Bop Test Stream",
+      "description": "HLS test content",
+      "start": 0,
+      "startPosition": 0,
+      "duration": 600,
+      "playableDuration": 600,
+      "contentURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+      "streamURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+      "assetURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+      "mediaResources": [
+        {
+          "assetURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+          "streamURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+          "renditionId": "main"
+        }
+      ],
+      "guideType": "online",
+      "startMode": "online"
+    }
+  ],
+  "count": 1,
+  "items": [
+    {
+      "id": "1",
+      "telecastId": "1",
+      "channelId": "1",
+      "channel_id": "1",
+      "title": "Bip Bop Test Stream",
+      "description": "HLS test content",
+      "start": 0,
+      "startPosition": 0,
+      "duration": 600,
+      "playableDuration": 600,
+      "contentURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+      "streamURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+      "assetURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+      "mediaResources": [
+        {
+          "assetURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+          "streamURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+          "renditionId": "main"
+        }
+      ],
+      "guideType": "online",
+      "startMode": "online"
+    }
+  ],
+  "channels": {
+    "1": [
+      {
+        "id": "1",
+        "telecastId": "1",
+        "channelId": "1",
+        "channel_id": "1",
+        "title": "Bip Bop Test Stream",
+        "description": "HLS test content",
+        "start": 0,
+        "startPosition": 0,
+        "duration": 600,
+        "playableDuration": 600,
+        "contentURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+        "streamURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+        "assetURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+        "mediaResources": [
+          {
+            "assetURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+            "streamURL": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+            "renditionId": "main"
+          }
+        ],
+        "guideType": "online",
+        "startMode": "online"
+      }
+    ]
+  }
+}
