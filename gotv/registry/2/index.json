@@ -1,9 +1,1 @@
-{
-  "version": 2,
-  "api_base": "https://tqm-mos.com/gotv",
-  "services": {
-    "tvguide": "https://tqm-mos.com/gotv/tvguide/2/",
-    "channels": "https://tqm-mos.com/gotv/tvguide/2/channels.json",
-    "schedule": "https://tqm-mos.com/gotv/tvguide/2/schedule.json"
-  }
-}
+{"version":2,"api_base":"https://tqm-mos.com/gotv","services":{"tvguide":"https://tqm-mos.com/gotv/tvguide/2/","channels":"https://tqm-mos.com/gotv/tvguide/2/channels.json","schedule":"https://tqm-mos.com/gotv/tvguide/2/schedule.json","whereami":"https://tqm-mos.com/gotv/registry/2/whereami.json","contractors":"https://tqm-mos.com/gotv/registry/2/contractors.json","watch":"https://tqm-mos.com/gotv/channel/watch","telecast":"https://tqm-mos.com/gotv/telecast/watch","timeshift":"https://tqm-mos.com/gotv/timeshift","media_locator":"https://tqm-mos.com/gotv/media_locator","search":"https://tqm-mos.com/gotv/search","bytefog":"https://tqm-mos.com/gotv/bf/1/"}}
