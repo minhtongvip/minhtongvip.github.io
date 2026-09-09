@@ -1,15 +1,9 @@
 {
-  "api_version": 2,
-  "base_url": "https://tqm-mos.com/gotv",
-  "endpoints": {
-    "whereami": "/registry/2/whereami.json",
-    "contractors": "/registry/2/contractors.json",
-    "territories": "/registry/2/territories.json",
-    "rubricator": "/registry/2/rubricator.json",
-    "channels": "/tvguide/2/channels.json",
-    "schedule": "/tvguide/2/schedule.json",
-    "watch": "/channel/watch.json",
-    "timeshift": "/timeshift.json",
-    "media_locator": "/media_locator.json"
+  "version": 2,
+  "api_base": "https://tqm-mos.com/gotv",
+  "services": {
+    "tvguide": "https://tqm-mos.com/gotv/tvguide/2/",
+    "channels": "https://tqm-mos.com/gotv/tvguide/2/channels.json",
+    "schedule": "https://tqm-mos.com/gotv/tvguide/2/schedule.json"
   }
 }
