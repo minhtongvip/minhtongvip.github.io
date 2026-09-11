@@ -1280,12 +1280,12 @@
     "website": null
   },
   {
-    "id": "GolfChannel",
-    "name": "GOLF CHANNEL",
+    "id": "on-football-vn",
+    "name": "ON Football",
     "alt_names": [],
     "network": null,
     "owners": [],
-    "country": null,
+    "country": "VN",
     "categories": [
       "KÊNH THỂ THAO"
     ],
@@ -1296,12 +1296,12 @@
     "website": null
   },
   {
-    "id": "2800",
-    "name": "Insight TV HD",
+    "id": "on-sports-vn",
+    "name": "ON Sports",
     "alt_names": [],
     "network": null,
     "owners": [],
-    "country": null,
+    "country": "VN",
     "categories": [
       "KÊNH THỂ THAO"
     ],
@@ -1312,12 +1312,12 @@
     "website": null
   },
   {
-    "id": "1572",
-    "name": "Trace Sport Stars HD",
+    "id": "on-sports-plus-vn",
+    "name": "ON Sports+",
     "alt_names": [],
     "network": null,
     "owners": [],
-    "country": null,
+    "country": "VN",
     "categories": [
       "KÊNH THỂ THAO"
     ],
@@ -1328,252 +1328,12 @@
     "website": null
   },
   {
-    "id": "TSports7.th@SD",
-    "name": "T Sports 7",
+    "id": "on-sports-news-vn",
+    "name": "ON Sports News",
     "alt_names": [],
     "network": null,
     "owners": [],
-    "country": null,
-    "categories": [
-      "KÊNH THỂ THAO"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "2060",
-    "name": "Матч!",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": null,
-    "categories": [
-      "KÊNH THỂ THAO"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "259",
-    "name": "Extreme Sports",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": null,
-    "categories": [
-      "KÊNH THỂ THAO"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "2261",
-    "name": "Fast&FunBox",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": null,
-    "categories": [
-      "KÊNH THỂ THAO"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "2263",
-    "name": "FightBox",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": null,
-    "categories": [
-      "KÊNH THỂ THAO"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "300086",
-    "name": "KHL",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": null,
-    "categories": [
-      "KÊNH THỂ THAO"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "1590",
-    "name": "KHL Prime HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": null,
-    "categories": [
-      "KÊNH THỂ THAO"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "mmatvcom",
-    "name": "MMA-TV.com",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": null,
-    "categories": [
-      "KÊNH THỂ THAO"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "qazsport",
-    "name": "QAZSPORT",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": null,
-    "categories": [
-      "KÊNH THỂ THAO"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "300002",
-    "name": "Viju+ Sport",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": null,
-    "categories": [
-      "KÊNH THỂ THAO"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "686",
-    "name": "Футбол",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": null,
-    "categories": [
-      "KÊNH THỂ THAO"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "1018",
-    "name": "Матч! Планета",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": null,
-    "categories": [
-      "KÊNH THỂ THAO"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "504",
-    "name": "Матч! Премьер",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": null,
-    "categories": [
-      "KÊNH THỂ THAO"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "2470",
-    "name": "Матч! Страна",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": null,
-    "categories": [
-      "KÊNH THỂ THAO"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "100089",
-    "name": "Спортивный",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": null,
-    "categories": [
-      "KÊNH THỂ THAO"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "3206",
-    "name": "Удар",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": null,
+    "country": "VN",
     "categories": [
       "KÊNH THỂ THAO"
     ],
