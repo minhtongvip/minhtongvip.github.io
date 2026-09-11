@@ -1456,22 +1456,6 @@
     "website": null
   },
   {
-    "id": "footplus_fr_sd",
-    "name": "Foot+",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "FR",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "okkofutbol_ru_sd",
     "name": "Okko Futbol",
     "alt_names": [],

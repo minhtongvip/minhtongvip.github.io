@@ -932,18 +932,6 @@
     "referrer": null
   },
   {
-    "channel": "footplus_fr_sd",
-    "feed": null,
-    "title": "Foot+",
-    "url": "http://145.239.5.177/556a/index.m3u8",
-    "quality": null,
-    "labels": [
-      "football"
-    ],
-    "user_agent": null,
-    "referrer": null
-  },
-  {
     "channel": "okkofutbol_ru_sd",
     "feed": "1080P",
     "title": "Okko Futbol",
