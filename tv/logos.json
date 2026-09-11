@@ -800,43 +800,267 @@
     "url": "https://i.imgur.com/Pfq3ix9.png"
   },
   {
-    "channel": "on-football-vn",
+    "channel": "beinsportsxtra_us_sd",
     "feed": null,
     "in_use": true,
-    "tags": [],
+    "tags": [
+      "football"
+    ],
     "width": null,
     "height": null,
-    "format": "ICO",
-    "url": "https://onplus.com.vn/favicon.ico"
+    "format": "PNG",
+    "url": "https://i.ibb.co/HT49GPmB/XTRA-2.png"
   },
   {
-    "channel": "on-sports-vn",
+    "channel": "beinsportsxtraenespanol_us_sd",
     "feed": null,
     "in_use": true,
-    "tags": [],
+    "tags": [
+      "football"
+    ],
     "width": null,
     "height": null,
-    "format": "ICO",
-    "url": "https://onplus.com.vn/favicon.ico"
+    "format": "PNG",
+    "url": "https://i.imgur.com/V562tpO.png"
   },
   {
-    "channel": "on-sports-plus-vn",
+    "channel": "cctvstormfootball_cn_hd",
     "feed": null,
     "in_use": true,
-    "tags": [],
+    "tags": [
+      "football"
+    ],
     "width": null,
     "height": null,
-    "format": "ICO",
-    "url": "https://onplus.com.vn/favicon.ico"
+    "format": "PNG",
+    "url": "https://i.imgur.com/Fy6HkX0.png"
   },
   {
-    "channel": "on-sports-news-vn",
+    "channel": "fifaplus_uk_english",
     "feed": null,
     "in_use": true,
-    "tags": [],
+    "tags": [
+      "football"
+    ],
     "width": null,
     "height": null,
-    "format": "ICO",
-    "url": "https://onplus.com.vn/favicon.ico"
+    "format": "PNG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png"
+  },
+  {
+    "channel": "fifaplus_uk_french",
+    "feed": null,
+    "in_use": true,
+    "tags": [
+      "football"
+    ],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png"
+  },
+  {
+    "channel": "fifaplus_uk_german",
+    "feed": null,
+    "in_use": true,
+    "tags": [
+      "football"
+    ],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png"
+  },
+  {
+    "channel": "fifaplus_uk_hispanicamerica",
+    "feed": null,
+    "in_use": true,
+    "tags": [
+      "football"
+    ],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png"
+  },
+  {
+    "channel": "fifaplus_uk_italy",
+    "feed": null,
+    "in_use": true,
+    "tags": [
+      "football"
+    ],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png"
+  },
+  {
+    "channel": "fifaplus_uk_portuguese",
+    "feed": null,
+    "in_use": true,
+    "tags": [
+      "football"
+    ],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png"
+  },
+  {
+    "channel": "fifaplus_uk_spain",
+    "feed": null,
+    "in_use": true,
+    "tags": [
+      "football"
+    ],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png"
+  },
+  {
+    "channel": "fifaplus_uk_unitedstates",
+    "feed": null,
+    "in_use": true,
+    "tags": [
+      "football"
+    ],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png"
+  },
+  {
+    "channel": "fifapluswomen_uk_english",
+    "feed": null,
+    "in_use": true,
+    "tags": [
+      "football"
+    ],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://i.imgur.com/xy9ZxVO.png"
+  },
+  {
+    "channel": "footplus_fr_sd",
+    "feed": null,
+    "in_use": true,
+    "tags": [
+      "football"
+    ],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://i.imgur.com/qsLLyn4.png"
+  },
+  {
+    "channel": "futbol_tj_sd",
+    "feed": null,
+    "in_use": true,
+    "tags": [
+      "football"
+    ],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://i.imgur.com/RngmCDn.png"
+  },
+  {
+    "channel": "futboltv_uz_hd",
+    "feed": null,
+    "in_use": true,
+    "tags": [
+      "football"
+    ],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://i.ibb.co/h1gQSkbB/Futbol-TV.png"
+  },
+  {
+    "channel": "okkofutbol_ru_sd",
+    "feed": null,
+    "in_use": true,
+    "tags": [
+      "football"
+    ],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png"
+  },
+  {
+    "channel": "skysportsfootball_ie_sd",
+    "feed": null,
+    "in_use": true,
+    "tags": [
+      "football"
+    ],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png"
+  },
+  {
+    "channel": "strongman_us_germany",
+    "feed": null,
+    "in_use": true,
+    "tags": [
+      "football"
+    ],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://i.imgur.com/bVQBF6R.png"
+  },
+  {
+    "channel": "strongmanchampionsleague_uk_sd",
+    "feed": null,
+    "in_use": true,
+    "tags": [
+      "football"
+    ],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png"
+  },
+  {
+    "channel": "ucl_uy_sd",
+    "feed": null,
+    "in_use": true,
+    "tags": [
+      "football"
+    ],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://i.imgur.com/BzQphbw.png"
+  },
+  {
+    "channel": "bashkortostan24_ru_sd",
+    "feed": null,
+    "in_use": true,
+    "tags": [
+      "football"
+    ],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://i.imgur.com/s34Wtz6.png"
+  },
+  {
+    "channel": "football_ru_sd",
+    "feed": null,
+    "in_use": true,
+    "tags": [
+      "football"
+    ],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://i.imgur.com/pEuaZVx.png"
   }
 ]

@@ -1280,14 +1280,14 @@
     "website": null
   },
   {
-    "id": "on-football-vn",
-    "name": "ON Football",
+    "id": "beinsportsxtra_us_sd",
+    "name": "beIN SPORTS XTRA",
     "alt_names": [],
     "network": null,
     "owners": [],
-    "country": "VN",
+    "country": "US",
     "categories": [
-      "KÊNH THỂ THAO"
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -1296,14 +1296,14 @@
     "website": null
   },
   {
-    "id": "on-sports-vn",
-    "name": "ON Sports",
+    "id": "beinsportsxtraenespanol_us_sd",
+    "name": "beIN SPORTS XTRA en Espanol",
     "alt_names": [],
     "network": null,
     "owners": [],
-    "country": "VN",
+    "country": "US",
     "categories": [
-      "KÊNH THỂ THAO"
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -1312,14 +1312,14 @@
     "website": null
   },
   {
-    "id": "on-sports-plus-vn",
-    "name": "ON Sports+",
+    "id": "cctvstormfootball_cn_hd",
+    "name": "CCTV-Storm Football",
     "alt_names": [],
     "network": null,
     "owners": [],
-    "country": "VN",
+    "country": "CN",
     "categories": [
-      "KÊNH THỂ THAO"
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
     ],
     "is_nsfw": false,
     "launched": null,
@@ -1328,14 +1328,302 @@
     "website": null
   },
   {
-    "id": "on-sports-news-vn",
-    "name": "ON Sports News",
+    "id": "fifaplus_uk_english",
+    "name": "FIFA+",
     "alt_names": [],
     "network": null,
     "owners": [],
-    "country": "VN",
+    "country": "GB",
     "categories": [
-      "KÊNH THỂ THAO"
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "fifaplus_uk_french",
+    "name": "FIFA+ French",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "GB",
+    "categories": [
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "fifaplus_uk_german",
+    "name": "FIFA+ German",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "GB",
+    "categories": [
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "fifaplus_uk_hispanicamerica",
+    "name": "FIFA+ Hispanic America",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "GB",
+    "categories": [
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "fifaplus_uk_italy",
+    "name": "FIFA+ Italy",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "GB",
+    "categories": [
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "fifaplus_uk_portuguese",
+    "name": "FIFA+ Portuguese",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "GB",
+    "categories": [
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "fifaplus_uk_spain",
+    "name": "FIFA+ Spain",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "GB",
+    "categories": [
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "fifaplus_uk_unitedstates",
+    "name": "FIFA+ United States",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "GB",
+    "categories": [
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "fifapluswomen_uk_english",
+    "name": "FIFA+ Women",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "GB",
+    "categories": [
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "footplus_fr_sd",
+    "name": "Foot+",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "FR",
+    "categories": [
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "futbol_tj_sd",
+    "name": "Futbol",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "TJ",
+    "categories": [
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "futboltv_uz_hd",
+    "name": "Futbol TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "UZ",
+    "categories": [
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "okkofutbol_ru_sd",
+    "name": "Okko Futbol",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "RU",
+    "categories": [
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "skysportsfootball_ie_sd",
+    "name": "Sky Sports Football",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "IE",
+    "categories": [
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "strongman_us_germany",
+    "name": "Strongman Champions League",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "US",
+    "categories": [
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "strongmanchampionsleague_uk_sd",
+    "name": "Strongman Champions League",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "GB",
+    "categories": [
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "ucl_uy_sd",
+    "name": "UCL",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "UY",
+    "categories": [
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "bashkortostan24_ru_sd",
+    "name": "Башкортостан 24",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "RU",
+    "categories": [
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "football_ru_sd",
+    "name": "Футбол",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "RU",
+    "categories": [
+      "KÊNH THỂ THAO - BÓNG ĐÁ"
     ],
     "is_nsfw": false,
     "launched": null,
