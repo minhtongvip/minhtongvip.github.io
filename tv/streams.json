@@ -440,16 +440,6 @@
     "referrer": null
   },
   {
-    "channel": "dongnai3",
-    "feed": "HD",
-    "title": "ĐNNRTV3 - TH ĐỒNG NAI 3 HD",
-    "url": "https://live.fptplay53.net/epzsd1/dongnai3_hls.smil/chunklist_b2500000.m3u8",
-    "quality": "1080p",
-    "labels": [],
-    "user_agent": null,
-    "referrer": null
-  },
-  {
     "channel": "dongthap1",
     "feed": "HD",
     "title": "THĐT1 - TH ĐỒNG THÁP 1 HD",
@@ -805,6 +795,196 @@
     "title": "TTV - TH TUYÊN QUANG HD",
     "url": "https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8",
     "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "GolfChannel",
+    "feed": null,
+    "title": "GOLF CHANNEL",
+    "url": "https://dash.antik.sk/live/test_golf_channel/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "2800",
+    "feed": null,
+    "title": "Insight TV HD",
+    "url": "http://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "1572",
+    "feed": null,
+    "title": "Trace Sport Stars HD",
+    "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "TSports7.th@SD",
+    "feed": null,
+    "title": "T Sports 7",
+    "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "2060",
+    "feed": null,
+    "title": "Матч!",
+    "url": "http://flussonic.linkintel.ru/match/index.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "259",
+    "feed": null,
+    "title": "Extreme Sports",
+    "url": "http://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "2261",
+    "feed": null,
+    "title": "Fast&FunBox",
+    "url": "https://dash.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "2263",
+    "feed": null,
+    "title": "FightBox",
+    "url": "https://dash.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "300086",
+    "feed": null,
+    "title": "KHL",
+    "url": "http://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "1590",
+    "feed": null,
+    "title": "KHL Prime HD",
+    "url": "http://fs.uplink.kz/khl_prime/tracks-v1a1/mono.ts.m3u8?token=onlinetv",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "mmatvcom",
+    "feed": null,
+    "title": "MMA-TV.com",
+    "url": "http://fs.uplink.kz/mma/mono.m3u8?token=onlinetv",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "qazsport",
+    "feed": null,
+    "title": "QAZSPORT",
+    "url": "http://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "300002",
+    "feed": null,
+    "title": "Viju+ Sport",
+    "url": "http://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "686",
+    "feed": null,
+    "title": "Футбол",
+    "url": "http://radio.tvs.by/Setanta1/tracks-v1a1/mono.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "1018",
+    "feed": null,
+    "title": "Матч! Планета",
+    "url": "http://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "504",
+    "feed": null,
+    "title": "Матч! Премьер",
+    "url": "http://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "2470",
+    "feed": null,
+    "title": "Матч! Страна",
+    "url": "http://ukr.ukrainske.tv/134/keytvainua/video.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "100089",
+    "feed": null,
+    "title": "Спортивный",
+    "url": "http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.m3u8",
+    "quality": null,
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "3206",
+    "feed": null,
+    "title": "Удар",
+    "url": "http://5.188.159.128:8070/udar/index.m3u8",
+    "quality": null,
     "labels": [],
     "user_agent": null,
     "referrer": null
