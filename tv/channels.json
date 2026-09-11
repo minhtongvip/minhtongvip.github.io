@@ -1296,22 +1296,6 @@
     "website": null
   },
   {
-    "id": "beinsportsxtraenespanol_us_sd",
-    "name": "beIN SPORTS XTRA en Espanol",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "US",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "cctvstormfootball_cn_hd",
     "name": "CCTV-Storm Football",
     "alt_names": [],
@@ -1488,60 +1472,12 @@
     "website": null
   },
   {
-    "id": "futbol_tj_sd",
-    "name": "Futbol",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TJ",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "futboltv_uz_hd",
-    "name": "Futbol TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "UZ",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "okkofutbol_ru_sd",
     "name": "Okko Futbol",
     "alt_names": [],
     "network": null,
     "owners": [],
     "country": "RU",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "skysportsfootball_ie_sd",
-    "name": "Sky Sports Football",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IE",
     "categories": [
       "KÊNH THỂ THAO - BÓNG ĐÁ"
     ],
@@ -1590,38 +1526,6 @@
     "network": null,
     "owners": [],
     "country": "UY",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "bashkortostan24_ru_sd",
-    "name": "Башкортостан 24",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "football_ru_sd",
-    "name": "Футбол",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
     "categories": [
       "KÊNH THỂ THAO - BÓNG ĐÁ"
     ],

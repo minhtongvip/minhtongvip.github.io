@@ -812,18 +812,6 @@
     "url": "https://i.ibb.co/HT49GPmB/XTRA-2.png"
   },
   {
-    "channel": "beinsportsxtraenespanol_us_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/V562tpO.png"
-  },
-  {
     "channel": "cctvstormfootball_cn_hd",
     "feed": null,
     "in_use": true,
@@ -968,18 +956,6 @@
     "url": "https://i.imgur.com/RngmCDn.png"
   },
   {
-    "channel": "futboltv_uz_hd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.ibb.co/h1gQSkbB/Futbol-TV.png"
-  },
-  {
     "channel": "okkofutbol_ru_sd",
     "feed": null,
     "in_use": true,
@@ -990,18 +966,6 @@
     "height": null,
     "format": "PNG",
     "url": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png"
-  },
-  {
-    "channel": "skysportsfootball_ie_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png"
   },
   {
     "channel": "strongman_us_germany",

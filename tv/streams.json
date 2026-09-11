@@ -812,18 +812,6 @@
     "referrer": null
   },
   {
-    "channel": "beinsportsxtraenespanol_us_sd",
-    "feed": "1080P",
-    "title": "beIN SPORTS XTRA en Espanol",
-    "url": "http://201.190.41.246:9060/play/a03y/index.m3u8",
-    "quality": "1080p",
-    "labels": [
-      "football"
-    ],
-    "user_agent": null,
-    "referrer": null
-  },
-  {
     "channel": "cctvstormfootball_cn_hd",
     "feed": "1080P",
     "title": "CCTV-Storm Football",
@@ -956,47 +944,11 @@
     "referrer": null
   },
   {
-    "channel": "futbol_tj_sd",
-    "feed": "1080P",
-    "title": "Futbol",
-    "url": "https://live.teleradiocom.tj/8/3m.m3u8",
-    "quality": "1080p",
-    "labels": [
-      "football"
-    ],
-    "user_agent": null,
-    "referrer": null
-  },
-  {
-    "channel": "futboltv_uz_hd",
-    "feed": "1080P",
-    "title": "Futbol TV",
-    "url": "http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8",
-    "quality": "1080p",
-    "labels": [
-      "football"
-    ],
-    "user_agent": null,
-    "referrer": null
-  },
-  {
     "channel": "okkofutbol_ru_sd",
     "feed": "1080P",
     "title": "Okko Futbol",
     "url": "http://stream.mcquack.net/491/index.m3u8",
     "quality": "1080p",
-    "labels": [
-      "football"
-    ],
-    "user_agent": null,
-    "referrer": null
-  },
-  {
-    "channel": "skysportsfootball_ie_sd",
-    "feed": "720P",
-    "title": "Sky Sports Football",
-    "url": "http://188.138.29.131/skyfootball/index.m3u8",
-    "quality": "720p",
     "labels": [
       "football"
     ],
@@ -1032,30 +984,6 @@
     "feed": "720P",
     "title": "UCL",
     "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
-    "quality": "720p",
-    "labels": [
-      "football"
-    ],
-    "user_agent": null,
-    "referrer": null
-  },
-  {
-    "channel": "bashkortostan24_ru_sd",
-    "feed": "1080P",
-    "title": "Башкортостан 24",
-    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8",
-    "quality": "1080p",
-    "labels": [
-      "football"
-    ],
-    "user_agent": null,
-    "referrer": null
-  },
-  {
-    "channel": "football_ru_sd",
-    "feed": "720P",
-    "title": "Футбол",
-    "url": "http://31.148.48.15/Futbol_HD/index.m3u8",
     "quality": "720p",
     "labels": [
       "football"
