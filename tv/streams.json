@@ -973,6 +973,1260 @@
     "title": "UCL",
     "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
     "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "aspor_tr_sd",
+    "feed": "1080P",
+    "title": "A Spor",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "acisporttv_it_sd",
+    "feed": "1080P",
+    "title": "ACI Sport TV",
+    "url": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "aliraqiasport_iq_sd",
+    "feed": "720P",
+    "title": "Al Iraqia Sport",
+    "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "alkassfour_qa_sd",
+    "feed": "1080P",
+    "title": "Alkass Four",
+    "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "alkassone_qa_sd",
+    "feed": "1080P",
+    "title": "Alkass One",
+    "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "alkassshoof_qa_sd",
+    "feed": "1080P",
+    "title": "Alkass SHOOF",
+    "url": "https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "alkassshoof2_qa_sd",
+    "feed": "1080P",
+    "title": "Alkass SHOOF 2",
+    "url": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "alkasssix_qa_sd",
+    "feed": "1080P",
+    "title": "Alkass Six",
+    "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "alkassthree_qa_sd",
+    "feed": "1080P",
+    "title": "Alkass Three",
+    "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "alkasstwo_qa_sd",
+    "feed": "1080P",
+    "title": "Alkass Two",
+    "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "as3sporttv_ve_sd",
+    "feed": "1080P",
+    "title": "AS3 Sport TV",
+    "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "aztecadeportesnetwork_mx_sd",
+    "feed": "1080P",
+    "title": "Azteca Deportes Network",
+    "url": "http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "bandsports_br_sd",
+    "feed": "1080P",
+    "title": "Band Sports",
+    "url": "https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "beinsportsxtraenespanol_us_sd",
+    "feed": "1080P",
+    "title": "beIN SPORTS XTRA en Espanol",
+    "url": "http://201.190.41.246:9060/play/a03y/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "beksports_us_west",
+    "feed": "720P",
+    "title": "BEK TV Sports West",
+    "url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "cbssportsgolazonetwork_us_sd",
+    "feed": "720P",
+    "title": "CBS Sports Golazo Network",
+    "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "cbssportshq_us_sd",
+    "feed": "720P",
+    "title": "CBS Sports HQ",
+    "url": "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "clarosports_mx_sd",
+    "feed": "720P",
+    "title": "Claro Sports",
+    "url": "https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": "https://www.clarosports.com/"
+  },
+  {
+    "channel": "ddsports_in_sd",
+    "feed": "1080P",
+    "title": "DD Sports SD",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "digisport2_ro_sd",
+    "feed": "1080P",
+    "title": "Digi Sport 2",
+    "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2522/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "digisport4_ro_sd",
+    "feed": "1080P",
+    "title": "Digi Sport 4",
+    "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2538/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "dynamokyivtv_ua_sd",
+    "feed": "1080P",
+    "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Dynamo Kyiv TV",
+    "url": "http://stream.mcquack.net/396/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "elheddaftv_dz_sd",
+    "feed": "1080P",
+    "title": "El-Heddaf TV",
+    "url": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ertsports1_gr_hd",
+    "feed": "1080P",
+    "title": "ERT Sports 1",
+    "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ertsports2_gr_hd",
+    "feed": "1080P",
+    "title": "ERT Sports 2",
+    "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "espn_br_sd",
+    "feed": "1080P",
+    "title": "ESPN",
+    "url": "http://181.78.197.59:8000/play/a07z/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "espn3_br_sd",
+    "feed": "1080P",
+    "title": "ESPN 3",
+    "url": "http://190.83.2.182:8090/ESPN3/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "espn4_br_sd",
+    "feed": "1080P",
+    "title": "ESPN 4",
+    "url": "http://181.78.197.59:8000/play/a07n/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "espn8theocho_us_espn8theochohd",
+    "feed": "1080P",
+    "title": "ESPN8 The Ocho",
+    "url": "https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "espndeportes_us_hd",
+    "feed": "720P",
+    "title": "ESPN Deportes HD",
+    "url": "http://168.228.44.241:9998/play/a0dz/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "espnews_us_sd",
+    "feed": "720P",
+    "title": "ESPNews",
+    "url": "http://41.205.93.154/ESPNNEWS/index.m3u8",
+    "quality": "720p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "espnu_us_sd",
+    "feed": "720P",
+    "title": "ESPNU",
+    "url": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "espnu_us_hd",
+    "feed": "720P",
+    "title": "ESPNU HD",
+    "url": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "foxdeportes_us_sd",
+    "feed": "720P",
+    "title": "Fox Deportes",
+    "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "foxsports1_us_hd",
+    "feed": "720P",
+    "title": "Fox Sports 1",
+    "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "foxsports2_us_hd",
+    "feed": "720P",
+    "title": "Fox Sports 2",
+    "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "fubosportsnetwork_us_sd",
+    "feed": "1080P",
+    "title": "fubo Sports Network",
+    "url": "https://dnf08l6u6uxnz.cloudfront.net/master.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "futbol_tj_sd",
+    "feed": "1080P",
+    "title": "Futbol",
+    "url": "https://live.teleradiocom.tj/8/3m.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "futboltv_uz_hd",
+    "feed": "1080P",
+    "title": "Futbol TV",
+    "url": "http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "go3sport1_ee_sd",
+    "feed": "1080P",
+    "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Go3 Sport 1",
+    "url": "http://stream.mcquack.net/416/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "golazonetwork_us_sd",
+    "feed": "720P",
+    "title": "Golazo Network",
+    "url": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "htsportv_tr_sd",
+    "feed": "1080P",
+    "title": "HTSpor TV",
+    "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "intertv_it_sd",
+    "feed": "1080P",
+    "title": "Inter TV",
+    "url": "https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "jordansport_jo_sd",
+    "feed": "1080P",
+    "title": "Jordan Sport",
+    "url": "http://93.184.10.248/JordanSport/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ktvsport_kw_sd",
+    "feed": "1080P",
+    "title": "KTV Sport",
+    "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ktvsportplus_kw_sd",
+    "feed": "1080P",
+    "title": "KTV Sport Plus",
+    "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "l1max_pe_sd",
+    "feed": "1080P",
+    "title": "L1 Max",
+    "url": "http://190.93.224.42/LIGA-1-MAX/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "laziostylechannel_it_hd",
+    "feed": "720P",
+    "title": "Lazio Style Channel HD",
+    "url": "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "m4sport_hu_sd",
+    "feed": "1080P",
+    "title": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Sports\",M4 Sport",
+    "url": "http://88.212.15.19/live/uatlmvixrr/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "mnetsport_mk_sd",
+    "feed": "720P",
+    "title": "M-Net Sport",
+    "url": "http://ares.mnet.mk/hls/mnet-sport.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "matchstrana_ru_sd",
+    "feed": "720P",
+    "title": "Match! Strana",
+    "url": "http://31.148.48.15/Match_Strana/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "matchultra_ru_4k",
+    "feed": "720P",
+    "title": "Match! Ultra",
+    "url": "http://stream.mcquack.net/169/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "maxsport1_bg_sd",
+    "feed": "720P",
+    "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36x\" group-title=\"Sports\",Max Sport 1",
+    "url": "http://213.91.179.28:8000/play/a0as",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "maxsport2_bg_sd",
+    "feed": "720P",
+    "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Max Sport 2",
+    "url": "http://213.91.179.28:8000/play/a0at",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "maxsport3_bg_sd",
+    "feed": "720P",
+    "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Max Sport 3",
+    "url": "http://213.91.179.28:8000/play/a0ar",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "morethansportstv_de_sd",
+    "feed": "1080P",
+    "title": "More Than Sports TV",
+    "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "movistardeportes_pe_sd",
+    "feed": "1080P",
+    "title": "Movistar Deportes",
+    "url": "http://45.4.1.201:8000/play/a13e/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "mutv_uk_sd",
+    "feed": "720P",
+    "title": "MUTV",
+    "url": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "nsports_br_sd",
+    "feed": "1080P",
+    "title": "N Sports",
+    "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "okkoprajmsport_ru_sd",
+    "feed": "1080P",
+    "title": "Okko Prajm Sport",
+    "url": "http://stream.mcquack.net/493/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "okkosport_ru_sd",
+    "feed": "1080P",
+    "title": "Okko Sport",
+    "url": "http://stream.mcquack.net/492/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "pichilemutv_cl_sd",
+    "feed": "1080P",
+    "title": "Pichilemu TV",
+    "url": "https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "premiersports_ph_sd",
+    "feed": "1080P",
+    "title": "Premier Sports",
+    "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "premiersports2_ph_sd",
+    "feed": "1080P",
+    "title": "Premier Sports 2",
+    "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ptvsports_pk_sd",
+    "feed": "1080P",
+    "title": "PTV Sports",
+    "url": "http://103.250.28.74:8000/play/a019/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "qazsport_kz_sd",
+    "feed": "1080P",
+    "title": "QazSport",
+    "url": "http://stream.mcquack.net/72/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "realitateasportiva_ro_sd",
+    "feed": "720P",
+    "title": "Realitatea Sportiva",
+    "url": "https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "rtshsport_al_sd",
+    "feed": "1080P",
+    "title": "RTSH Sport",
+    "url": "http://178.33.11.6:8696/live/rtshsport/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ssport_tr_sd",
+    "feed": "720P",
+    "title": "S Sport",
+    "url": "https://corestream.siteyaptim.live/s-sport/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ssport2_tr_sd",
+    "feed": "720P",
+    "title": "S Sport 2",
+    "url": "https://corestream.siteyaptim.live/s-sport2/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "sanmarinortvsport_sm_sd",
+    "feed": "720P",
+    "title": "San Marino RTV Sport",
+    "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "setantasports_uk_sd",
+    "feed": "1080P",
+    "title": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports",
+    "url": "http://stream.mcquack.net/313/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "setantasports1eurasia_ie_sd",
+    "feed": "1080P",
+    "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports 1 Eurasia",
+    "url": "http://stream.mcquack.net/234/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "setantasports2eurasia_ie_sd",
+    "feed": "1080P",
+    "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports 2 Eurasia",
+    "url": "http://stream.mcquack.net/235/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "setantasportsplusukraine_ua_sd",
+    "feed": "1080P",
+    "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports+ Ukraine",
+    "url": "http://stream.mcquack.net/390/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "skysportsfootball_ie_sd",
+    "feed": "720P",
+    "title": "Sky Sports Football",
+    "url": "http://188.138.29.131/skyfootball/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "sonysportsten1_in_sd",
+    "feed": "1080P",
+    "title": "Sony Sports Ten 1",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten1.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "sonysportsten1_in_hd",
+    "feed": "1080P",
+    "title": "Sony Sports Ten 1 HD",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "sonysportsten2_in_sd",
+    "feed": "1080P",
+    "title": "Sony Sports Ten 2",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten2.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "sonysportsten2_in_hd",
+    "feed": "1080P",
+    "title": "Sony Sports Ten 2 HD",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "sonysportsten3hindi_in_sd",
+    "feed": "1080P",
+    "title": "Sony Sports Ten 3 Hindi",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten3.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "sonysportsten3hindi_in_hd",
+    "feed": "1080P",
+    "title": "Sony Sports Ten 3 Hindi HD",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "sonysportsten4_in_tamil",
+    "feed": "1080P",
+    "title": "Sony Sports Ten 4",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten4.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "sonysportsten4_in_telugu",
+    "feed": "1080P",
+    "title": "Sony Sports Ten 4 Telugu",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "sonysportsten5_in_sd",
+    "feed": "1080P",
+    "title": "Sony Sports Ten 5",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten5.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "sonysportsten5_in_hd",
+    "feed": "1080P",
+    "title": "Sony Sports Ten 5 HD",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "sporttv_by_sd",
+    "feed": "1080P",
+    "title": "Sport TV",
+    "url": "http://178.124.179.122:8080/SportTV/mpegts",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "sportitalia_it_sd",
+    "feed": "1080P",
+    "title": "Sportitalia",
+    "url": "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "sportitalia24_it_sd",
+    "feed": "720P",
+    "title": "Sportitalia 24",
+    "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "sportitaliamotori_it_sd",
+    "feed": "720P",
+    "title": "Sportitalia Motori",
+    "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "sportitaliasolocalcio_it_sd",
+    "feed": "1080P",
+    "title": "Sportitalia Solocalcio",
+    "url": "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "tsports_bd_sd",
+    "feed": "1080P",
+    "title": "T Sports",
+    "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "tigosports_bo_sd",
+    "feed": "720P",
+    "title": "Tigo Sports",
+    "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "tigosports_cr_sd",
+    "feed": "720P",
+    "title": "Tigo Sports",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "tigosports_gt_sd",
+    "feed": "1080P",
+    "title": "Tigo Sports",
+    "url": "http://45.5.119.43:4000/play/a05t/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "tigosports_py_sd",
+    "feed": "1080P",
+    "title": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Sports\",Tigo Sports",
+    "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": "https://www.tigosports.com.py/"
+  },
+  {
+    "channel": "trtspor_tr_sd",
+    "feed": "720P",
+    "title": "TRT Spor",
+    "url": "https://corestream.siteyaptim.live/trt-spor/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "trtsporyildiz_tr_sd",
+    "feed": "1440P",
+    "title": "TRT Spor Yildiz",
+    "url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor",
+    "quality": "1440p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "tvssportsbureau_us_sd",
+    "feed": "720P",
+    "title": "TVS Sports Bureau",
+    "url": "https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "tycsports_ar_sd",
+    "feed": "1080P",
+    "title": "TyC Sports",
+    "url": "http://45.181.87.106/TYCSPORTSHD/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "winsports_co_sd",
+    "feed": "1080P",
+    "title": "Win Sports",
+    "url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ziggosport5_nl_hd",
+    "feed": "1080P",
+    "title": "Ziggo Sport 5",
+    "url": "http://145.239.5.177/349/index.m3u8",
+    "quality": "1080p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "matcharena_ru_sd",
+    "feed": "720P",
+    "title": "МАТЧ! Арена",
+    "url": "http://31.148.48.15/Match_Arena_HD/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "matchigra_ru_sd",
+    "feed": "720P",
+    "title": "МАТЧ! Игра",
+    "url": "http://31.148.48.15/Match_Igra_HD/index.m3u8",
+    "quality": "720p",
+    "labels": [
+      "football"
+    ],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "football_ru_sd",
+    "feed": "720P",
+    "title": "Футбол",
+    "url": "http://31.148.48.15/Futbol_HD/index.m3u8",
+    "quality": "720p",
     "labels": [
       "football"
     ],
