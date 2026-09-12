@@ -983,7 +983,9 @@
     "channel": "ucl_uy_sd",
     "feed": null,
     "in_use": true,
-    "tags": [],
+    "tags": [
+      "football"
+    ],
     "width": null,
     "height": null,
     "format": "PNG",
@@ -1038,150 +1040,6 @@
     "url": "https://i.imgur.com/U8cHMOt.png"
   },
   {
-    "channel": "aliraqiasport_iq_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/DrrlxTO.png"
-  },
-  {
-    "channel": "alkassfour_qa_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/iDL65Wu.png"
-  },
-  {
-    "channel": "alkassone_qa_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/10mmlha.png"
-  },
-  {
-    "channel": "alkassshoof_qa_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://shoof.alkass.net/assets/images/shoof.png"
-  },
-  {
-    "channel": "alkassshoof2_qa_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://shoof.alkass.net/assets/images/shoof2.png"
-  },
-  {
-    "channel": "alkasssix_qa_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/CrPSPSC.png"
-  },
-  {
-    "channel": "alkassthree_qa_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/d57BdFh.png"
-  },
-  {
-    "channel": "alkasstwo_qa_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/8w61kFX.png"
-  },
-  {
-    "channel": "as3sporttv_ve_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg"
-  },
-  {
-    "channel": "aztecadeportesnetwork_mx_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg"
-  },
-  {
-    "channel": "bandsports_br_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/EuPvzJe.png"
-  },
-  {
-    "channel": "beinsportsxtraenespanol_us_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/V562tpO.png"
-  },
-  {
     "channel": "beksports_us_west",
     "feed": null,
     "in_use": true,
@@ -1192,18 +1050,6 @@
     "height": null,
     "format": "PNG",
     "url": "https://i.imgur.com/1l3t5jd.png"
-  },
-  {
-    "channel": "cbssportsgolazonetwork_us_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/eMjutHS.png"
   },
   {
     "channel": "cbssportshq_us_sd",
@@ -1218,18 +1064,6 @@
     "url": "https://i.imgur.com/q8BENJg.png"
   },
   {
-    "channel": "clarosports_mx_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/n0kd17r.png"
-  },
-  {
     "channel": "ddsports_in_sd",
     "feed": null,
     "in_use": true,
@@ -1240,30 +1074,6 @@
     "height": null,
     "format": "PNG",
     "url": "https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "channel": "digisport2_ro_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/KWDUi3v.png"
-  },
-  {
-    "channel": "digisport4_ro_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/Knj9I6f.png"
   },
   {
     "channel": "dynamokyivtv_ua_sd",
@@ -1290,78 +1100,6 @@
     "url": "https://i.imgur.com/cDkIDIA.png"
   },
   {
-    "channel": "ertsports1_gr_hd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/EsczO2H.png"
-  },
-  {
-    "channel": "ertsports2_gr_hd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/b2SNQPi.png"
-  },
-  {
-    "channel": "espn_br_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
-  },
-  {
-    "channel": "espn3_br_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png"
-  },
-  {
-    "channel": "espn4_br_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png"
-  },
-  {
-    "channel": "espn8theocho_us_espn8theochohd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png"
-  },
-  {
     "channel": "espndeportes_us_hd",
     "feed": null,
     "in_use": true,
@@ -1382,18 +1120,6 @@
     "height": null,
     "format": "PNG",
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png"
-  },
-  {
-    "channel": "espnu_us_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/HiBrysh.png"
   },
   {
     "channel": "espnu_us_hd",
@@ -1420,18 +1146,6 @@
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png"
   },
   {
-    "channel": "foxsports1_us_hd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/O9BapV9.png"
-  },
-  {
     "channel": "foxsports2_us_hd",
     "feed": null,
     "in_use": true,
@@ -1442,18 +1156,6 @@
     "height": null,
     "format": "PNG",
     "url": "https://i.imgur.com/LHtxKI8.png"
-  },
-  {
-    "channel": "fubosportsnetwork_us_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/qFNRJLb.png"
   },
   {
     "channel": "futboltv_uz_hd",
@@ -1492,18 +1194,6 @@
     "url": "https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png"
   },
   {
-    "channel": "htsportv_tr_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://www.htspor.com/images/manifest/social-share-logo.png"
-  },
-  {
     "channel": "intertv_it_sd",
     "feed": null,
     "in_use": true,
@@ -1514,66 +1204,6 @@
     "height": null,
     "format": "PNG",
     "url": "https://i.imgur.com/FUTqh2L.png"
-  },
-  {
-    "channel": "jordansport_jo_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/2EmrZPQ.png"
-  },
-  {
-    "channel": "ktvsport_kw_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/R1hGX1d.png"
-  },
-  {
-    "channel": "ktvsportplus_kw_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/l4oX0gf.png"
-  },
-  {
-    "channel": "l1max_pe_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/2fziU2B.png"
-  },
-  {
-    "channel": "laziostylechannel_it_hd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/vDB8HFq.png"
   },
   {
     "channel": "m4sport_hu_sd",
@@ -1588,30 +1218,6 @@
     "url": "https://i.imgur.com/TQ4uJZk.png"
   },
   {
-    "channel": "mnetsport_mk_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/7k8ar1Z.png"
-  },
-  {
-    "channel": "matchstrana_ru_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/X02s2UE.png"
-  },
-  {
     "channel": "matchultra_ru_4k",
     "feed": null,
     "in_use": true,
@@ -1624,42 +1230,6 @@
     "url": "https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg"
   },
   {
-    "channel": "maxsport1_bg_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/0ohnpql.png"
-  },
-  {
-    "channel": "maxsport2_bg_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/33m1wPN.png"
-  },
-  {
-    "channel": "maxsport3_bg_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/eGiGgZ2.png"
-  },
-  {
     "channel": "morethansportstv_de_sd",
     "feed": null,
     "in_use": true,
@@ -1670,30 +1240,6 @@
     "height": null,
     "format": "PNG",
     "url": "https://i.imgur.com/SLrjImc.png"
-  },
-  {
-    "channel": "movistardeportes_pe_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/Zt3iE86.png"
-  },
-  {
-    "channel": "mutv_uk_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png"
   },
   {
     "channel": "nsports_br_sd",
@@ -1742,42 +1288,6 @@
     "url": "https://i.imgur.com/eaJVCwM.png"
   },
   {
-    "channel": "premiersports_ph_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/BURPHzI.png"
-  },
-  {
-    "channel": "premiersports2_ph_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/UQeXWd2.png"
-  },
-  {
-    "channel": "ptvsports_pk_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/CPm6GHA.png"
-  },
-  {
     "channel": "qazsport_kz_sd",
     "feed": null,
     "in_use": true,
@@ -1800,54 +1310,6 @@
     "height": null,
     "format": "PNG",
     "url": "https://i.imgur.com/BaEyZto.png"
-  },
-  {
-    "channel": "rtshsport_al_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/J6NKXyJ.png"
-  },
-  {
-    "channel": "ssport_tr_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png"
-  },
-  {
-    "channel": "ssport2_tr_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/2jIItAy.png"
-  },
-  {
-    "channel": "sanmarinortvsport_sm_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/PGm944g.png"
   },
   {
     "channel": "setantasports_uk_sd",
@@ -1898,150 +1360,6 @@
     "url": "https://i.imgur.com/gHAP4p0.png"
   },
   {
-    "channel": "skysportsfootball_ie_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png"
-  },
-  {
-    "channel": "sonysportsten1_in_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png"
-  },
-  {
-    "channel": "sonysportsten1_in_hd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png"
-  },
-  {
-    "channel": "sonysportsten2_in_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png"
-  },
-  {
-    "channel": "sonysportsten2_in_hd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png"
-  },
-  {
-    "channel": "sonysportsten3hindi_in_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540"
-  },
-  {
-    "channel": "sonysportsten3hindi_in_hd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540"
-  },
-  {
-    "channel": "sonysportsten4_in_tamil",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://dtil.tmsimg.com/assets/GNLZZGG0025T4PV.png?lock=720x540"
-  },
-  {
-    "channel": "sonysportsten4_in_telugu",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://dtil.tmsimg.com/assets/s149166_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "channel": "sonysportsten5_in_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png"
-  },
-  {
-    "channel": "sonysportsten5_in_hd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png"
-  },
-  {
-    "channel": "sporttv_by_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://www.beltelecom.by/sites/default/files/styles/200200/public/tv-channels/2025-10/sporttv.png"
-  },
-  {
     "channel": "sportitalia_it_sd",
     "feed": null,
     "in_use": true,
@@ -2054,42 +1372,6 @@
     "url": "https://i.imgur.com/0CJGGgd.png"
   },
   {
-    "channel": "sportitalia24_it_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/RSwnoLn.png"
-  },
-  {
-    "channel": "sportitaliamotori_it_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/hu56Ya5.png"
-  },
-  {
-    "channel": "sportitaliasolocalcio_it_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/hu56Ya5.png"
-  },
-  {
     "channel": "tsports_bd_sd",
     "feed": null,
     "in_use": true,
@@ -2100,149 +1382,5 @@
     "height": null,
     "format": "PNG",
     "url": "https://i.imgur.com/2JzlorD.png"
-  },
-  {
-    "channel": "tigosports_bo_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/6wkmgGM.png"
-  },
-  {
-    "channel": "tigosports_cr_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/UrsLSRs.png"
-  },
-  {
-    "channel": "tigosports_gt_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png"
-  },
-  {
-    "channel": "tigosports_py_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png"
-  },
-  {
-    "channel": "trtspor_tr_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/6tv0zxh.png"
-  },
-  {
-    "channel": "trtsporyildiz_tr_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"
-  },
-  {
-    "channel": "tvssportsbureau_us_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": ""
-  },
-  {
-    "channel": "tycsports_ar_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png"
-  },
-  {
-    "channel": "winsports_co_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/DuSSrHV.png"
-  },
-  {
-    "channel": "ziggosport5_nl_hd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png"
-  },
-  {
-    "channel": "matcharena_ru_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/udTzwzu.png"
-  },
-  {
-    "channel": "matchigra_ru_sd",
-    "feed": null,
-    "in_use": true,
-    "tags": [
-      "football"
-    ],
-    "width": null,
-    "height": null,
-    "format": "PNG",
-    "url": "https://i.imgur.com/5XWpF19.png"
   }
 ]

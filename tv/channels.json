@@ -1552,216 +1552,8 @@
     "website": null
   },
   {
-    "id": "aliraqiasport_iq_sd",
-    "name": "Al Iraqia Sport",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IQ",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "alkassfour_qa_sd",
-    "name": "Alkass Four",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "QA",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "alkassone_qa_sd",
-    "name": "Alkass One",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "QA",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "alkassshoof_qa_sd",
-    "name": "Alkass SHOOF",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "QA",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "alkassshoof2_qa_sd",
-    "name": "Alkass SHOOF 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "QA",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "alkasssix_qa_sd",
-    "name": "Alkass Six",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "QA",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "alkassthree_qa_sd",
-    "name": "Alkass Three",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "QA",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "alkasstwo_qa_sd",
-    "name": "Alkass Two",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "QA",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "as3sporttv_ve_sd",
-    "name": "AS3 Sport TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VE",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "aztecadeportesnetwork_mx_sd",
-    "name": "Azteca Deportes Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "MX",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "bandsports_br_sd",
-    "name": "Band Sports",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "BR",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "beinsportsxtraenespanol_us_sd",
-    "name": "beIN SPORTS XTRA en Espanol",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "US",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "beksports_us_west",
     "name": "BEK TV Sports West",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "US",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "cbssportsgolazonetwork_us_sd",
-    "name": "CBS Sports Golazo Network",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -1792,22 +1584,6 @@
     "website": null
   },
   {
-    "id": "clarosports_mx_sd",
-    "name": "Claro Sports",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "MX",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "ddsports_in_sd",
     "name": "DD Sports SD",
     "alt_names": [],
@@ -1824,40 +1600,8 @@
     "website": null
   },
   {
-    "id": "digisport2_ro_sd",
-    "name": "Digi Sport 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RO",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "digisport4_ro_sd",
-    "name": "Digi Sport 4",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RO",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "dynamokyivtv_ua_sd",
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Dynamo Kyiv TV",
+    "name": "Like Gecko" group-title=\"Sports\",Dynamo Kyiv TV",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -1888,102 +1632,6 @@
     "website": null
   },
   {
-    "id": "ertsports1_gr_hd",
-    "name": "ERT Sports 1",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "GR",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ertsports2_gr_hd",
-    "name": "ERT Sports 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "GR",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "espn_br_sd",
-    "name": "ESPN",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "BR",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "espn3_br_sd",
-    "name": "ESPN 3",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "BR",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "espn4_br_sd",
-    "name": "ESPN 4",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "BR",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "espn8theocho_us_espn8theochohd",
-    "name": "ESPN8 The Ocho",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "US",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "espndeportes_us_hd",
     "name": "ESPN Deportes HD",
     "alt_names": [],
@@ -2002,22 +1650,6 @@
   {
     "id": "espnews_us_sd",
     "name": "ESPNews",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "US",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "espnu_us_sd",
-    "name": "ESPNU",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -2064,60 +1696,12 @@
     "website": null
   },
   {
-    "id": "foxsports1_us_hd",
-    "name": "Fox Sports 1",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "US",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "foxsports2_us_hd",
     "name": "Fox Sports 2",
     "alt_names": [],
     "network": null,
     "owners": [],
     "country": "US",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "fubosportsnetwork_us_sd",
-    "name": "fubo Sports Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "US",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "futbol_tj_sd",
-    "name": "Futbol",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TJ",
     "categories": [
       "KÊNH THỂ THAO - BÓNG ĐÁ"
     ],
@@ -2145,7 +1729,7 @@
   },
   {
     "id": "go3sport1_ee_sd",
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Go3 Sport 1",
+    "name": "Like Gecko" group-title=\"Sports\",Go3 Sport 1",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -2176,22 +1760,6 @@
     "website": null
   },
   {
-    "id": "htsportv_tr_sd",
-    "name": "HTSpor TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TR",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "intertv_it_sd",
     "name": "Inter TV",
     "alt_names": [],
@@ -2208,124 +1776,12 @@
     "website": null
   },
   {
-    "id": "jordansport_jo_sd",
-    "name": "Jordan Sport",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "JO",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ktvsport_kw_sd",
-    "name": "KTV Sport",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KW",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ktvsportplus_kw_sd",
-    "name": "KTV Sport Plus",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KW",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "l1max_pe_sd",
-    "name": "L1 Max",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "PE",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "laziostylechannel_it_hd",
-    "name": "Lazio Style Channel HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IT",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "m4sport_hu_sd",
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Sports\",M4 Sport",
+    "name": "Like Gecko" group-title=\"Sports\",M4 Sport",
     "alt_names": [],
     "network": null,
     "owners": [],
     "country": "HU",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "mnetsport_mk_sd",
-    "name": "M-Net Sport",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "MK",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "matchstrana_ru_sd",
-    "name": "Match! Strana",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
     "categories": [
       "KÊNH THỂ THAO - BÓNG ĐÁ"
     ],
@@ -2352,92 +1808,12 @@
     "website": null
   },
   {
-    "id": "maxsport1_bg_sd",
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36x\" group-title=\"Sports\",Max Sport 1",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "BG",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "maxsport2_bg_sd",
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Max Sport 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "BG",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "maxsport3_bg_sd",
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Max Sport 3",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "BG",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "morethansportstv_de_sd",
     "name": "More Than Sports TV",
     "alt_names": [],
     "network": null,
     "owners": [],
     "country": "DE",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "movistardeportes_pe_sd",
-    "name": "Movistar Deportes",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "PE",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "mutv_uk_sd",
-    "name": "MUTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "GB",
     "categories": [
       "KÊNH THỂ THAO - BÓNG ĐÁ"
     ],
@@ -2512,54 +1888,6 @@
     "website": null
   },
   {
-    "id": "premiersports_ph_sd",
-    "name": "Premier Sports",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "PH",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "premiersports2_ph_sd",
-    "name": "Premier Sports 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "PH",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ptvsports_pk_sd",
-    "name": "PTV Sports",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "PK",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "qazsport_kz_sd",
     "name": "QazSport",
     "alt_names": [],
@@ -2592,72 +1920,8 @@
     "website": null
   },
   {
-    "id": "rtshsport_al_sd",
-    "name": "RTSH Sport",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "AL",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ssport_tr_sd",
-    "name": "S Sport",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TR",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ssport2_tr_sd",
-    "name": "S Sport 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TR",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "sanmarinortvsport_sm_sd",
-    "name": "San Marino RTV Sport",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "SM",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "setantasports_uk_sd",
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports",
+    "name": "Like Gecko" group-title=\"Sports\",Setanta Sports",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -2673,7 +1937,7 @@
   },
   {
     "id": "setantasports1eurasia_ie_sd",
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports 1 Eurasia",
+    "name": "Like Gecko" group-title=\"Sports\",Setanta Sports 1 Eurasia",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -2689,7 +1953,7 @@
   },
   {
     "id": "setantasports2eurasia_ie_sd",
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports 2 Eurasia",
+    "name": "Like Gecko" group-title=\"Sports\",Setanta Sports 2 Eurasia",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -2705,203 +1969,11 @@
   },
   {
     "id": "setantasportsplusukraine_ua_sd",
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports+ Ukraine",
+    "name": "Like Gecko" group-title=\"Sports\",Setanta Sports+ Ukraine",
     "alt_names": [],
     "network": null,
     "owners": [],
     "country": "UA",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "skysportsfootball_ie_sd",
-    "name": "Sky Sports Football",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IE",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "sonysportsten1_in_sd",
-    "name": "Sony Sports Ten 1",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IN",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "sonysportsten1_in_hd",
-    "name": "Sony Sports Ten 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IN",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "sonysportsten2_in_sd",
-    "name": "Sony Sports Ten 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IN",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "sonysportsten2_in_hd",
-    "name": "Sony Sports Ten 2 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IN",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "sonysportsten3hindi_in_sd",
-    "name": "Sony Sports Ten 3 Hindi",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IN",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "sonysportsten3hindi_in_hd",
-    "name": "Sony Sports Ten 3 Hindi HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IN",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "sonysportsten4_in_tamil",
-    "name": "Sony Sports Ten 4",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IN",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "sonysportsten4_in_telugu",
-    "name": "Sony Sports Ten 4 Telugu",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IN",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "sonysportsten5_in_sd",
-    "name": "Sony Sports Ten 5",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IN",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "sonysportsten5_in_hd",
-    "name": "Sony Sports Ten 5 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IN",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "sporttv_by_sd",
-    "name": "Sport TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "BY",
     "categories": [
       "KÊNH THỂ THAO - BÓNG ĐÁ"
     ],
@@ -2928,268 +2000,12 @@
     "website": null
   },
   {
-    "id": "sportitalia24_it_sd",
-    "name": "Sportitalia 24",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IT",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "sportitaliamotori_it_sd",
-    "name": "Sportitalia Motori",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IT",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "sportitaliasolocalcio_it_sd",
-    "name": "Sportitalia Solocalcio",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "IT",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "tsports_bd_sd",
     "name": "T Sports",
     "alt_names": [],
     "network": null,
     "owners": [],
     "country": "BD",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "tigosports_bo_sd",
-    "name": "Tigo Sports",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "BO",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "tigosports_cr_sd",
-    "name": "Tigo Sports",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CR",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "tigosports_gt_sd",
-    "name": "Tigo Sports",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "GT",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "tigosports_py_sd",
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Sports\",Tigo Sports",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "PY",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "trtspor_tr_sd",
-    "name": "TRT Spor",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TR",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "trtsporyildiz_tr_sd",
-    "name": "TRT Spor Yildiz",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "TR",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "tvssportsbureau_us_sd",
-    "name": "TVS Sports Bureau",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "US",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "tycsports_ar_sd",
-    "name": "TyC Sports",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "AR",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "winsports_co_sd",
-    "name": "Win Sports",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "CO",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ziggosport5_nl_hd",
-    "name": "Ziggo Sport 5",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "NL",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "matcharena_ru_sd",
-    "name": "МАТЧ! Арена",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "matchigra_ru_sd",
-    "name": "МАТЧ! Игра",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
-    "categories": [
-      "KÊNH THỂ THAO - BÓNG ĐÁ"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "football_ru_sd",
-    "name": "Футбол",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "RU",
     "categories": [
       "KÊNH THỂ THAO - BÓNG ĐÁ"
     ],
