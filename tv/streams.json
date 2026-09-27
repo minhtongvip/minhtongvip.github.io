@@ -130,6 +130,86 @@
     "referrer": null
   },
   {
+    "channel": "tvbvn",
+    "feed": "HD",
+    "title": "TVB VIỆT NAM",
+    "url": "https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "onviegiaitri",
+    "feed": "HD",
+    "title": "ON Vie Giải Trí",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=180",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "onphimviet",
+    "feed": "HD",
+    "title": "ON Phim Việt",
+    "url": "https://vmttv.dpdns.org/tv360/?id=vtvcab-2-phim-viet-hd",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "onmovies",
+    "feed": "HD",
+    "title": "On Movies - You TV",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=181",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "onechannel",
+    "feed": "HD",
+    "title": "ON E- Channel",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=182",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ono2tv",
+    "feed": "HD",
+    "title": "On O2TV",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=136",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "onbibi",
+    "feed": "HD",
+    "title": "On BiBi",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=178",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "onkids",
+    "feed": "HD",
+    "title": "On Kids",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=179",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
     "channel": "sctv6hd",
     "feed": "HD",
     "title": "SCTV6 - FIM 360 HD",

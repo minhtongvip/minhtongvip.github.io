@@ -208,6 +208,150 @@
     "website": null
   },
   {
+    "id": "tvbvn",
+    "name": "TVB VIỆT NAM",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH TVB VIỆT NAM"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "onviegiaitri",
+    "name": "ON Vie Giải Trí",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTVcab"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "onphimviet",
+    "name": "ON Phim Việt",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTVcab"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "onmovies",
+    "name": "On Movies - You TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTVcab"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "onechannel",
+    "name": "ON E- Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTVcab"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "ono2tv",
+    "name": "On O2TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTVcab"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "onbibi",
+    "name": "On BiBi",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTVcab"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "oninfotv",
+    "name": "ON Info TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTVcab"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "onkids",
+    "name": "On Kids",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTVcab"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "sctv6hd",
     "name": "SCTV6 - FIM 360 HD",
     "alt_names": [],

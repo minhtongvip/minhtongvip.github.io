@@ -130,6 +130,96 @@
     "url": "https://i.imgur.com/n1VZWPh.png"
   },
   {
+    "channel": "tvbvn",
+    "feed": null,
+    "in_use": true,
+    "tags": [],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg"
+  },
+  {
+    "channel": "onviegiaitri",
+    "feed": null,
+    "in_use": true,
+    "tags": [],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg"
+  },
+  {
+    "channel": "onphimviet",
+    "feed": null,
+    "in_use": true,
+    "tags": [],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ONPHIMVIET.png"
+  },
+  {
+    "channel": "onmovies",
+    "feed": null,
+    "in_use": true,
+    "tags": [],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onmovies.png"
+  },
+  {
+    "channel": "onechannel",
+    "feed": null,
+    "in_use": true,
+    "tags": [],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onechannel.png"
+  },
+  {
+    "channel": "ono2tv",
+    "feed": null,
+    "in_use": true,
+    "tags": [],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ono2tv.png"
+  },
+  {
+    "channel": "onbibi",
+    "feed": null,
+    "in_use": true,
+    "tags": [],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onbibi.png"
+  },
+  {
+    "channel": "oninfotv",
+    "feed": null,
+    "in_use": true,
+    "tags": [],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/oninfotv.png"
+  },
+  {
+    "channel": "onkids",
+    "feed": null,
+    "in_use": true,
+    "tags": [],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/onkids5_1675158859.webp"
+  },
+  {
     "channel": "sctv6hd",
     "feed": null,
     "in_use": true,
