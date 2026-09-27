@@ -293,8 +293,7 @@
     "channel": "ongolf",
     "feed": "HD",
     "title": "On Golf",
-    "url": "https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel
-",
+    "url": "https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel",
     "quality": "1080p",
     "labels": [],
     "user_agent": null,
@@ -1213,7 +1212,7 @@
   {
     "channel": "dynamokyivtv_ua_sd",
     "feed": "1080P",
-    "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Dynamo Kyiv TV",
+    "title": "Dynamo Kyiv TV",
     "url": "http://stream.mcquack.net/396/index.m3u8",
     "quality": "1080p",
     "labels": [
@@ -1343,7 +1342,7 @@
   {
     "channel": "m4sport_hu_sd",
     "feed": "1080P",
-    "title": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Sports\",M4 Sport",
+    "title": "M4 Sport",
     "url": "http://88.212.15.19/live/uatlmvixrr/index.m3u8",
     "quality": "1080p",
     "labels": [
