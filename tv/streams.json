@@ -10,16 +10,6 @@
     "referrer": null
   },
   {
-    "channel": "vtv1hdqt",
-    "feed": "HD",
-    "title": "VTV1 HD QUỐC TẾ",
-    "url": "https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8",
-    "quality": "1080p",
-    "labels": [],
-    "user_agent": null,
-    "referrer": null
-  },
-  {
     "channel": "vtv2hd",
     "feed": "HD",
     "title": "VTV2 HD",
@@ -250,16 +240,6 @@
     "referrer": null
   },
   {
-    "channel": "ontrending",
-    "feed": "HD",
-    "title": "ON TRENDING TV",
-    "url": "https://tpninosaga.duckdns.org/source/tv360.m3u8?id=186&token=NinoEra36",
-    "quality": "1080p",
-    "labels": [],
-    "user_agent": null,
-    "referrer": null
-  },
-  {
     "channel": "onviedramas",
     "feed": "HD",
     "title": "ON Vie Dramas",
@@ -284,16 +264,6 @@
     "feed": "HD",
     "title": "On Life",
     "url": "https://freem3u.xyz/api/live/play.m3u8?vid=188",
-    "quality": "1080p",
-    "labels": [],
-    "user_agent": null,
-    "referrer": null
-  },
-  {
-    "channel": "ongolf",
-    "feed": "HD",
-    "title": "On Golf",
-    "url": "https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel",
     "quality": "1080p",
     "labels": [],
     "user_agent": null,

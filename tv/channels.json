@@ -16,22 +16,6 @@
     "website": null
   },
   {
-    "id": "vtv1hdqt",
-    "name": "VTV1 HD QUỐC TẾ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
     "id": "vtv2hd",
     "name": "VTV2 HD",
     "alt_names": [],
@@ -402,22 +386,6 @@
   {
     "id": "onmusic",
     "name": "On Music",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
-    "categories": [
-      "KÊNH VTVcab"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
-  },
-  {
-    "id": "ontrending",
-    "name": "ON TRENDING TV",
     "alt_names": [],
     "network": null,
     "owners": [],
