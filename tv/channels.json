@@ -16,8 +16,40 @@
     "website": null
   },
   {
+    "id": "vtv1hdvip",
+    "name": "VTV1 HD VIP",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTV - ĐÀI TH VIỆT NAM"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "vtv2hd",
     "name": "VTV2 HD",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTV - ĐÀI TH VIỆT NAM"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "vtv2hdvip",
+    "name": "VTV2 HD VIP",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -48,8 +80,40 @@
     "website": null
   },
   {
+    "id": "vtv3hdvip",
+    "name": "VTV3 HD VIP",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTV - ĐÀI TH VIỆT NAM"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "vtv4hd",
     "name": "VTV4 HD",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTV - ĐÀI TH VIỆT NAM"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "vtv4hdvip",
+    "name": "VTV4 HD VIP",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -80,8 +144,40 @@
     "website": null
   },
   {
+    "id": "vietnamtodayvip",
+    "name": "VIETNAM TODAY HD VIP",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH THIẾT YẾU"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "vtv5hd",
     "name": "VTV5 HD",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTV - ĐÀI TH VIỆT NAM"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "vtv5hdvip",
+    "name": "VTV5 HD VIP",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -112,8 +208,40 @@
     "website": null
   },
   {
+    "id": "vtv5hdtnbvip",
+    "name": "VTV5 TÂY NAM BỘ HD VIP",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTV - ĐÀI TH VIỆT NAM"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "vtv5hdtn",
     "name": "VTV5 TÂY NGUYÊN HD",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTV - ĐÀI TH VIỆT NAM"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "vtv5hdtnvip",
+    "name": "VTV5 TÂY NGUYÊN HD VIP",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -144,8 +272,40 @@
     "website": null
   },
   {
+    "id": "vtv6hdvip",
+    "name": "VTV6 HD VIP",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTV - ĐÀI TH VIỆT NAM"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "vtv7hd",
     "name": "VTV7 HD",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTV - ĐÀI TH VIỆT NAM"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "vtv7hdvip",
+    "name": "VTV7 HD VIP",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -176,6 +336,22 @@
     "website": null
   },
   {
+    "id": "vtv8hdvip",
+    "name": "VTV8 HD VIP",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTV - ĐÀI TH VIỆT NAM"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "vtv9hd",
     "name": "VTV9 HD",
     "alt_names": [],
@@ -192,8 +368,40 @@
     "website": null
   },
   {
+    "id": "vtv9hdvip",
+    "name": "VTV9 HD VIP",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTV - ĐÀI TH VIỆT NAM"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "vtv10hd",
     "name": "VTV10 HD",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH VTV - ĐÀI TH VIỆT NAM"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "vtv10hdvip",
+    "name": "VTV10 HD VIP",
     "alt_names": [],
     "network": null,
     "owners": [],
