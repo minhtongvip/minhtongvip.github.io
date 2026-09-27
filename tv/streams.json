@@ -10,6 +10,16 @@
     "referrer": null
   },
   {
+    "channel": "vtv1hdqt",
+    "feed": "HD",
+    "title": "VTV1 HD QUỐC TẾ",
+    "url": "https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
     "channel": "vtv2hd",
     "feed": "HD",
     "title": "VTV2 HD",
@@ -204,6 +214,87 @@
     "feed": "HD",
     "title": "On Kids",
     "url": "https://freem3u.xyz/api/live/play.m3u8?vid=179",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "oncine",
+    "feed": "HD",
+    "title": "ON Cine",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=176",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "onstyle",
+    "feed": "HD",
+    "title": "ON Style TV",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=184",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "onmusic",
+    "feed": "HD",
+    "title": "On Music",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=185",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ontrending",
+    "feed": "HD",
+    "title": "ON TRENDING TV",
+    "url": "https://tpninosaga.duckdns.org/source/tv360.m3u8?id=186&token=NinoEra36",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "onviedramas",
+    "feed": "HD",
+    "title": "ON Vie Dramas",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=177",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "onvfamily",
+    "feed": "HD",
+    "title": "ON V Family",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=187",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "onlife",
+    "feed": "HD",
+    "title": "On Life",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=188",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "ongolf",
+    "feed": "HD",
+    "title": "On Golf",
+    "url": "https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel
+",
     "quality": "1080p",
     "labels": [],
     "user_agent": null,
@@ -1358,7 +1449,7 @@
   {
     "channel": "setantasports_uk_sd",
     "feed": "1080P",
-    "title": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports",
+    "title": "Setanta Sports",
     "url": "http://stream.mcquack.net/313/index.m3u8",
     "quality": "1080p",
     "labels": [
@@ -1370,7 +1461,7 @@
   {
     "channel": "setantasports1eurasia_ie_sd",
     "feed": "1080P",
-    "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports 1 Eurasia",
+    "title": "Setanta Sports 1 Eurasia",
     "url": "http://stream.mcquack.net/234/index.m3u8",
     "quality": "1080p",
     "labels": [
@@ -1382,7 +1473,7 @@
   {
     "channel": "setantasports2eurasia_ie_sd",
     "feed": "1080P",
-    "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports 2 Eurasia",
+    "title": "Setanta Sports 2 Eurasia",
     "url": "http://stream.mcquack.net/235/index.m3u8",
     "quality": "1080p",
     "labels": [
@@ -1394,7 +1485,7 @@
   {
     "channel": "setantasportsplusukraine_ua_sd",
     "feed": "1080P",
-    "title": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports+ Ukraine",
+    "title": "Setanta Sports+ Ukraine",
     "url": "http://stream.mcquack.net/390/index.m3u8",
     "quality": "1080p",
     "labels": [

@@ -10,6 +10,16 @@
     "url": "https://i.imgur.com/EHjW7mC.png"
   },
   {
+    "channel": "vtv1hdqt",
+    "feed": null,
+    "in_use": true,
+    "tags": [],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://r2.epg.io.vn/2026-09-17/1.png"
+  },
+  {
     "channel": "vtv2hd",
     "feed": null,
     "in_use": true,
@@ -218,6 +228,86 @@
     "height": null,
     "format": "PNG",
     "url": "https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/onkids5_1675158859.webp"
+  },
+  {
+    "channel": "oncine",
+    "feed": null,
+    "in_use": true,
+    "tags": [],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://i.ytimg.com/vi/rwhsuTvSXxo/maxresdefault.jpg"
+  },
+  {
+    "channel": "onstyle",
+    "feed": null,
+    "in_use": true,
+    "tags": [],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onstyle.png"
+  },
+  {
+    "channel": "onmusic",
+    "feed": null,
+    "in_use": true,
+    "tags": [],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png"
+  },
+  {
+    "channel": "ontrending",
+    "feed": null,
+    "in_use": true,
+    "tags": [],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://i.ibb.co/k1ccQNr/vcab17.webp"
+  },
+  {
+    "channel": "onviedramas",
+    "feed": null,
+    "in_use": true,
+    "tags": [],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://i.ytimg.com/vi/4SqDlPT8oEI/maxresdefault.jpg"
+  },
+  {
+    "channel": "onvfamily",
+    "feed": null,
+    "in_use": true,
+    "tags": [],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://i.ibb.co/HHfL7Dq/cocab20.webp"
+  },
+  {
+    "channel": "onlife",
+    "feed": null,
+    "in_use": true,
+    "tags": [],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_640_360.png"
+  },
+  {
+    "channel": "ongolf",
+    "feed": null,
+    "in_use": true,
+    "tags": [],
+    "width": null,
+    "height": null,
+    "format": "PNG",
+    "url": "https://img.lichphatsong.site/logo/on-golf.jpg"
   },
   {
     "channel": "sctv6hd",
