@@ -400,6 +400,106 @@
     "referrer": null
   },
   {
+    "channel": "tv360promo",
+    "feed": "HD",
+    "title": "TV360 Promo",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9904",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "tv360phimviet",
+    "feed": "HD",
+    "title": "TV360 Phim Việt",
+    "url": "https://vmttv.dpdns.org/tv360/?id=phim-viet",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "tv360hoathinh",
+    "feed": "HD",
+    "title": "TV360 Hoạt hình",
+    "url": "https://vmttv.dpdns.org/tv360/?id=hoat-hinh",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "tv360phimhoangu",
+    "feed": "HD",
+    "title": "TV360 Phim Hoa Ngữ",
+    "url": "https://vmttv.dpdns.org/tv360/?id=360-hoa-ngu",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "tv360kdrama",
+    "feed": "HD",
+    "title": "TV360 K-Drama",
+    "url": "https://vmttv.dpdns.org/tv360/?id=360-k-drama",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "tv360haitinhcam",
+    "feed": "HD",
+    "title": "TV360 Hài - Tình Cảm",
+    "url": "https://vmttv.dpdns.org/tv360/?id=360-hai-tinh-cam",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "tv360phimkinhdien",
+    "feed": "HD",
+    "title": "TV360 Phim Kinh Điển",
+    "url": "https://vmttv.dpdns.org/tv360/?id=360-phim-kinh-dien",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "tv360anime",
+    "feed": "HD",
+    "title": "TV360 Anime",
+    "url": "https://vmttv.dpdns.org/tv360/?id=360-anime",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "tv360thieunhi",
+    "feed": "HD",
+    "title": "TV360 Thiếu Nhi",
+    "url": "https://vmttv.dpdns.org/tv360/?id=360-thieu-nhi",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
+    "channel": "tv360phim4k",
+    "feed": "HD",
+    "title": "TV360 Phim 4K",
+    "url": "https://vmttv.dpdns.org/tv360/?id=360-phim-4k",
+    "quality": "1080p",
+    "labels": [],
+    "user_agent": null,
+    "referrer": null
+  },
+  {
     "channel": "sctv6hd",
     "feed": "HD",
     "title": "SCTV6 - FIM 360 HD",

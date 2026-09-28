@@ -672,6 +672,182 @@
     "website": null
   },
   {
+    "id": "tv360promo",
+    "name": "TV360 Promo",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH TV360"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "tv360phimviet",
+    "name": "TV360 Phim Việt",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH TV360"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "tv360hoathinh",
+    "name": "TV360 Hoạt Hình",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH TV360"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "tv360phimhoangu",
+    "name": "TV360 Phim Hoa Ngữ",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH TV360"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "tv360kdrama",
+    "name": "TV360 K-Drama",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH TV360"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "tv360kdrama",
+    "name": "TV360 K-Drama",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH TV360"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "tv360haitinhcam",
+    "name": "TV360 Hài - Tình Cảm",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH TV360"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "tv360phimkinhdien",
+    "name": "TV360 Phim Kinh Điển",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH TV360"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "tv360anime",
+    "name": "TV360 Anime",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH TV360"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "tv360thieunhi",
+    "name": "TV360 Thiếu Nhi",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH TV360"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
+    "id": "tv360phim4k",
+    "name": "TV360 Phim 4K",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "VN",
+    "categories": [
+      "KÊNH TV360"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": null
+  },
+  {
     "id": "sctv6hd",
     "name": "SCTV6 - FIM 360 HD",
     "alt_names": [],
