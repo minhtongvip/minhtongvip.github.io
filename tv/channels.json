@@ -2,1921 +2,961 @@
   {
     "id": "vtv1hd",
     "name": "VTV1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv1hdvip",
     "name": "VTV1 HD VIP",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv2hd",
     "name": "VTV2 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv2hdvip",
     "name": "VTV2 HD VIP",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv3hd",
     "name": "VTV3 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv3hdvip",
     "name": "VTV3 HD VIP",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv4hd",
     "name": "VTV4 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv4hdvip",
     "name": "VTV4 HD VIP",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vietnamtoday",
     "name": "VIETNAM TODAY HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
     "country": "KÊNH THIẾT YẾU",
     "categories": [
       "KÊNH THIẾT YẾU"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "vietnamtodayvip",
     "name": "VIETNAM TODAY HD VIP",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
     "country": "KÊNH THIẾT YẾU",
     "categories": [
       "KÊNH THIẾT YẾU"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "vtv5hd",
     "name": "VTV5 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv5hdvip",
     "name": "VTV5 HD VIP",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv5hdtnb",
     "name": "VTV5 TÂY NAM BỘ HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv5hdtnbvip",
     "name": "VTV5 TÂY NAM BỘ HD VIP",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv5hdtn",
     "name": "VTV5 TÂY NGUYÊN HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv5hdtnvip",
     "name": "VTV5 TÂY NGUYÊN HD VIP",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv6hd",
     "name": "VTV6 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv6hdvip",
     "name": "VTV6 HD VIP",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv7hd",
     "name": "VTV7 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv7hdvip",
     "name": "VTV7 HD VIP",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv8hd",
     "name": "VTV8 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv8hdvip",
     "name": "VTV8 HD VIP",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv9hd",
     "name": "VTV9 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv9hdvip",
     "name": "VTV9 HD VIP",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv10hd",
     "name": "VTV10 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "vtv10hdvip",
     "name": "VTV10 HD VIP",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "KÊNH VTV - ĐÀI TH VIỆT NAM",
+    "country": "KÊNH VTV",
     "categories": [
-      "KÊNH VTV - ĐÀI TH VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+      "KÊNH VTV"
+    ]
   },
   {
     "id": "tvbvn",
     "name": "TVB VIỆT NAM",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
     "country": "KÊNH TVB VIỆT NAM",
     "categories": [
       "KÊNH TVB VIỆT NAM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "onviegiaitri",
     "name": "ON Vie Giải Trí",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
     "country": "KÊNH VTVcab",
     "categories": [
       "KÊNH VTVcab"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "onphimviet",
     "name": "ON Phim Việt",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
     "country": "KÊNH VTVcab",
     "categories": [
       "KÊNH VTVcab"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "onmovies",
     "name": "On Movies - You TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
     "country": "KÊNH VTVcab",
     "categories": [
       "KÊNH VTVcab"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "onechannel",
     "name": "ON E- Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH VTVcab",
     "categories": [
       "KÊNH VTVcab"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "ono2tv",
     "name": "On O2TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH VTVcab",
     "categories": [
       "KÊNH VTVcab"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "onbibi",
     "name": "On BiBi",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH VTVcab",
     "categories": [
       "KÊNH VTVcab"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "oninfotv",
     "name": "ON Info TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH VTVcab",
     "categories": [
       "KÊNH VTVcab"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "onkids",
     "name": "On Kids",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH VTVcab",
     "categories": [
       "KÊNH VTVcab"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "oncine",
     "name": "ON Cine",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH VTVcab",
     "categories": [
       "KÊNH VTVcab"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "onstyle",
     "name": "ON Style TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH VTVcab",
     "categories": [
       "KÊNH VTVcab"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "onmusic",
     "name": "On Music",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH VTVcab",
     "categories": [
       "KÊNH VTVcab"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "onviedramas",
     "name": "ON Vie Dramas",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH VTVcab",
     "categories": [
       "KÊNH VTVcab"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "onvfamily",
     "name": "ON V Family",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH VTVcab",
     "categories": [
       "KÊNH VTVcab"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "onlife",
     "name": "On Life",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH VTVcab",
     "categories": [
       "KÊNH VTVcab"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "ongolf",
     "name": "On Golf",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH VTVcab",
     "categories": [
       "KÊNH VTVcab"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "tv360promo",
     "name": "TV360 Promo",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TV360",
     "categories": [
       "KÊNH TV360"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "tv360phimviet",
     "name": "TV360 Phim Việt",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TV360",
     "categories": [
       "KÊNH TV360"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "tv360hoathinh",
     "name": "TV360 Hoạt Hình",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TV360",
     "categories": [
       "KÊNH TV360"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "tv360phimhoangu",
     "name": "TV360 Phim Hoa Ngữ",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TV360",
     "categories": [
       "KÊNH TV360"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "tv360kdrama",
     "name": "TV360 K-Drama",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TV360",
     "categories": [
       "KÊNH TV360"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "tv360kdrama",
     "name": "TV360 K-Drama",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TV360",
     "categories": [
       "KÊNH TV360"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "tv360haitinhcam",
     "name": "TV360 Hài - Tình Cảm",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TV360",
     "categories": [
       "KÊNH TV360"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "tv360phimkinhdien",
     "name": "TV360 Phim Kinh Điển",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TV360",
     "categories": [
       "KÊNH TV360"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "tv360anime",
     "name": "TV360 Anime",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TV360",
     "categories": [
       "KÊNH TV360"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "tv360thieunhi",
     "name": "TV360 Thiếu Nhi",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TV360",
     "categories": [
       "KÊNH TV360"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "tv360phim4k",
     "name": "TV360 Phim 4K",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TV360",
     "categories": [
       "KÊNH TV360"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "sctv6hd",
     "name": "SCTV6 - FIM 360 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH PHIM TRUYỆN",
     "categories": [
       "KÊNH PHIM TRUYỆN"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "htv1",
     "name": "HTV1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH HTV",
     "categories": [
       "KÊNH HTV - BÁO VÀ PTTH TPHCM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "htv2hd",
     "name": "HTV2 - Vie Channel HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH HTV",
     "categories": [
       "KÊNH HTV - BÁO VÀ PTTH TPHCM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "htv3",
     "name": "HTV3 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH HTV",
     "categories": [
       "KÊNH HTV - BÁO VÀ PTTH TPHCM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "htv4",
     "name": "HTV4 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH HTV",
     "categories": [
       "KÊNH HTV - BÁO VÀ PTTH TPHCM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "htv5",
     "name": "HTV5 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH HTV",
     "categories": [
       "KÊNH HTV - BÁO VÀ PTTH TPHCM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "htv7hd",
     "name": "HTV7 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH HTV",
     "categories": [
       "KÊNH HTV - BÁO VÀ PTTH TPHCM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "htv9hd",
     "name": "HTV9 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH HTV",
     "categories": [
       "KÊNH HTV - BÁO VÀ PTTH TPHCM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "htvthethaohd",
     "name": "HTV THỂ THAO HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH HTV",
     "categories": [
       "KÊNH HTV - BÁO VÀ PTTH TPHCM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "htvccanhachd",
     "name": "HTVC CA NHẠC HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH HTVC",
     "categories": [
       "KÊNH HTVC - BÁO VÀ PTTH TPHCM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "htvcdulichhd",
     "name": "HTVC DU LỊCH & CUỘC SỐNG HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH HTVC",
     "categories": [
       "KÊNH HTVC - BÁO VÀ PTTH TPHCM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "htvcgiadinhhd",
     "name": "HTVC GIA ĐÌNH HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH HTVC",
     "categories": [
       "KÊNH HTVC - BÁO VÀ PTTH TPHCM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "htvcphimhd",
     "name": "HTVC PHIM HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH HTVC",
     "categories": [
       "KÊNH HTVC - BÁO VÀ PTTH TPHCM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "htvcphunuhd",
     "name": "HTVC PHỤ NỮ HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH HTVC",
     "categories": [
       "KÊNH HTVC - BÁO VÀ PTTH TPHCM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "htvcthuanviet",
     "name": "HTVC THUẦN VIỆT HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH HTVC",
     "categories": [
       "KÊNH HTVC - BÁO VÀ PTTH TPHCM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "htvcplushd",
     "name": "HTVC+ HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH HTVC",
     "categories": [
       "KÊNH HTVC - BÁO VÀ PTTH TPHCM"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "antvhd",
     "name": "ANTV - TH CÔNG AN NHÂN DÂN HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH THIẾT YẾU",
     "categories": [
       "KÊNH THIẾT YẾU"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "qpvnhd",
     "name": "QPVN - TH QUỐC PHÒNG VIỆT NAM HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH THIẾT YẾU",
     "categories": [
       "KÊNH THIẾT YẾU"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "vinhlong1hd",
     "name": "TH VĨNH LONG 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "vinhlong2hd",
     "name": "TH VĨNH LONG 2 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "vinhlong3hd",
     "name": "TH VĨNH LONG 3 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "vinhlong4hd",
     "name": "TH VĨNH LONG 4 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "vinhlong5hd",
     "name": "TH VĨNH LONG 5 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "angiang1",
     "name": "ATV1 - TH AN GIANG 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "angiang2",
     "name": "ATV2 - TH AN GIANG 2 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "angiang3",
     "name": "ATV3 - TH AN GIANG 3 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "camau",
     "name": "CTV - TH CÀ MAU HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "cantho1",
-    "name": "TH CẦN THƠ 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "name": "TH CẦN THƠ 1 HD",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "cantho3",
-    "name": "TH CẦN THƠ 3 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "name": "TH CẦN THƠ 3 HD",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "dongnai1",
     "name": "ĐNNRTV1 - TH ĐỒNG NAI 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "dongnai2",
     "name": "ĐNNRTV2 - TH ĐỒNG NAI 2 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "dongthap1",
     "name": "THĐT1 - TH ĐỒNG THÁP 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "dongthap2",
     "name": "MIỀN TÂY THĐT2 - TH ĐỒNG THÁP 2 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "lamdong1",
     "name": "LTV1 - TH LÂM ĐỒNG 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "lamdong2",
     "name": "LTV2 - TH LÂM ĐỒNG 2 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "tayninh1",
     "name": "TN - TH TÂY NINH HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "danang1",
     "name": "ĐNRT1 - TH TP. ĐÀ NẴNG 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "danang2",
     "name": "ĐNRT2 - TH TP. ĐÀ NẴNG 2 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "daklak",
     "name": "DRT - TH ĐẮK LẮK HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "gialai",
     "name": "GTV - TH GIA LAI HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "hatinh",
     "name": "BHT TV - TH HÀ TĨNH HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "hue",
     "name": "HueTV - TH TP. HUẾ HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "khanhhoa",
     "name": "KTV - TH KHÁNH HÒA HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "khanhhoa1",
     "name": "KTV1 - TH KHÁNH HÒA 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "nghean",
     "name": "NTV - TH NGHỆ AN HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "quangngai",
     "name": "QNgTV1 - TH QUẢNG NGÃI HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "quangngai2",
     "name": "QNgTV2 - TH QUẢNG NGÃI 2 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "quangtri",
     "name": "QTTV - TH QUẢNG TRỊ HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "thanhhoa",
     "name": "TTV - TH THANH HOÁ HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "hanoi1",
     "name": "H1 - TH HÀ NỘI 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "hanoi2",
     "name": "H2 - TH HÀ NỘI 2 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "bacninh",
     "name": "BTV - TH BẮC NINH HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "caobang",
     "name": "CRTV - TH CAO BẰNG HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "dienbien",
     "name": "ĐTV - TH ĐIỆN BIÊN HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "haiphong",
     "name": "THP - TH TP. HẢI PHÒNG HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "haiphong3",
     "name": "THP3 - TH TP. HẢI PHÒNG 3 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "hungyen",
     "name": "HYTV - TH HƯNG YÊN HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "laichau",
     "name": "LTV - TH LAI CHÂU HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "langson",
     "name": "LSTV - TH LẠNG SƠN HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "laocai",
     "name": "THLC - TH LÀO CAI HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "ninhbinh",
     "name": "NBTV - TH NINH BÌNH HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "phutho",
     "name": "PTV - TH PHÚ THỌ HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "quangninh1",
-    "name": "QTV1 - TH QUẢNG NINH 1 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "name": "QTV1 - TH QUẢNG NINH 1 HD",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "quangninh3",
-    "name": "QTV3 - TH QUẢNG NINH 3 HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "name": "QTV3 - TH QUẢNG NINH 3 HD",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "sonla",
     "name": "SNews - TH SƠN LA HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "thainguyen",
     "name": "TN - TH THÁI NGUYÊN HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   },
   {
     "id": "tuyenquang",
     "name": "TTV - TH TUYÊN QUANG HD",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country": "VN",
+    "country": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
     "categories": [
       "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG"
-    ],
-    "is_nsfw": false,
-    "launched": null,
-    "closed": null,
-    "replaced_by": null,
-    "website": null
+    ]
   }
 ]
