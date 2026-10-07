@@ -1,5 +1,25 @@
 [
     {
+      "name": "TQM•TV",
+      "bundle": "com.tqm-mos.tqmtv",
+      "icon": "img/icon/tqmtv.png",
+      "banner": "img/banner/tqmtv.png",
+      "features":  [
+        "Xem TV , Bóng Đá"
+    ],
+      "versions": [
+    {
+      "version":"1.2.3",
+      "link":"https://link4m.net/ybpX6iC"
+    },
+    {
+      "version":"1.2.3",
+      "link":"https://archive.org/download/tqmo-tv-1.2.3_202610/TQM%E2%80%A2TV_1.2.3.ipa",
+      "vip": true
+    }
+  ]
+    },
+    {
       "name": "Reface",
       "bundle": "com.neocortext.doublicatapp",
       "icon": "img/icon/Reface.png",
