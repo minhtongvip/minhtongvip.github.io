@@ -9,24 +9,8 @@
     "is_nsfw": false
   },
   {
-    "id": "vtv1hdvip",
-    "name": "VTV1 HD VIP",
-    "country": "KÊNH VTV",
-    "categories": [
-      "KÊNH VTV"
-    ]
-  },
-  {
     "id": "vtv2hd",
     "name": "VTV2 HD",
-    "country": "KÊNH VTV",
-    "categories": [
-      "KÊNH VTV"
-    ]
-  },
-  {
-    "id": "vtv2hdvip",
-    "name": "VTV2 HD VIP",
     "country": "KÊNH VTV",
     "categories": [
       "KÊNH VTV"
@@ -41,14 +25,6 @@
     ]
   },
   {
-    "id": "vtv3hdvip",
-    "name": "VTV3 HD VIP",
-    "country": "KÊNH VTV",
-    "categories": [
-      "KÊNH VTV"
-    ]
-  },
-  {
     "id": "vtv4hd",
     "name": "VTV4 HD",
     "country": "KÊNH VTV",
@@ -57,40 +33,8 @@
     ]
   },
   {
-    "id": "vtv4hdvip",
-    "name": "VTV4 HD VIP",
-    "country": "KÊNH VTV",
-    "categories": [
-      "KÊNH VTV"
-    ]
-  },
-  {
-    "id": "vietnamtoday",
-    "name": "VIETNAM TODAY HD",
-    "country": "KÊNH THIẾT YẾU",
-    "categories": [
-      "KÊNH THIẾT YẾU"
-    ]
-  },
-  {
-    "id": "vietnamtodayvip",
-    "name": "VIETNAM TODAY HD VIP",
-    "country": "KÊNH THIẾT YẾU",
-    "categories": [
-      "KÊNH THIẾT YẾU"
-    ]
-  },
-  {
     "id": "vtv5hd",
     "name": "VTV5 HD",
-    "country": "KÊNH VTV",
-    "categories": [
-      "KÊNH VTV"
-    ]
-  },
-  {
-    "id": "vtv5hdvip",
-    "name": "VTV5 HD VIP",
     "country": "KÊNH VTV",
     "categories": [
       "KÊNH VTV"
@@ -105,24 +49,8 @@
     ]
   },
   {
-    "id": "vtv5hdtnbvip",
-    "name": "VTV5 TÂY NAM BỘ HD VIP",
-    "country": "KÊNH VTV",
-    "categories": [
-      "KÊNH VTV"
-    ]
-  },
-  {
     "id": "vtv5hdtn",
     "name": "VTV5 TÂY NGUYÊN HD",
-    "country": "KÊNH VTV",
-    "categories": [
-      "KÊNH VTV"
-    ]
-  },
-  {
-    "id": "vtv5hdtnvip",
-    "name": "VTV5 TÂY NGUYÊN HD VIP",
     "country": "KÊNH VTV",
     "categories": [
       "KÊNH VTV"
@@ -137,24 +65,8 @@
     ]
   },
   {
-    "id": "vtv6hdvip",
-    "name": "VTV6 HD VIP",
-    "country": "KÊNH VTV",
-    "categories": [
-      "KÊNH VTV"
-    ]
-  },
-  {
     "id": "vtv7hd",
     "name": "VTV7 HD",
-    "country": "KÊNH VTV",
-    "categories": [
-      "KÊNH VTV"
-    ]
-  },
-  {
-    "id": "vtv7hdvip",
-    "name": "VTV7 HD VIP",
     "country": "KÊNH VTV",
     "categories": [
       "KÊNH VTV"
@@ -169,24 +81,8 @@
     ]
   },
   {
-    "id": "vtv8hdvip",
-    "name": "VTV8 HD VIP",
-    "country": "KÊNH VTV",
-    "categories": [
-      "KÊNH VTV"
-    ]
-  },
-  {
     "id": "vtv9hd",
     "name": "VTV9 HD",
-    "country": "KÊNH VTV",
-    "categories": [
-      "KÊNH VTV"
-    ]
-  },
-  {
-    "id": "vtv9hdvip",
-    "name": "VTV9 HD VIP",
     "country": "KÊNH VTV",
     "categories": [
       "KÊNH VTV"
@@ -201,11 +97,11 @@
     ]
   },
   {
-    "id": "vtv10hdvip",
-    "name": "VTV10 HD VIP",
-    "country": "KÊNH VTV",
+    "id": "vietnamtoday",
+    "name": "VIETNAM TODAY HD",
+    "country": "KÊNH THIẾT YẾU",
     "categories": [
-      "KÊNH VTV"
+      "KÊNH THIẾT YẾU"
     ]
   },
   {
@@ -214,6 +110,14 @@
     "country": "KÊNH TVB VIỆT NAM",
     "categories": [
       "KÊNH TVB VIỆT NAM"
+    ]
+  },
+  {
+    "id": "fptthethaogiaitri",
+    "name": "FPT Play Thể Thao - Giải Trí",
+    "country": "KÊNH FPT Play",
+    "categories": [
+      "KÊNH FPT Play"
     ]
   },
   {
@@ -369,6 +273,14 @@
     ]
   },
   {
+    "id": "tv360hanhdongchaua",
+    "name": "TV360 Hành Động Châu Á",
+    "country": "KÊNH TV360",
+    "categories": [
+      "KÊNH TV360"
+    ]
+  },
+  {
     "id": "tv360kdrama",
     "name": "TV360 K-Drama",
     "country": "KÊNH TV360",
@@ -419,6 +331,22 @@
   {
     "id": "tv360phim4k",
     "name": "TV360 Phim 4K",
+    "country": "KÊNH TV360",
+    "categories": [
+      "KÊNH TV360"
+    ]
+  },
+  {
+    "id": "tv360congthuc1",
+    "name": "TV360 Công Thức 1",
+    "country": "KÊNH TV360",
+    "categories": [
+      "KÊNH TV360"
+    ]
+  },
+  {
+    "id": "tv360golf",
+    "name": "TV360 Golf",
     "country": "KÊNH TV360",
     "categories": [
       "KÊNH TV360"

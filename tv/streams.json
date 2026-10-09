@@ -2,137 +2,77 @@
   {
     "channel": "vtv1hd",
     "title": "VTV1 HD",
-    "url": "https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8"
-  },
-  {
-    "channel": "vtv1hdvip",
-    "title": "VTV1 HD VIP",
     "url": "https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8"
   },
   {
     "channel": "vtv2hd",
     "title": "VTV2 HD",
-    "url": "https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8"
-  },
-  {
-    "channel": "vtv2hdvip",
-    "title": "VTV2 HD VIP",
     "url": "https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8"
   },
   {
     "channel": "vtv3hd",
     "title": "VTV3 HD",
-    "url": "https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8"
-  },
-  {
-    "channel": "vtv3hdvip",
-    "title": "VTV3 HD VIP",
     "url": "https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8"
   },
   {
     "channel": "vtv4hd",
     "title": "VTV4 HD",
-    "url": "https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8"
-  },
-  {
-    "channel": "vtv4hdvip",
-    "title": "VTV4 HD VIP",
     "url": "https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8"
-  },
-  {
-    "channel": "vietnamtoday",
-    "title": "VIETNAM TODAY HD",
-    "url": "https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8"
-  },
-  {
-    "channel": "vietnamtodayvip",
-    "title": "VIETNAM TODAY HD VIP",
-    "url": "https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8"
   },
   {
     "channel": "vtv5hd",
     "title": "VTV5 HD",
-    "url": "https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8"
-  },
-  {
-    "channel": "vtv5hdvip",
-    "title": "VTV5 HD VIP",
     "url": "https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8"
   },
   {
     "channel": "vtv5hdtnb",
     "title": "VTV5 TÂY NAM BỘ HD",
-    "url": "https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8"
-  },
-  {
-    "channel": "vtv5hdtnbvip",
-    "title": "VTV5 TÂY NAM BỘ HD VIP",
     "url": "https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8"
   },
   {
     "channel": "vtv5hdtn",
     "title": "VTV5 TÂY NGUYÊN HD",
-    "url": "https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/index.m3u8"
-  },
-  {
-    "channel": "vtv5hdtnvip",
-    "title": "VTV5 TÂY NGUYÊN HD VIP",
     "url": "https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8"
   },
   {
     "channel": "vtv6hd",
     "title": "VTV6 HD",
-    "url": "https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8"
-  },
-  {
-    "channel": "vtv6hdvip",
-    "title": "VTV6 HD VIP",
     "url": "https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8"
   },
   {
     "channel": "vtv7hd",
     "title": "VTV7 HD",
-    "url": "https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8"
-  },
-  {
-    "channel": "vtv7hdvip",
-    "title": "VTV7 HD VIP",
     "url": "https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8"
   },
   {
     "channel": "vtv8hd",
     "title": "VTV8 HD",
-    "url": "https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8"
-  },
-  {
-    "channel": "vtv8hdvip",
-    "title": "VTV8 HD VIP",
     "url": "https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=10000-mp4a_131600=20000.m3u8"
   },
   {
     "channel": "vtv9hd",
     "title": "VTV9 HD",
-    "url": "https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8"
-  },
-  {
-    "channel": "vtv9hdvip",
-    "title": "VTV9 HD VIP",
     "url": "https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8"
   },
   {
     "channel": "vtv10hd",
     "title": "VTV10 HD",
-    "url": "https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8"
+    "url": "https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8"
   },
   {
-    "channel": "vtv10hdvip",
-    "title": "VTV10 HD VIP",
-    "url": "https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8"
+    "channel": "vietnamtoday",
+    "title": "VIETNAM TODAY HD",
+    "url": "https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8"
   },
   {
     "channel": "tvbvn",
     "title": "TVB VIỆT NAM",
     "url": "https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8"
+  },
+  {
+    "channel": "fptthethaogiaitri",
+    "title": "FPT Play Thể Thao - Giải Trí",
+    "url": "https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/fptplay-avc1_5600000=10000-mp4a_131600=20000.m3u8"
   },
   {
     "channel": "onviegiaitri",
@@ -220,6 +160,11 @@
     "url": "https://vmttv.dpdns.org/tv360/?id=360-hoa-ngu"
   },
   {
+    "channel": "tv360hanhdongchaua",
+    "title": "TV360 Hành Động Châu Á",
+    "url": "https://vmttv.dpdns.org/tv360/?id=360-hanh-dong-chau-a"
+  },
+  {
     "channel": "tv360kdrama",
     "title": "TV360 K-Drama",
     "url": "https://vmttv.dpdns.org/tv360/?id=360-k-drama"
@@ -248,6 +193,16 @@
     "channel": "tv360phim4k",
     "title": "TV360 Phim 4K",
     "url": "https://vmttv.dpdns.org/tv360/?id=360-phim-4k"
+  },
+  {
+    "channel": "tv360congthuc1",
+    "title": "TV360 Công Thức 1",
+    "url": "https://vmttv.dpdns.org/tv360/?id=360-cong-thuc-1"
+  },
+  {
+    "channel": "tv360golf",
+    "title": "TV360 Golf",
+    "url": "https://vmttv.dpdns.org/tv360/?id=360-golf"
   },
   {
     "channel": "sctv6hd",
