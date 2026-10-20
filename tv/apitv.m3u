@@ -30,6 +30,18 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://i.imgur.com/p9bWxfm.png", Vietnam Today
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://tqm-mos.com/img/logo/TV360C1.png", TV360 C1 Châu Âu
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-c1-chau-au
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269925378/3875f76de1cd_640_360.png", TV360 C2 Châu Âu
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-c2-chau-au
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269965595/9f150757c9e3_640_360.png", TV360 C3 Châu Âu
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-c3-chau-au
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/00/1776274695415/4b2703dbb4c4_640_360.png", TV360 Thể Thao Châu Á
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=360-the-thao-chau-a
 #EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9904
@@ -365,6 +377,7 @@ https://vmttv.dpdns.org/tv360/?id=hitv
 #EXTINF:-1 tvg-id="youtv" group-title="Địa phương" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png", YouTV
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 
+
 #EXTINF:-1 tvg-id="cartoonhd" group-title="KÊNH THIẾU NHI" group-logo="https://i.imgur.com/gQWANtJ.png" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK HD
 http://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/yVfSqNg.png",CARTOONITO HD
@@ -436,6 +449,7 @@ https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/06/03/22/1717427367441/869de47c9504_640_360.png", History HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
+
 
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://daknong.1cdn.vn/2025/02/06/den-am-hon-review-phim-va-lich-chieu-tai-viet-nam.jpg", Đèn Âm Hồn: Người Con Gái Nam Xương
 https://s6.kkphimplayer6.com/20250811/miyJKDrj/3500kb/hls/index.m3u8
@@ -562,6 +576,7 @@ https://rumble.com/hls-vod/I43eXt8DNJE/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT_ECS/2026/10/12/baytienthefataldealz20261920x10801_1791800464791.jpg", Bẫy Tiền: Cú Lừa Tiền Tỉ
 https://a.kvp726.com/20261013/cbcYptZk/3500kb/hls/index.m3u8
 
+
 #EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://ukradiolive.com/public/uploads/radio_img/heart-london/fb_cover.jpg", Heart FM UK
 https://media-ssl.musicradio.com/HeartUK
 #EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://www.globalplayer.com/assets/track-placeholders/capital.jpg", Capital Radio UK
@@ -662,12 +677,12 @@ http://3bb.engatetv.com:25461/hstn/line/14
 #EXTINF:-1 group-title="🇹🇭| Thái Lan" tvg-logo="https://www.thairath.co.th/assets/tv/img/share_tv.jpg", Thairath TV 32
 http://3bb.engatetv.com:25461/hstn/line/17
 
+
 #EXTINF:-1 tvg-id="vov1" group-title="Radio" tvg-logo="https://admin.vov.gov.vn/UploadFolder/KhoTin/Images/UploadFolder/VOVVN/Images/sites/default/files/2024-02/vov1.jpg", VOV1
 https://tg030gr4nhct1gwzdrcbqgrhdqmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov1.m3u8
 #EXTINF:-1 tvg-id="vov2" group-title="Radio" tvg-logo="https://vov2.vov.vn/themes/custom/vov_news/logo.png", VOV2
 https://tg030gr4nhct1gwzdrcbqgrhdqmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov2.m3u8
 #EXTINF:-1 tvg-id="vov3" group-title="Radio" tvg-logo="https://vov3.vov.vn/sites/default/files/styles/front_medium/public/2021-12/Logo%20VOV3%20800x600%20edit.jpg", VOV3
-
 #EXTINF:-1 tvg-id="vov5" group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788035.png.webp", VOV5
 https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgthn" group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671787624.png.webp", VOV Giao thông Hà Nội
