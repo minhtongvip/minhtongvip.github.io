@@ -34,6 +34,35 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 
 
 
+#EXTINF:-1 tvg-id="vtv1" tvg-logo="https://i.postimg.cc/F1FvzstX/V1.png" group-title="KÊNH VTV",VTV1
+https://freem3u.xyz/api/live/play.m3u8?vid=2
+#EXTINF:-1 tvg-id="vtv2" tvg-logo="https://i.postimg.cc/yDR4tDRm/V2.png" group-title="KÊNH VTV",VTV2
+https://vmttv.dpdns.org/tv360/?id=vtv2
+#EXTINF:-1 tvg-id="vtv3" tvg-logo="https://i.postimg.cc/B8cWZRM0/V3.png" group-title="KÊNH VTV",VTV3
+https://vmttv.dpdns.org/tv360/?id=vtv3
+#EXTINF:-1 tvg-id="vtv4" tvg-logo="https://i.postimg.cc/Wqzxnzj0/V4.png" group-title="KÊNH VTV",VTV4
+https://vmttv.dpdns.org/tv360/?id=vtv4
+#EXTINF:-1 tvg-id="vtv5" tvg-logo="https://i.postimg.cc/ZC91vWVM/V5.png" group-title="KÊNH VTV",VTV5
+https://freem3u.xyz/api/live/play.m3u8?vid=110
+#EXTINF:-1 tvg-id="vtv5tnb" tvg-logo="https://i.postimg.cc/68ngzDsM/V5TNB.png" group-title="KÊNH VTV",VTV5 TNB
+https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
+#EXTINF:-1 tvg-id="vtv5tn" tvg-logo="https://i.postimg.cc/HcZhVm5d/V5TN.png" group-title="KÊNH VTV",VTV5 TN
+https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen
+#EXTINF:-1 tvg-id="vtv6" tvg-logo="https://i.postimg.cc/t7Jc81QZ/V6.png" group-title="KÊNH VTV",VTV6
+https://vmttv.dpdns.org/tv360/?id=vtv6
+#EXTINF:-1 tvg-id="vtv7" tvg-logo="https://i.postimg.cc/ykSbYwN8/V7.png" group-title="KÊNH VTV",VTV7
+https://vmttv.dpdns.org/tv360/?id=vtv7
+#EXTINF:-1 tvg-id="vtv8" tvg-logo="https://i.postimg.cc/k2QYWK8w/V8.png" group-title="KÊNH VTV",VTV8
+https://vmttv.dpdns.org/tv360/?id=vtv8
+#EXTINF:-1 tvg-id="vtv9" tvg-logo="https://i.postimg.cc/phT0NSS6/V9.png" group-title="KÊNH VTV",VTV9
+https://vmttv.dpdns.org/tv360/?id=vtv9
+#EXTINF:-1 tvg-id="vtv10" tvg-logo="https://i.postimg.cc/4nY8BrVK/V10.png" group-title="KÊNH VTV",VTV10
+https://vmttv.dpdns.org/tv360/?id=vtv10
+#EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://i.imgur.com/p9bWxfm.png" group-title="KÊNH THIẾT YẾU",VIETNAM TODAY
+https://freem3u.xyz/api/live/play.m3u8?vid=9951
+
+
+
 #EXTINF:-1 group-title="Thể Thao" tvg-logo="https://tqm-mos.com/img/logo/TV360C1.png", TV360 C1 Châu Âu
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-c1-chau-au
