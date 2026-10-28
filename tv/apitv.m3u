@@ -390,7 +390,7 @@ https://cdn.baoquangninh.vn/live/285f5e4256ea38d48eebdc6175909c847fe/chunklist.m
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="sonla" tvg-logo="https://i.postimg.cc/3JnLC20C/Snews.png" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",SNews - TH SƠN LA HD
 https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
-#EXTINF:-1 tvg-id="thainguyen" tvg-logo="https://i.imgur.com/P3pbab8.png" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",TN - TH THÁI NGUYÊN HD
+#EXTINF:-1 tvg-id="thainguyen" tvg-logo="https://i.imgur.com/P3pbab8.png" group-title="ĐỊA PHƯƠNG",TN - TH THÁI NGUYÊN
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="tuyenquang" tvg-logo="https://i.imgur.com/Pfq3ix9.png" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",TTV - TH TUYÊN QUANG HD
 https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
@@ -552,40 +552,40 @@ https://vmttv.dpdns.org/tv360/?id=hitv
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 
 
-#EXTINF:-1 tvg-id="cartoonhd" group-title="KÊNH THIẾU NHI" group-logo="https://i.imgur.com/gQWANtJ.png" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="cartoon" group-title="KÊNH THIẾU NHI" group-logo="https://i.imgur.com/gQWANtJ.png" tvg-logo="https://i.imgur.com/6oXQdBZ.png",CARTOON NETWORK
 http://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-id="boomerang" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/yVfSqNg.png",CARTOONITO HD
+#EXTINF:-1 tvg-id="boomerang" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/yVfSqNg.png",CARTOONITO
 http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-name="CCTV14" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/SORrhtE.png",CCTV14
 http://cdn4.skygo.mn/live/disk1/CCTV-14/HLSv3-FTA/CCTV-14.m3u8
-#EXTINF:-1 tvg-id="ducktv" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/gRFQ35W.png",DUCK TV HD
+#EXTINF:-1 tvg-id="ducktv" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/gRFQ35W.png",DUCK TV
 https://dash.antik.sk/live/duck_tv/index.m3u8
-#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/ciTJrnl.png",ZOOMOO HD
+#EXTINF:-1 tvg-id="zoomoo" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/ciTJrnl.png",ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="2011" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/i2AP0hp.png",Ani
+#EXTINF:-1 tvg-id="ani" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/i2AP0hp.png",Ani
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/306/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2o5T0gi.png" group-title="KÊNH THIẾU NHI",Balapan
+#EXTINF:-1 tvg-id="balapan" tvg-logo="https://i.imgur.com/2o5T0gi.png" group-title="KÊNH THIẾU NHI",Balapan
 http://live-3.otcnet.ru/Balapan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="2195" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/wKfB79s.png",Ahekaot TB
+#EXTINF:-1 tvg-id="ahekaot" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/wKfB79s.png",Ahekaot TB
 http://api.dommir.top/ch/Anekdot_TV/playlist.m3u8
-#EXTINF:-1 tvg-id="2212" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/jNJkLHl.png",Y CKA3KN
+#EXTINF:-1 tvg-id="cka3kn" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/jNJkLHl.png",Y CKA3KN
 http://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="300149" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/t1BjtBvH/Det.png",Qetcruu
+#EXTINF:-1 tvg-id="qetcruu" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.postimg.cc/t1BjtBvH/Det.png",Qetcruu
 http://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="2011" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/K3PSHiT.png",Kanntah
+#EXTINF:-1 tvg-id="kanntah" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/K3PSHiT.png",Kanntah
 http://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="300015" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/kmMIjjf.png",Мама
+#EXTINF:-1 tvg-id="mama" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/kmMIjjf.png",Мама
 http://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="1825" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/xi351Fx.png",Myabt
+#EXTINF:-1 tvg-id="myabt" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/xi351Fx.png",Myabt
 http://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="300012" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/ccwijY0.png",Mynbt Nnahanr
+#EXTINF:-1 tvg-id="mynbt" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/ccwijY0.png",Mynbt Nnahanr
 http://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="2224" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/pDc665V.png",О! International
+#EXTINF:-1 tvg-id="international" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/pDc665V.png",О! International
 http://cdn4.skygo.mn/live/disk1/O_Int/HLSv3-FTA/O_Int.m3u8
-#EXTINF:-1 tvg-id="2006" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/acrU2IE.png",Pbiwnn
+#EXTINF:-1 tvg-id="pbiwnn" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/acrU2IE.png",Pbiwnn
 http://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="3239" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/rec9akk.png",Corhue
+#EXTINF:-1 tvg-id="corhue" group-title="KÊNH THIẾU NHI" tvg-logo="https://i.imgur.com/rec9akk.png",Corhue
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 
 
@@ -599,11 +599,11 @@ https://live.fptplay53.net/fnxhd1/airanghd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978069/mediacorp/corporate/inline-images/CNA__370x180.jpg", CNA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=112
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/hq720.jpg", CGTN
+#EXTINF:-1 tvg-id="cgtn" group-title="Quốc Tế" tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/hq720.jpg", CGTN
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ytimg.com/vi/QbB9p0LDAyE/maxresdefault.jpg", CGTN Documentary
+#EXTINF:-1 tvg-id="cgtndocumentary" group-title="Quốc Tế" tvg-logo="https://i.ytimg.com/vi/QbB9p0LDAyE/maxresdefault.jpg", CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://information.tv5monde.com/sites/tv5-info/files/styles/entete/public/2023-11/tv5monde_logo.jpg", TV5Monde
+#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://information.tv5monde.com/sites/tv5-info/files/styles/entete/public/2023-11/tv5monde_logo.jpg", TV5Monde
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9852
 #EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://i.ytimg.com/vi/puzK9XqJ6-Y/hq720.jpg", DW
@@ -617,16 +617,16 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/654179-KBS.png", KBS World
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=213
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/nhkworld.png", NHK World
+#EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/nhkworld.png", NHK World
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8 
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png", Al Jazeera English
+#EXTINF:-1 tvg-id="aljazeera" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png", Al Jazeera English
 https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/425e1955860511.59ae62ac642ba.png", TRT World
+#EXTINF:-1 tvg-id="trtworld" group-title="Quốc Tế" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/425e1955860511.59ae62ac642ba.png", TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="outdoor" group-title="Quốc Tế" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_outdoor-channel_165649323545.png", Outdoor Channel
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/06/03/22/1717427367441/869de47c9504_640_360.png", History HD
+#EXTINF:-1 tvg-id="history" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/06/03/22/1717427367441/869de47c9504_640_360.png", History
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 
