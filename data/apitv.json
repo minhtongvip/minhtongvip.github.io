@@ -1,6 +1,10 @@
 {
   "codes": [
     {
+      "udid": "TV-SONY",
+      "okone": 1
+    },
+    {
       "udid": "01010-ANDROID-TV",
       "okone": 2
     },
