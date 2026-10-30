@@ -1,6 +1,10 @@
 {
   "codes": [
     {
+      "udid": "TV-XIAOMI",
+      "okone": 1
+    },
+    {
       "udid": "TV-SONY",
       "okone": 1
     },
