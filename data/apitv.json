@@ -1,11 +1,11 @@
 {
   "codes": [
     {
-      "udid": "TV-XIAOMI",
-      "okone": 2
+      "udid": "03030-ANDROID-TV",
+      "okone": 1
     },
     {
-      "udid": "TV-SONY",
+      "udid": "02020-ANDROID-TV",
       "okone": 1
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "udid": "da0909848a8ca7d03714db3817e2309b08cda707",
-      "okone": 1
+      "okone": 2
     }
   ]
 }
