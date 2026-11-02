@@ -1,16 +1,16 @@
 {
   "codes": [
     {
-      "udid": "03030-ANDROID-TV",
+      "udid": "03030-TV",
       "okone": 1
     },
     {
-      "udid": "02020-ANDROID-TV",
-      "okone": 2
+      "udid": "02020-TV",
+      "okone": 1
     },
     {
-      "udid": "01010-ANDROID-TV",
-      "okone": 2
+      "udid": "01010-TV",
+      "okone": 1
     },
     {
       "udid": "001105883C10C01E-ANDROID",
