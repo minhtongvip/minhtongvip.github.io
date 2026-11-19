@@ -1,0 +1,13 @@
+{
+  "version": "4.2.1",
+  "build": 4,
+  "force_update": false,
+  "title": "🎉 TQM•📺 có phiên bản mới!",
+  "message": "Đã có phiên bản mới với nhiều cải tiến và sửa lỗi. Cập nhật ngay để trải nghiệm tốt hơn.",
+  "download_url": "https://example.com/TQM.ipa",
+  "release_notes": [
+    "Thêm thông báo các trận Bóng và Phim mới cập nhật.",
+    "Nâng cao độ ổn định và cải tiến trình phát."
+  ],
+  "published_at": "2026-11-19"
+}
