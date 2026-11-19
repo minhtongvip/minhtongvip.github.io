@@ -3,10 +3,11 @@
   "build": 4,
   "force_update": false,
   "title": "🎉 TQM•📺 có phiên bản mới!",
-  "message": "Đã có phiên bản mới với nhiều cải tiến và sửa lỗi. Cập nhật ngay để trải nghiệm tốt hơn.",
-  "download_url": "https://example.com/TQM.ipa",
+  "message": "Phiên bản 📺 : 4.2.1",
+  "download_url": "https://tqm-mos.com/tv/TQM.ipa",
   "release_notes": [
-    "Thêm thông báo các trận Bóng và Phim mới cập nhật.",
+    "Đã thêm tính năng thông báo các trận Bóng và Phim mới cập nhật.",
+    "Khi mở Tab Bóng Đá sẽ hiện khung báo các trận Bóng trong ngày.",
     "Nâng cao độ ổn định và cải tiến trình phát."
   ],
   "published_at": "2026-11-19"
