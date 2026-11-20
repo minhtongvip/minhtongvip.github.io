@@ -1,16 +1,8 @@
 {
   "codes": [
     {
-      "udid": "da07dbo379473817e2309b08cda8026he47hk8",
-      "okone": 2
-    },
-    {
-      "udid": "a8ca7dbo379473817e2309b08cda8026",
-      "okone": 2
-    },
-    {
       "udid": "da0ca7dbo379473817e2309b08cda802669462",
-      "okone": 1
+      "okone": 2
     },
     {
       "udid": "da090a8ca7dbo379473817e2309b08cda802669462",
@@ -22,6 +14,14 @@
     },
     {
       "udid": "da090a8ca7ddb3817e2309b08cda8011002266",
+      "okone": 2
+    },
+    {
+      "udid": "da07dbo379473817e2309b08cda8026he47hk8",
+      "okone": 2
+    },
+    {
+      "udid": "a8ca7dbo379473817e2309b08cda8026",
       "okone": 2
     },
     {
