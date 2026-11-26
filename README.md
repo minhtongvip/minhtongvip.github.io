@@ -1,1 +1,1 @@
-# minhtongvip.github.io
+# Bản Quyền Thuộc Về Trần Quang Minh

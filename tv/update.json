@@ -1,0 +1,14 @@
+{
+  "version": "4.2.6",
+  "build": 4.2.6,
+  "force_update": false,
+  "title": "🎉 TQM•📺 có phiên bản mới!",
+  "message": "Chức năng :",
+  "download_url": "https://tqm-mos.com/tv/TQM•📺-4.2.6.ipa",
+  "release_notes": [
+    "Hỗ trợ phát .mpd",
+    "Hiển thị lịch phát sóng các kênh.",
+    "Hiển thị tín hiệu kênh.",
+    "Thêm bộ giải mã video , dung lượng App đã thay đổi ( 19MB )."
+  ]
+}
