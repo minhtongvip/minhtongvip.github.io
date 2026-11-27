@@ -1,9 +1,8 @@
 {
-  "versionCode": 3,
   "versionName": "2.1.",
-  "forceUpdate": false,
-  "title": "🎉 TQM•TV có phiên bản mới!",
+  "versionCode": 3,
     "apkUrl": "https://tqm-mos.com/tv/TQM•📺-2.1.apk",
+  "title": "🎉 TQM•TV có phiên bản mới!",
   "changelog": [
     "Sửa lỗi khi tìm kiếm trên Tivi."
   ]
