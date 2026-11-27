@@ -272,7 +272,7 @@ https://1011154949.vnns.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcdulich" tvg-logo="https://i.imgur.com/mDemDFL.png" group-title="HTV",HTV Du Lịch
 https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://i.imgur.com/Al6xJme.png" group-title="HTVC",HTVC GIA ĐÌNH
+#EXTINF:-1 tvg-id="htvcgiadinh" tvg-logo="https://i.imgur.com/Al6xJme.png" group-title="HTVC",HTVC GIA ĐÌNH
 https://1011154949.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htvcphim" tvg-logo="https://i.imgur.com/P0wqvmu.png" group-title="HTVC",HTVC PHIM
